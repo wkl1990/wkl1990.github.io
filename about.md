@@ -14,6 +14,10 @@ Genetics, epigenetics and bioinformatics.
 
 ### Contact me
 
-[email](mailto:wangkangli@sklmg.edu.cn)
+[Email](mailto:wangkangli@sklmg.edu.cn)
 
-[github](https://github.com/wkl1990)
+[Github](https://github.com/wkl1990)
+
+[ResearchGate](https://www.researchgate.net/profile/Kangli_Wang)
+
+[LinkedIn](https://www.linkedin.com/in/%E5%BA%B7%E5%88%A9-%E7%8E%8B-7a840297/)
