@@ -14,7 +14,7 @@ Genetics, epigenetics and bioinformatics.
 
 ### Contact me
 
-[Email](mailto:wangkangli@sklmg.edu.cn)
+[Email](mailto:kaw033@health.ucsd.edu)
 
 [Github](https://github.com/wkl1990)
 
