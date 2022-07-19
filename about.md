@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-A Ph.D. candidate.
+A postdoc at UCSD.
 
-Central South University, Changsha, China!
+UCSanDiego, La Jolla, CA!
 
 ### More Information
 
