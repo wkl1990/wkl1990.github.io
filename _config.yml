@@ -10,7 +10,7 @@ description: Biology, bioinformatics, statistics.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 # avatar: http://f.cl.ly/items/2W0R401Y2p2q1K1g3l06/5070_1280x1024.jpg
-avatar: {{ site.baseurl }}/images/config.png
+avatar: /images/config.png
 
 #
 # Flags below are optional
