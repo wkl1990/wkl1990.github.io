@@ -18,7 +18,7 @@ Genetics, epigenetics and bioinformatics.
 
 [Github](https://github.com/wkl1990)
 
-[Google Scholar] (https://scholar.google.com/citations?user=q4xr9wgAAAAJ&hl=zh-CN)
+[Google Scholar](https://scholar.google.com/citations?user=q4xr9wgAAAAJ&hl=zh-CN)
 
 [ResearchGate](https://www.researchgate.net/profile/Kangli_Wang)
 
