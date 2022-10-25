@@ -13,5 +13,25 @@ layout: default
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
 
+   <!-- link -->
+  <div class="updownlink">
+    {%if page.previous%}
+    <span class="next fl">
+      Last：
+      <a href="{{page.previous.url}}">
+        {{page.previous.title}}
+      </a>
+    </span>
+    {%endif%} 
+    {%if page.next%}
+    <span class="prev fr">
+      Next：
+      <a href="{{page.next.url}}">
+        {{page.next.title}}
+      </a>
+    </span>
+    {%endif%}
+  </div>
+
   {% include disqus.html %}
 </article>
