@@ -10,7 +10,8 @@ permalink: /about/
 
 ### More Information  
 
- Genetics, epigenetics and bioinformatics.  
+ Genetics, epigenetics and bioinformatics. 
+ For more info. see my [CV](https://wkl1990.github.io/CV/). 
 
 ### Contact me  
 
