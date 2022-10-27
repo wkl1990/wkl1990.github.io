@@ -14,16 +14,16 @@
 			zoom:1;
 		}
 		img {
-			width: 800px;
-			height: 450px;
+			width: 3334px;
+			height: 1875px;
 			margin: 50px 0 0 50px;
 		}
 		#overlay {
 			display: none;
 			position: absolute;
 			background-color: rgba(0,0,256,0.3);
-			width: 100px;
-			height: 100px;
+			width: 418px;
+			height: 418px;
 			display: block;
 			//border: 1px solid #00F;
 			zoom:1;
@@ -37,15 +37,15 @@
   in 2021!
 </div>
 <img id='img1' src="epigeneticsGCP.jpg" alt="Cat">
-<canvas id="drawing" width="400" height="400">not support canvas</canvas>
+<canvas id="drawing" width="1672" height="1672">not support canvas</canvas>
 <div id="overlay"></div>
 	<script>
 	var img = document.getElementById("img1");
 	var canvas = document.getElementById("drawing");
 	var overlay = document.getElementById("overlay");
 	var context = canvas.getContext('2d');  
-	var width = 100;
-	var height = 100;
+	var width = 418;
+	var height = 418;
 	var mouseX;
 	var	mouseY;
 	var overLay_mouseover = false;
@@ -62,11 +62,11 @@
    		mouseY = e.pageY;
 
    		//碰撞检测
-   		if(mouseX-offsetX+width>800){
-   			mouseX = 800 - width + offsetX;			
+   		if(mouseX-offsetX+width>3334){
+   			mouseX = 3334 - width + offsetX;			
    		}
-   		if(mouseY-offsetY+height>450){
-   			mouseY = 450 - height + offsetY;
+   		if(mouseY-offsetY+height>1875){
+   			mouseY = 1875 - height + offsetY;
    		}
    		
     	overlay.style.cssText = "display:block;left:"+mouseX+'px'+";top:"+mouseY+'px';
