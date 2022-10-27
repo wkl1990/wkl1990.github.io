@@ -14,8 +14,8 @@
 			zoom:1;
 		}
 		img {
-			width: 3334px;
-			height: 1875px;
+			width: 800px;
+			height: 450px;
 			margin: 50px 0 0 50px;
 		}
 		#overlay {
@@ -62,11 +62,11 @@
    		mouseY = e.pageY;
 
    		//碰撞检测
-   		if(mouseX-offsetX+width>3334){
-   			mouseX = 3334 - width + offsetX;			
+   		if(mouseX-offsetX+width>800){
+   			mouseX = 800 - width + offsetX;			
    		}
-   		if(mouseY-offsetY+height>1875){
-   			mouseY = 1875 - height + offsetY;
+   		if(mouseY-offsetY+height>450){
+   			mouseY = 450 - height + offsetY;
    		}
    		
     	overlay.style.cssText = "display:block;left:"+mouseX+'px'+";top:"+mouseY+'px';
