@@ -14,8 +14,8 @@
 			zoom:1;
 		}
 		img {
-			width: 2000px;
-			height: 797px;
+			width: 800px;
+			height: 450px;
 			margin: 50px 0 0 50px;
 		}
 		#overlay {
@@ -52,7 +52,7 @@
 	var img_mouseover = false;
    
 
-	//图片相对于屏幕的坐标位置
+	//position of pic relative to screen
 	var offsetX = img.offsetLeft;
 	var offsetY = img.offsetTop;
 
@@ -62,11 +62,11 @@
    		mouseY = e.pageY;
 
    		//碰撞检测
-   		if(mouseX-offsetX+width>2000){
-   			mouseX = 2000 - width + offsetX;			
+   		if(mouseX-offsetX+width>800){
+   			mouseX = 800 - width + offsetX;			
    		}
-   		if(mouseY-offsetY+height>797){
-   			mouseY = 797 - height + offsetY;
+   		if(mouseY-offsetY+height>450){
+   			mouseY = 450 - height + offsetY;
    		}
    		
     	overlay.style.cssText = "display:block;left:"+mouseX+'px'+";top:"+mouseY+'px';
