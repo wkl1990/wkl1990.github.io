@@ -183,7 +183,7 @@ System.prototype = {
 			}
 			//点击事件为删除事件;第一个默认项目不可删除
 			else if(e.target.className === 'del-btn'&& that.activeProjectDOM !== that.projectDOM.children[0]){
-				if(!confirm("确认删除项目及其下属任务？")) return;
+				if(!confirm("Are you sure to delete the project and related tasks？")) return;
 				//删除视图中对应的工程列
 		        that.projectDOM.removeChild(that.activeProjectDOM);
 		        // 找出对应li的工程名称
@@ -211,7 +211,7 @@ System.prototype = {
 
 			}
 			else if(e.target.className === 'del-btn'&& that.activeProjectDOM === that.projectDOM.children[0]){
-				alert("个人项目不可删除！");
+				alert("Personal project is not deletable！");
 			}
 
 			e.preventDefault();			
@@ -289,7 +289,7 @@ System.prototype = {
 			else if(e.target.className === 'del-btn'){
 				var t = e.target.parentNode;
 				var taskIndex = Array.prototype.indexOf.call(t.parentNode.childNodes, t);
-				var ifDel = confirm("该任务未完成，是否删除？");
+				var ifDel = confirm("Are you sure to delete a todo task？");
 				if(!ifDel) return;
 				//删除视图中任务的显示
 				that.todoDOM.removeChild(e.target.parentElement);
@@ -375,12 +375,12 @@ System.prototype = {
 		var newProjectName = document.querySelector('[name="project-name"]').value.trim();
 
 		if(!newProjectName || newProjectName == ""){
-			alert("项目名不能为空！");
+			alert("The name cannot be blank！");
 			return;
 		}
 		
 		if(this.projectList.indexOf(newProjectName)!==-1) {
-			alert('已经存在！请勿重复添加');
+			alert('The name has been used!');
 			return;
 		}
 		this.projectList.push(newProjectName);
@@ -415,7 +415,7 @@ System.prototype = {
 		var taskDate = document.querySelector('[name="task-date"]').value;
 		
 		if(!newTaskName || newTaskName == ""){
-			alert("任务不能为空！");
+			alert("Task cannot be blank！");
 			return;
 		}
 			
