@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2020-12-03 Diary!
+title: Graduate Diary!
 ---
 
 2020 is just done!
