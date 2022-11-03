@@ -1,0 +1,2492 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://teichlab.github.io/scg_lib_structs/
+Subject: 
+Date: Thu, 3 Nov 2022 18:06:44 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--bNu1n0NiayZuhKAZ6e9p9bHg8CnvbUeU1b4EhM0d8L----"
+
+
+------MultipartBoundary--bNu1n0NiayZuhKAZ6e9p9bHg8CnvbUeU1b4EhM0d8L----
+Content-Type: text/html
+Content-ID: <frame-AB18F8FF9EAFD86292A67F9D57459811@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://teichlab.github.io/scg_lib_structs/
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8"><meta name=3D"color-scheme" content=3D"light dark"></head><body><=
+div class=3D"line-gutter-backdrop"></div><form autocomplete=3D"off"><label =
+class=3D"line-wrap-control">=E8=87=AA=E5=8A=A8=E6=8D=A2=E8=A1=8C<input type=
+=3D"checkbox" aria-label=3D"=E8=87=AA=E5=8A=A8=E6=8D=A2=E8=A1=8C"></label><=
+/form><table><tbody><tr><td class=3D"line-number" value=3D"1"></td><td clas=
+s=3D"line-content"><span class=3D"html-doctype">&lt;!DOCTYPE html&gt;</span=
+></td></tr><tr><td class=3D"line-number" value=3D"2"></td><td class=3D"line=
+-content"><span class=3D"html-tag">&lt;html <span class=3D"html-attribute-n=
+ame">lang</span>=3D"<span class=3D"html-attribute-value">en-US</span>"&gt;<=
+/span></td></tr><tr><td class=3D"line-number" value=3D"3"></td><td class=3D=
+"line-content">  <span class=3D"html-tag">&lt;head&gt;</span></td></tr><tr>=
+<td class=3D"line-number" value=3D"4"></td><td class=3D"line-content">    <=
+span class=3D"html-tag">&lt;meta <span class=3D"html-attribute-name">charse=
+t</span>=3D"<span class=3D"html-attribute-value">UTF-8</span>"&gt;</span></=
+td></tr><tr><td class=3D"line-number" value=3D"5"></td><td class=3D"line-co=
+ntent">    <span class=3D"html-tag">&lt;meta <span class=3D"html-attribute-=
+name">http-equiv</span>=3D"<span class=3D"html-attribute-value">X-UA-Compat=
+ible</span>" <span class=3D"html-attribute-name">content</span>=3D"<span cl=
+ass=3D"html-attribute-value">IE=3Dedge</span>"&gt;</span></td></tr><tr><td =
+class=3D"line-number" value=3D"6"></td><td class=3D"line-content">    <span=
+ class=3D"html-tag">&lt;meta <span class=3D"html-attribute-name">name</span=
+>=3D"<span class=3D"html-attribute-value">viewport</span>" <span class=3D"h=
+tml-attribute-name">content</span>=3D"<span class=3D"html-attribute-value">=
+width=3Ddevice-width, initial-scale=3D1</span>"&gt;</span></td></tr><tr><td=
+ class=3D"line-number" value=3D"7"></td><td class=3D"line-content"><br></td=
+></tr><tr><td class=3D"line-number" value=3D"8"></td><td class=3D"line-cont=
+ent"><span class=3D"html-comment">&lt;!-- Begin Jekyll SEO tag v2.8.0 --&gt=
+;</span></td></tr><tr><td class=3D"line-number" value=3D"9"></td><td class=
+=3D"line-content"><span class=3D"html-tag">&lt;title&gt;</span>Single Cell =
+Genomics Library Structure | scg_lib_structs<span class=3D"html-tag">&lt;/t=
+itle&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"10"></td><t=
+d class=3D"line-content"><span class=3D"html-tag">&lt;meta <span class=3D"h=
+tml-attribute-name">name</span>=3D"<span class=3D"html-attribute-value">gen=
+erator</span>" <span class=3D"html-attribute-name">content</span>=3D"<span =
+class=3D"html-attribute-value">Jekyll v3.9.2</span>" /&gt;</span></td></tr>=
+<tr><td class=3D"line-number" value=3D"11"></td><td class=3D"line-content">=
+<span class=3D"html-tag">&lt;meta <span class=3D"html-attribute-name">prope=
+rty</span>=3D"<span class=3D"html-attribute-value">og:title</span>" <span c=
+lass=3D"html-attribute-name">content</span>=3D"<span class=3D"html-attribut=
+e-value">Single Cell Genomics Library Structure</span>" /&gt;</span></td></=
+tr><tr><td class=3D"line-number" value=3D"12"></td><td class=3D"line-conten=
+t"><span class=3D"html-tag">&lt;meta <span class=3D"html-attribute-name">pr=
+operty</span>=3D"<span class=3D"html-attribute-value">og:locale</span>" <sp=
+an class=3D"html-attribute-name">content</span>=3D"<span class=3D"html-attr=
+ibute-value">en_US</span>" /&gt;</span></td></tr><tr><td class=3D"line-numb=
+er" value=3D"13"></td><td class=3D"line-content"><span class=3D"html-tag">&=
+lt;meta <span class=3D"html-attribute-name">name</span>=3D"<span class=3D"h=
+tml-attribute-value">description</span>" <span class=3D"html-attribute-name=
+">content</span>=3D"<span class=3D"html-attribute-value">Collections of lib=
+rary structure and sequence of popular single cell genomic methods</span>" =
+/&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"14"></td><td c=
+lass=3D"line-content"><span class=3D"html-tag">&lt;meta <span class=3D"html=
+-attribute-name">property</span>=3D"<span class=3D"html-attribute-value">og=
+:description</span>" <span class=3D"html-attribute-name">content</span>=3D"=
+<span class=3D"html-attribute-value">Collections of library structure and s=
+equence of popular single cell genomic methods</span>" /&gt;</span></td></t=
+r><tr><td class=3D"line-number" value=3D"15"></td><td class=3D"line-content=
+"><span class=3D"html-tag">&lt;link <span class=3D"html-attribute-name">rel=
+</span>=3D"<span class=3D"html-attribute-value">canonical</span>" <span cla=
+ss=3D"html-attribute-name">href</span>=3D"<a class=3D"html-attribute-value =
+html-resource-link" target=3D"_blank" href=3D"https://teichlab.github.io/sc=
+g_lib_structs/" rel=3D"noreferrer noopener">https://teichlab.github.io/scg_=
+lib_structs/</a>" /&gt;</span></td></tr><tr><td class=3D"line-number" value=
+=3D"16"></td><td class=3D"line-content"><span class=3D"html-tag">&lt;meta <=
+span class=3D"html-attribute-name">property</span>=3D"<span class=3D"html-a=
+ttribute-value">og:url</span>" <span class=3D"html-attribute-name">content<=
+/span>=3D"<span class=3D"html-attribute-value">https://teichlab.github.io/s=
+cg_lib_structs/</span>" /&gt;</span></td></tr><tr><td class=3D"line-number"=
+ value=3D"17"></td><td class=3D"line-content"><span class=3D"html-tag">&lt;=
+meta <span class=3D"html-attribute-name">property</span>=3D"<span class=3D"=
+html-attribute-value">og:site_name</span>" <span class=3D"html-attribute-na=
+me">content</span>=3D"<span class=3D"html-attribute-value">scg_lib_structs<=
+/span>" /&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"18"></=
+td><td class=3D"line-content"><span class=3D"html-tag">&lt;meta <span class=
+=3D"html-attribute-name">property</span>=3D"<span class=3D"html-attribute-v=
+alue">og:type</span>" <span class=3D"html-attribute-name">content</span>=3D=
+"<span class=3D"html-attribute-value">website</span>" /&gt;</span></td></tr=
+><tr><td class=3D"line-number" value=3D"19"></td><td class=3D"line-content"=
+><span class=3D"html-tag">&lt;meta <span class=3D"html-attribute-name">name=
+</span>=3D"<span class=3D"html-attribute-value">twitter:card</span>" <span =
+class=3D"html-attribute-name">content</span>=3D"<span class=3D"html-attribu=
+te-value">summary</span>" /&gt;</span></td></tr><tr><td class=3D"line-numbe=
+r" value=3D"20"></td><td class=3D"line-content"><span class=3D"html-tag">&l=
+t;meta <span class=3D"html-attribute-name">property</span>=3D"<span class=
+=3D"html-attribute-value">twitter:title</span>" <span class=3D"html-attribu=
+te-name">content</span>=3D"<span class=3D"html-attribute-value">Single Cell=
+ Genomics Library Structure</span>" /&gt;</span></td></tr><tr><td class=3D"=
+line-number" value=3D"21"></td><td class=3D"line-content"><span class=3D"ht=
+ml-tag">&lt;script <span class=3D"html-attribute-name">type</span>=3D"<span=
+ class=3D"html-attribute-value">application/ld+json</span>"&gt;</span></td>=
+</tr><tr><td class=3D"line-number" value=3D"22"></td><td class=3D"line-cont=
+ent">{"@context":"https://schema.org","@type":"WebSite","description":"Coll=
+ections of library structure and sequence of popular single cell genomic me=
+thods","headline":"Single Cell Genomics Library Structure","name":"scg_lib_=
+structs","url":"https://teichlab.github.io/scg_lib_structs/"}<span class=3D=
+"html-tag">&lt;/script&gt;</span></td></tr><tr><td class=3D"line-number" va=
+lue=3D"23"></td><td class=3D"line-content"><span class=3D"html-comment">&lt=
+;!-- End Jekyll SEO tag --&gt;</span></td></tr><tr><td class=3D"line-number=
+" value=3D"24"></td><td class=3D"line-content"><br></td></tr><tr><td class=
+=3D"line-number" value=3D"25"></td><td class=3D"line-content">    <span cla=
+ss=3D"html-tag">&lt;link <span class=3D"html-attribute-name">rel</span>=3D"=
+<span class=3D"html-attribute-value">stylesheet</span>" <span class=3D"html=
+-attribute-name">href</span>=3D"<a class=3D"html-attribute-value html-resou=
+rce-link" target=3D"_blank" href=3D"https://teichlab.github.io/scg_lib_stru=
+cts/assets/css/style.css?v=3Dfde9bbfa2e850c4f25ea2cacbe50e21b0da4a731" rel=
+=3D"noreferrer noopener">/scg_lib_structs/assets/css/style.css?v=3Dfde9bbfa=
+2e850c4f25ea2cacbe50e21b0da4a731</a>"&gt;</span></td></tr><tr><td class=3D"=
+line-number" value=3D"26"></td><td class=3D"line-content">    <span class=
+=3D"html-comment">&lt;!-- start custom head snippets, customize with your o=
+wn _includes/head-custom.html file --&gt;</span></td></tr><tr><td class=3D"=
+line-number" value=3D"27"></td><td class=3D"line-content"><br></td></tr><tr=
+><td class=3D"line-number" value=3D"28"></td><td class=3D"line-content"><sp=
+an class=3D"html-comment">&lt;!-- Setup Google Analytics --&gt;</span></td>=
+</tr><tr><td class=3D"line-number" value=3D"29"></td><td class=3D"line-cont=
+ent"><br></td></tr><tr><td class=3D"line-number" value=3D"30"></td><td clas=
+s=3D"line-content"><br></td></tr><tr><td class=3D"line-number" value=3D"31"=
+></td><td class=3D"line-content"><br></td></tr><tr><td class=3D"line-number=
+" value=3D"32"></td><td class=3D"line-content"><span class=3D"html-comment"=
+>&lt;!-- You can set your favicon here --&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"33"></td><td class=3D"line-content"><span class=
+=3D"html-comment">&lt;!-- link rel=3D"shortcut icon" type=3D"image/x-icon" =
+href=3D"/scg_lib_structs/favicon.ico" --&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"34"></td><td class=3D"line-content"><br></td></tr=
+><tr><td class=3D"line-number" value=3D"35"></td><td class=3D"line-content"=
+><span class=3D"html-comment">&lt;!-- end custom head snippets --&gt;</span=
+></td></tr><tr><td class=3D"line-number" value=3D"36"></td><td class=3D"lin=
+e-content"><br></td></tr><tr><td class=3D"line-number" value=3D"37"></td><t=
+d class=3D"line-content">  <span class=3D"html-tag">&lt;/head&gt;</span></t=
+d></tr><tr><td class=3D"line-number" value=3D"38"></td><td class=3D"line-co=
+ntent">  <span class=3D"html-tag">&lt;body&gt;</span></td></tr><tr><td clas=
+s=3D"line-number" value=3D"39"></td><td class=3D"line-content">    <span cl=
+ass=3D"html-tag">&lt;div <span class=3D"html-attribute-name">class</span>=
+=3D"<span class=3D"html-attribute-value">container-lg px-3 my-5 markdown-bo=
+dy</span>"&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"40"><=
+/td><td class=3D"line-content">      </td></tr><tr><td class=3D"line-number=
+" value=3D"41"></td><td class=3D"line-content">      <span class=3D"html-ta=
+g">&lt;h1&gt;</span><span class=3D"html-tag">&lt;a <span class=3D"html-attr=
+ibute-name">href</span>=3D"<a class=3D"html-attribute-value html-external-l=
+ink" target=3D"_blank" href=3D"https://teichlab.github.io/scg_lib_structs/"=
+ rel=3D"noreferrer noopener">https://teichlab.github.io/scg_lib_structs/</a=
+>"&gt;</span>scg_lib_structs<span class=3D"html-tag">&lt;/a&gt;</span><span=
+ class=3D"html-tag">&lt;/h1&gt;</span></td></tr><tr><td class=3D"line-numbe=
+r" value=3D"42"></td><td class=3D"line-content">      </td></tr><tr><td cla=
+ss=3D"line-number" value=3D"43"></td><td class=3D"line-content"><br></td></=
+tr><tr><td class=3D"line-number" value=3D"44"></td><td class=3D"line-conten=
+t">      <span class=3D"html-tag">&lt;h1 <span class=3D"html-attribute-name=
+">id</span>=3D"<span class=3D"html-attribute-value">single-cell-genomics-li=
+brary-structure</span>"&gt;</span>Single Cell Genomics Library Structure<sp=
+an class=3D"html-tag">&lt;/h1&gt;</span></td></tr><tr><td class=3D"line-num=
+ber" value=3D"45"></td><td class=3D"line-content"><span class=3D"html-tag">=
+&lt;p&gt;</span>Collections of library structure and sequence of popular si=
+ngle cell genomic methods (mainly scRNA-seq).<span class=3D"html-tag">&lt;/=
+p&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"46"></td><td c=
+lass=3D"line-content"><br></td></tr><tr><td class=3D"line-number" value=3D"=
+47"></td><td class=3D"line-content"><span class=3D"html-tag">&lt;h2 <span c=
+lass=3D"html-attribute-name">id</span>=3D"<span class=3D"html-attribute-val=
+ue">before-you-start</span>"&gt;</span>Before you start<span class=3D"html-=
+tag">&lt;/h2&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"48"=
+></td><td class=3D"line-content"><br></td></tr><tr><td class=3D"line-number=
+" value=3D"49"></td><td class=3D"line-content"><span class=3D"html-tag">&lt=
+;p&gt;</span>Make sure you understand the basic configuration of the Illumi=
+na libraries, because most single cell sequencing methods are developed to =
+be sequenced on the Illumina platforms. If you are not familiar with the Il=
+lumina sequencing libraries, <span class=3D"html-tag">&lt;a <span class=3D"=
+html-attribute-name">href</span>=3D"<a class=3D"html-attribute-value html-e=
+xternal-link" target=3D"_blank" href=3D"https://teichlab.github.io/scg_lib_=
+structs/methods_html/Illumina.html" rel=3D"noreferrer noopener">https://tei=
+chlab.github.io/scg_lib_structs/methods_html/Illumina.html</a>"&gt;</span>c=
+lick here<span class=3D"html-tag">&lt;/a&gt;</span> to check some general i=
+nformation about Illumina library structures and the nature of library prep=
+aration.<span class=3D"html-tag">&lt;/p&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"50"></td><td class=3D"line-content"><br></td></tr=
+><tr><td class=3D"line-number" value=3D"51"></td><td class=3D"line-content"=
+><span class=3D"html-tag">&lt;p&gt;</span>The pages contain step-by-step pr=
+ocedures of how the libraries are generated experimentally. For the computa=
+tional preprocessing pipelines for each method, please see this accompanyin=
+g <span class=3D"html-tag">&lt;a <span class=3D"html-attribute-name">href</=
+span>=3D"<a class=3D"html-attribute-value html-external-link" target=3D"_bl=
+ank" href=3D"https://scg-lib-structs.readthedocs.io/en/latest/" rel=3D"nore=
+ferrer noopener">https://scg-lib-structs.readthedocs.io/en/latest/</a>"&gt;=
+</span><span class=3D"html-tag">&lt;strong&gt;</span>ReadTheDocs documentat=
+ion<span class=3D"html-tag">&lt;/strong&gt;</span><span class=3D"html-tag">=
+&lt;/a&gt;</span>.<span class=3D"html-tag">&lt;/p&gt;</span></td></tr><tr><=
+td class=3D"line-number" value=3D"52"></td><td class=3D"line-content"><br><=
+/td></tr><tr><td class=3D"line-number" value=3D"53"></td><td class=3D"line-=
+content"><span class=3D"html-tag">&lt;h2 <span class=3D"html-attribute-name=
+">id</span>=3D"<span class=3D"html-attribute-value">how-to-use</span>"&gt;<=
+/span>How to use?<span class=3D"html-tag">&lt;/h2&gt;</span></td></tr><tr><=
+td class=3D"line-number" value=3D"54"></td><td class=3D"line-content"><br><=
+/td></tr><tr><td class=3D"line-number" value=3D"55"></td><td class=3D"line-=
+content"><span class=3D"html-tag">&lt;p&gt;</span>Click the following links=
+ to view the methods. Notes:<span class=3D"html-tag">&lt;/p&gt;</span></td>=
+</tr><tr><td class=3D"line-number" value=3D"56"></td><td class=3D"line-cont=
+ent"><br></td></tr><tr><td class=3D"line-number" value=3D"57"></td><td clas=
+s=3D"line-content"><span class=3D"html-tag">&lt;ol&gt;</span></td></tr><tr>=
+<td class=3D"line-number" value=3D"58"></td><td class=3D"line-content">  <s=
+pan class=3D"html-tag">&lt;li&gt;</span>Index1 (i7) is always sequenced usi=
+ng the bottom strand as template, regardless of the Illumina machine in use=
+. That is why the index sequences are reverse complementary to the primer s=
+equences.<span class=3D"html-tag">&lt;/li&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"59"></td><td class=3D"line-content">  <span class=
+=3D"html-tag">&lt;li&gt;</span><span class=3D"html-tag">&lt;strong&gt;</spa=
+n>IMPORTANT:<span class=3D"html-tag">&lt;/strong&gt;</span> In a dual-index=
+ library, how index2 (i5) is sequenced differs from machines to machines. A=
+ccording to the <span class=3D"html-tag">&lt;a <span class=3D"html-attribut=
+e-name">href</span>=3D"<a class=3D"html-attribute-value html-external-link"=
+ target=3D"_blank" href=3D"https://teichlab.github.io/scg_lib_structs/data/=
+indexed-sequencing-overview-guide-15057455-05.pdf" rel=3D"noreferrer noopen=
+er">/scg_lib_structs/data/indexed-sequencing-overview-guide-15057455-05.pdf=
+</a>"&gt;</span>Index Sequencing Guide<span class=3D"html-tag">&lt;/a&gt;</=
+span> from Illumina, Miseq, Hiseq2000/2500, MiniSeq (Rapid) and NovaSeq 600=
+0 (v1.0) use the bottom strand as template (Forward Strand Workflow), which=
+ is why the index sequences are the same as the primer sequences in those m=
+achines. iSeq 100, MiniSeq, NextSeq, HiSeq X, HiSeq 3000/4000 and NovaSeq 6=
+000 (v1.5) use the top strand as template (Reverse Complement Workflow), wh=
+ich is why the index sequences are reverse-complementary to the primer sequ=
+ences in those machines. <span class=3D"html-tag">&lt;strong&gt;</span>All =
+methods listed below use iSeq 100, MiniSeq (Standard), NextSeq, HiSeq X, Hi=
+Seq 3000/4000 and NovaSeq 6000 (v1.5) as examples, because this configurati=
+on is more frequently used nowadays.<span class=3D"html-tag">&lt;/strong&gt=
+;</span><span class=3D"html-tag">&lt;/li&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"60"></td><td class=3D"line-content"><span class=
+=3D"html-tag">&lt;/ol&gt;</span></td></tr><tr><td class=3D"line-number" val=
+ue=3D"61"></td><td class=3D"line-content"><br></td></tr><tr><td class=3D"li=
+ne-number" value=3D"62"></td><td class=3D"line-content"><span class=3D"html=
+-tag">&lt;ul&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"63"=
+></td><td class=3D"line-content">  <span class=3D"html-tag">&lt;li&gt;</spa=
+n></td></tr><tr><td class=3D"line-number" value=3D"64"></td><td class=3D"li=
+ne-content">    <span class=3D"html-tag">&lt;h3 <span class=3D"html-attribu=
+te-name">id</span>=3D"<span class=3D"html-attribute-value">gene-expression<=
+/span>"&gt;</span>Gene expression<span class=3D"html-tag">&lt;/h3&gt;</span=
+></td></tr><tr><td class=3D"line-number" value=3D"65"></td><td class=3D"lin=
+e-content"><br></td></tr><tr><td class=3D"line-number" value=3D"66"></td><t=
+d class=3D"line-content">    <span class=3D"html-tag">&lt;ul&gt;</span></td=
+></tr><tr><td class=3D"line-number" value=3D"67"></td><td class=3D"line-con=
+tent">      <span class=3D"html-tag">&lt;li&gt;</span><span class=3D"html-t=
+ag">&lt;a <span class=3D"html-attribute-name">href</span>=3D"<a class=3D"ht=
+ml-attribute-value html-external-link" target=3D"_blank" href=3D"https://te=
+ichlab.github.io/scg_lib_structs/methods_html/SMART-seq_family.html" rel=3D=
+"noreferrer noopener">https://teichlab.github.io/scg_lib_structs/methods_ht=
+ml/SMART-seq_family.html</a>"&gt;</span>SMART-seq family (including SMART-s=
+eq, SMART-seq2 and SMART-seq3)<span class=3D"html-tag">&lt;/a&gt;</span><sp=
+an class=3D"html-tag">&lt;/li&gt;</span></td></tr><tr><td class=3D"line-num=
+ber" value=3D"68"></td><td class=3D"line-content">      <span class=3D"html=
+-tag">&lt;li&gt;</span><span class=3D"html-tag">&lt;a <span class=3D"html-a=
+ttribute-name">href</span>=3D"<a class=3D"html-attribute-value html-externa=
+l-link" target=3D"_blank" href=3D"https://teichlab.github.io/scg_lib_struct=
+s/methods_html/STRT-seq_family.html" rel=3D"noreferrer noopener">https://te=
+ichlab.github.io/scg_lib_structs/methods_html/STRT-seq_family.html</a>"&gt;=
+</span>STRT-seq family (including STRT-seq, STRT-seq-C1 and STRT-seq-2i)<sp=
+an class=3D"html-tag">&lt;/a&gt;</span><span class=3D"html-tag">&lt;/li&gt;=
+</span></td></tr><tr><td class=3D"line-number" value=3D"69"></td><td class=
+=3D"line-content">      <span class=3D"html-tag">&lt;li&gt;</span><span cla=
+ss=3D"html-tag">&lt;a <span class=3D"html-attribute-name">href</span>=3D"<a=
+ class=3D"html-attribute-value html-external-link" target=3D"_blank" href=
+=3D"https://teichlab.github.io/scg_lib_structs/methods_html/Quartz-seq_fami=
+ly.html" rel=3D"noreferrer noopener">https://teichlab.github.io/scg_lib_str=
+ucts/methods_html/Quartz-seq_family.html</a>"&gt;</span>Quartz-seq family (=
+including Quartz-seq and Quartz-seq2)<span class=3D"html-tag">&lt;/a&gt;</s=
+pan><span class=3D"html-tag">&lt;/li&gt;</span></td></tr><tr><td class=3D"l=
+ine-number" value=3D"70"></td><td class=3D"line-content">      <span class=
+=3D"html-tag">&lt;li&gt;</span><span class=3D"html-tag">&lt;a <span class=
+=3D"html-attribute-name">href</span>=3D"<a class=3D"html-attribute-value ht=
+ml-external-link" target=3D"_blank" href=3D"https://teichlab.github.io/scg_=
+lib_structs/methods_html/CEL-seq_family.html" rel=3D"noreferrer noopener">h=
+ttps://teichlab.github.io/scg_lib_structs/methods_html/CEL-seq_family.html<=
+/a>"&gt;</span>CEL-seq family (including CEL-seq and CEL-seq2)<span class=
+=3D"html-tag">&lt;/a&gt;</span><span class=3D"html-tag">&lt;/li&gt;</span><=
+/td></tr><tr><td class=3D"line-number" value=3D"71"></td><td class=3D"line-=
+content">      <span class=3D"html-tag">&lt;li&gt;</span><span class=3D"htm=
+l-tag">&lt;a <span class=3D"html-attribute-name">href</span>=3D"<a class=3D=
+"html-attribute-value html-external-link" target=3D"_blank" href=3D"https:/=
+/teichlab.github.io/scg_lib_structs/methods_html/10xChromium3fb.html" rel=
+=3D"noreferrer noopener">https://teichlab.github.io/scg_lib_structs/methods=
+_html/10xChromium3fb.html</a>"&gt;</span>10x Chromium Single Cell 3=E2=80=
+=99 V3 FeatureBarcoding<span class=3D"html-tag">&lt;/a&gt;</span><span clas=
+s=3D"html-tag">&lt;/li&gt;</span></td></tr><tr><td class=3D"line-number" va=
+lue=3D"72"></td><td class=3D"line-content">      <span class=3D"html-tag">&=
+lt;li&gt;</span><span class=3D"html-tag">&lt;a <span class=3D"html-attribut=
+e-name">href</span>=3D"<a class=3D"html-attribute-value html-external-link"=
+ target=3D"_blank" href=3D"https://teichlab.github.io/scg_lib_structs/metho=
+ds_html/10xChromium3.html" rel=3D"noreferrer noopener">https://teichlab.git=
+hub.io/scg_lib_structs/methods_html/10xChromium3.html</a>"&gt;</span>10x Ch=
+romium Single Cell 3=E2=80=99 V2 and V3 GE<span class=3D"html-tag">&lt;/a&g=
+t;</span><span class=3D"html-tag">&lt;/li&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"73"></td><td class=3D"line-content">      <span c=
+lass=3D"html-tag">&lt;li&gt;</span><span class=3D"html-tag">&lt;a <span cla=
+ss=3D"html-attribute-name">href</span>=3D"<a class=3D"html-attribute-value =
+html-external-link" target=3D"_blank" href=3D"https://teichlab.github.io/sc=
+g_lib_structs/methods_html/10xChromium3v1.html" rel=3D"noreferrer noopener"=
+>https://teichlab.github.io/scg_lib_structs/methods_html/10xChromium3v1.htm=
+l</a>"&gt;</span>10x Chromium Single Cell 3=E2=80=99 V1 GE<span class=3D"ht=
+ml-tag">&lt;/a&gt;</span><span class=3D"html-tag">&lt;/li&gt;</span></td></=
+tr><tr><td class=3D"line-number" value=3D"74"></td><td class=3D"line-conten=
+t">      <span class=3D"html-tag">&lt;li&gt;</span><span class=3D"html-tag"=
+>&lt;a <span class=3D"html-attribute-name">href</span>=3D"<a class=3D"html-=
+attribute-value html-external-link" target=3D"_blank" href=3D"https://teich=
+lab.github.io/scg_lib_structs/methods_html/10xChromium5vdjfb.html" rel=3D"n=
+oreferrer noopener">https://teichlab.github.io/scg_lib_structs/methods_html=
+/10xChromium5vdjfb.html</a>"&gt;</span>10x Chromium Single Cell 5=E2=80=99 =
+VDJ<span class=3D"html-tag">&lt;/a&gt;</span><span class=3D"html-tag">&lt;/=
+li&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"75"></td><td =
+class=3D"line-content">      <span class=3D"html-tag">&lt;li&gt;</span><spa=
+n class=3D"html-tag">&lt;a <span class=3D"html-attribute-name">href</span>=
+=3D"<a class=3D"html-attribute-value html-external-link" target=3D"_blank" =
+href=3D"https://teichlab.github.io/scg_lib_structs/methods_html/10xChromium=
+5.html" rel=3D"noreferrer noopener">https://teichlab.github.io/scg_lib_stru=
+cts/methods_html/10xChromium5.html</a>"&gt;</span>10x Chromium Single Cell =
+5=E2=80=99 GE<span class=3D"html-tag">&lt;/a&gt;</span><span class=3D"html-=
+tag">&lt;/li&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"76"=
+></td><td class=3D"line-content">      <span class=3D"html-tag">&lt;li&gt;<=
+/span><span class=3D"html-tag">&lt;a <span class=3D"html-attribute-name">hr=
+ef</span>=3D"<a class=3D"html-attribute-value html-external-link" target=3D=
+"_blank" href=3D"https://teichlab.github.io/scg_lib_structs/methods_html/Su=
+reCell.html" rel=3D"noreferrer noopener">https://teichlab.github.io/scg_lib=
+_structs/methods_html/SureCell.html</a>"&gt;</span>SureCell 3=E2=80=99 WTA =
+for ddSEQ<span class=3D"html-tag">&lt;/a&gt;</span><span class=3D"html-tag"=
+>&lt;/li&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"77"></t=
+d><td class=3D"line-content">      <span class=3D"html-tag">&lt;li&gt;</spa=
+n><span class=3D"html-tag">&lt;a <span class=3D"html-attribute-name">href</=
+span>=3D"<a class=3D"html-attribute-value html-external-link" target=3D"_bl=
+ank" href=3D"https://teichlab.github.io/scg_lib_structs/methods_html/MARS-s=
+eq.html" rel=3D"noreferrer noopener">https://teichlab.github.io/scg_lib_str=
+ucts/methods_html/MARS-seq.html</a>"&gt;</span>MARS-seq / MARS-seq2.0<span =
+class=3D"html-tag">&lt;/a&gt;</span><span class=3D"html-tag">&lt;/li&gt;</s=
+pan></td></tr><tr><td class=3D"line-number" value=3D"78"></td><td class=3D"=
+line-content">      <span class=3D"html-tag">&lt;li&gt;</span><span class=
+=3D"html-tag">&lt;a <span class=3D"html-attribute-name">href</span>=3D"<a c=
+lass=3D"html-attribute-value html-external-link" target=3D"_blank" href=3D"=
+https://teichlab.github.io/scg_lib_structs/methods_html/SCRB-seq.html" rel=
+=3D"noreferrer noopener">https://teichlab.github.io/scg_lib_structs/methods=
+_html/SCRB-seq.html</a>"&gt;</span>SCRB-seq / mcSCRB-seq<span class=3D"html=
+-tag">&lt;/a&gt;</span><span class=3D"html-tag">&lt;/li&gt;</span></td></tr=
+><tr><td class=3D"line-number" value=3D"79"></td><td class=3D"line-content"=
+>      <span class=3D"html-tag">&lt;li&gt;</span><span class=3D"html-tag">&=
+lt;a <span class=3D"html-attribute-name">href</span>=3D"<a class=3D"html-at=
+tribute-value html-external-link" target=3D"_blank" href=3D"https://teichla=
+b.github.io/scg_lib_structs/methods_html/Drop-seq.html" rel=3D"noreferrer n=
+oopener">https://teichlab.github.io/scg_lib_structs/methods_html/Drop-seq.h=
+tml</a>"&gt;</span>Drop-seq / Seq-Well<span class=3D"html-tag">&lt;/a&gt;</=
+span><span class=3D"html-tag">&lt;/li&gt;</span></td></tr><tr><td class=3D"=
+line-number" value=3D"80"></td><td class=3D"line-content">      <span class=
+=3D"html-tag">&lt;li&gt;</span><span class=3D"html-tag">&lt;a <span class=
+=3D"html-attribute-name">href</span>=3D"<a class=3D"html-attribute-value ht=
+ml-external-link" target=3D"_blank" href=3D"https://teichlab.github.io/scg_=
+lib_structs/methods_html/scifi-RNA-seq.html" rel=3D"noreferrer noopener">ht=
+tps://teichlab.github.io/scg_lib_structs/methods_html/scifi-RNA-seq.html</a=
+>"&gt;</span>scifi-RNA-seq<span class=3D"html-tag">&lt;/a&gt;</span><span c=
+lass=3D"html-tag">&lt;/li&gt;</span></td></tr><tr><td class=3D"line-number"=
+ value=3D"81"></td><td class=3D"line-content">      <span class=3D"html-tag=
+">&lt;li&gt;</span><span class=3D"html-tag">&lt;a <span class=3D"html-attri=
+bute-name">href</span>=3D"<a class=3D"html-attribute-value html-external-li=
+nk" target=3D"_blank" href=3D"https://teichlab.github.io/scg_lib_structs/me=
+thods_html/Microwell-seq.html" rel=3D"noreferrer noopener">https://teichlab=
+.github.io/scg_lib_structs/methods_html/Microwell-seq.html</a>"&gt;</span>M=
+icrowell-seq<span class=3D"html-tag">&lt;/a&gt;</span><span class=3D"html-t=
+ag">&lt;/li&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"82">=
+</td><td class=3D"line-content">      <span class=3D"html-tag">&lt;li&gt;</=
+span><span class=3D"html-tag">&lt;a <span class=3D"html-attribute-name">hre=
+f</span>=3D"<a class=3D"html-attribute-value html-external-link" target=3D"=
+_blank" href=3D"https://teichlab.github.io/scg_lib_structs/methods_html/BD_=
+Rhapsody.html" rel=3D"noreferrer noopener">https://teichlab.github.io/scg_l=
+ib_structs/methods_html/BD_Rhapsody.html</a>"&gt;</span>BD Rhapsody<span cl=
+ass=3D"html-tag">&lt;/a&gt;</span><span class=3D"html-tag">&lt;/li&gt;</spa=
+n></td></tr><tr><td class=3D"line-number" value=3D"83"></td><td class=3D"li=
+ne-content">      <span class=3D"html-tag">&lt;li&gt;</span><span class=3D"=
+html-tag">&lt;a <span class=3D"html-attribute-name">href</span>=3D"<a class=
+=3D"html-attribute-value html-external-link" target=3D"_blank" href=3D"http=
+s://teichlab.github.io/scg_lib_structs/methods_html/sci-RNA-seq3.html" rel=
+=3D"noreferrer noopener">https://teichlab.github.io/scg_lib_structs/methods=
+_html/sci-RNA-seq3.html</a>"&gt;</span>sci-RNA-seq3<span class=3D"html-tag"=
+>&lt;/a&gt;</span><span class=3D"html-tag">&lt;/li&gt;</span></td></tr><tr>=
+<td class=3D"line-number" value=3D"84"></td><td class=3D"line-content">    =
+  <span class=3D"html-tag">&lt;li&gt;</span><span class=3D"html-tag">&lt;a =
+<span class=3D"html-attribute-name">href</span>=3D"<a class=3D"html-attribu=
+te-value html-external-link" target=3D"_blank" href=3D"https://teichlab.git=
+hub.io/scg_lib_structs/methods_html/sci-RNA-seq.html" rel=3D"noreferrer noo=
+pener">https://teichlab.github.io/scg_lib_structs/methods_html/sci-RNA-seq.=
+html</a>"&gt;</span>sci-RNA-seq<span class=3D"html-tag">&lt;/a&gt;</span><s=
+pan class=3D"html-tag">&lt;/li&gt;</span></td></tr><tr><td class=3D"line-nu=
+mber" value=3D"85"></td><td class=3D"line-content">      <span class=3D"htm=
+l-tag">&lt;li&gt;</span><span class=3D"html-tag">&lt;a <span class=3D"html-=
+attribute-name">href</span>=3D"<a class=3D"html-attribute-value html-extern=
+al-link" target=3D"_blank" href=3D"https://teichlab.github.io/scg_lib_struc=
+ts/methods_html/SeqWell_S3.html" rel=3D"noreferrer noopener">https://teichl=
+ab.github.io/scg_lib_structs/methods_html/SeqWell_S3.html</a>"&gt;</span>Se=
+q-Well S3<span class=3D"html-tag">&lt;/a&gt;</span><span class=3D"html-tag"=
+>&lt;/li&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"86"></t=
+d><td class=3D"line-content">      <span class=3D"html-tag">&lt;li&gt;</spa=
+n><span class=3D"html-tag">&lt;a <span class=3D"html-attribute-name">href</=
+span>=3D"<a class=3D"html-attribute-value html-external-link" target=3D"_bl=
+ank" href=3D"https://teichlab.github.io/scg_lib_structs/methods_html/tang20=
+09.html" rel=3D"noreferrer noopener">https://teichlab.github.io/scg_lib_str=
+ucts/methods_html/tang2009.html</a>"&gt;</span>Tang 2009<span class=3D"html=
+-tag">&lt;/a&gt;</span><span class=3D"html-tag">&lt;/li&gt;</span></td></tr=
+><tr><td class=3D"line-number" value=3D"87"></td><td class=3D"line-content"=
+>      <span class=3D"html-tag">&lt;li&gt;</span><span class=3D"html-tag">&=
+lt;a <span class=3D"html-attribute-name">href</span>=3D"<a class=3D"html-at=
+tribute-value html-external-link" target=3D"_blank" href=3D"https://teichla=
+b.github.io/scg_lib_structs/methods_html/SPLiT-seq.html" rel=3D"noreferrer =
+noopener">https://teichlab.github.io/scg_lib_structs/methods_html/SPLiT-seq=
+.html</a>"&gt;</span>SPLiT-seq<span class=3D"html-tag">&lt;/a&gt;</span><sp=
+an class=3D"html-tag">&lt;/li&gt;</span></td></tr><tr><td class=3D"line-num=
+ber" value=3D"88"></td><td class=3D"line-content">      <span class=3D"html=
+-tag">&lt;li&gt;</span><span class=3D"html-tag">&lt;a <span class=3D"html-a=
+ttribute-name">href</span>=3D"<a class=3D"html-attribute-value html-externa=
+l-link" target=3D"_blank" href=3D"https://teichlab.github.io/scg_lib_struct=
+s/methods_html/VASA-seq.html" rel=3D"noreferrer noopener">https://teichlab.=
+github.io/scg_lib_structs/methods_html/VASA-seq.html</a>"&gt;</span>VASA-se=
+q<span class=3D"html-tag">&lt;/a&gt;</span><span class=3D"html-tag">&lt;/li=
+&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"89"></td><td cl=
+ass=3D"line-content">      <span class=3D"html-tag">&lt;li&gt;</span><span =
+class=3D"html-tag">&lt;a <span class=3D"html-attribute-name">href</span>=3D=
+"<a class=3D"html-attribute-value html-external-link" target=3D"_blank" hre=
+f=3D"https://teichlab.github.io/scg_lib_structs/methods_html/inDrop.html" r=
+el=3D"noreferrer noopener">https://teichlab.github.io/scg_lib_structs/metho=
+ds_html/inDrop.html</a>"&gt;</span>inDrop<span class=3D"html-tag">&lt;/a&gt=
+;</span><span class=3D"html-tag">&lt;/li&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"90"></td><td class=3D"line-content">    <span cla=
+ss=3D"html-tag">&lt;/ul&gt;</span></td></tr><tr><td class=3D"line-number" v=
+alue=3D"91"></td><td class=3D"line-content">  <span class=3D"html-tag">&lt;=
+/li&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"92"></td><td=
+ class=3D"line-content">  <span class=3D"html-tag">&lt;li&gt;</span></td></=
+tr><tr><td class=3D"line-number" value=3D"93"></td><td class=3D"line-conten=
+t">    <span class=3D"html-tag">&lt;h3 <span class=3D"html-attribute-name">=
+id</span>=3D"<span class=3D"html-attribute-value">chromatin-accessibility-a=
+nd-protein-dna-interactions</span>"&gt;</span>Chromatin accessibility and p=
+rotein-DNA interactions<span class=3D"html-tag">&lt;/h3&gt;</span></td></tr=
+><tr><td class=3D"line-number" value=3D"94"></td><td class=3D"line-content"=
+><br></td></tr><tr><td class=3D"line-number" value=3D"95"></td><td class=3D=
+"line-content">    <span class=3D"html-tag">&lt;ul&gt;</span></td></tr><tr>=
+<td class=3D"line-number" value=3D"96"></td><td class=3D"line-content">    =
+  <span class=3D"html-tag">&lt;li&gt;</span><span class=3D"html-tag">&lt;a =
+<span class=3D"html-attribute-name">href</span>=3D"<a class=3D"html-attribu=
+te-value html-external-link" target=3D"_blank" href=3D"https://teichlab.git=
+hub.io/scg_lib_structs/methods_html/plate_and_piATAC-seq.html" rel=3D"noref=
+errer noopener">https://teichlab.github.io/scg_lib_structs/methods_html/pla=
+te_and_piATAC-seq.html</a>"&gt;</span>Plate_scATAC-seq and Pi-ATAC-seq<span=
+ class=3D"html-tag">&lt;/a&gt;</span><span class=3D"html-tag">&lt;/li&gt;</=
+span></td></tr><tr><td class=3D"line-number" value=3D"97"></td><td class=3D=
+"line-content">      <span class=3D"html-tag">&lt;li&gt;</span><span class=
+=3D"html-tag">&lt;a <span class=3D"html-attribute-name">href</span>=3D"<a c=
+lass=3D"html-attribute-value html-external-link" target=3D"_blank" href=3D"=
+https://teichlab.github.io/scg_lib_structs/methods_html/10xChromium_scATAC.=
+html" rel=3D"noreferrer noopener">https://teichlab.github.io/scg_lib_struct=
+s/methods_html/10xChromium_scATAC.html</a>"&gt;</span>10x Chromium Single C=
+ell ATAC<span class=3D"html-tag">&lt;/a&gt;</span><span class=3D"html-tag">=
+&lt;/li&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"98"></td=
+><td class=3D"line-content">      <span class=3D"html-tag">&lt;li&gt;</span=
+><span class=3D"html-tag">&lt;a <span class=3D"html-attribute-name">href</s=
+pan>=3D"<a class=3D"html-attribute-value html-external-link" target=3D"_bla=
+nk" href=3D"https://teichlab.github.io/scg_lib_structs/methods_html/dscATAC=
+.html" rel=3D"noreferrer noopener">https://teichlab.github.io/scg_lib_struc=
+ts/methods_html/dscATAC.html</a>"&gt;</span>dscATAC-seq/dsciATAC-seq<span c=
+lass=3D"html-tag">&lt;/a&gt;</span><span class=3D"html-tag">&lt;/li&gt;</sp=
+an></td></tr><tr><td class=3D"line-number" value=3D"99"></td><td class=3D"l=
+ine-content">      <span class=3D"html-tag">&lt;li&gt;</span><span class=3D=
+"html-tag">&lt;a <span class=3D"html-attribute-name">href</span>=3D"<a clas=
+s=3D"html-attribute-value html-external-link" target=3D"_blank" href=3D"htt=
+ps://teichlab.github.io/scg_lib_structs/methods_html/scDNase_scMNase.html" =
+rel=3D"noreferrer noopener">https://teichlab.github.io/scg_lib_structs/meth=
+ods_html/scDNase_scMNase.html</a>"&gt;</span>scDNase-seq/scMNase-seq<span c=
+lass=3D"html-tag">&lt;/a&gt;</span><span class=3D"html-tag">&lt;/li&gt;</sp=
+an></td></tr><tr><td class=3D"line-number" value=3D"100"></td><td class=3D"=
+line-content">      <span class=3D"html-tag">&lt;li&gt;</span><span class=
+=3D"html-tag">&lt;a <span class=3D"html-attribute-name">href</span>=3D"<a c=
+lass=3D"html-attribute-value html-external-link" target=3D"_blank" href=3D"=
+https://teichlab.github.io/scg_lib_structs/methods_html/sci-ATAC-seq.html" =
+rel=3D"noreferrer noopener">https://teichlab.github.io/scg_lib_structs/meth=
+ods_html/sci-ATAC-seq.html</a>"&gt;</span>sci-ATAC-seq<span class=3D"html-t=
+ag">&lt;/a&gt;</span><span class=3D"html-tag">&lt;/li&gt;</span></td></tr><=
+tr><td class=3D"line-number" value=3D"101"></td><td class=3D"line-content">=
+      <span class=3D"html-tag">&lt;li&gt;</span><span class=3D"html-tag">&l=
+t;a <span class=3D"html-attribute-name">href</span>=3D"<a class=3D"html-att=
+ribute-value html-external-link" target=3D"_blank" href=3D"https://teichlab=
+.github.io/scg_lib_structs/methods_html/snATAC-seq.html" rel=3D"noreferrer =
+noopener">https://teichlab.github.io/scg_lib_structs/methods_html/snATAC-se=
+q.html</a>"&gt;</span>snATAC-seq<span class=3D"html-tag">&lt;/a&gt;</span><=
+span class=3D"html-tag">&lt;/li&gt;</span></td></tr><tr><td class=3D"line-n=
+umber" value=3D"102"></td><td class=3D"line-content">      <span class=3D"h=
+tml-tag">&lt;li&gt;</span><span class=3D"html-tag">&lt;a <span class=3D"htm=
+l-attribute-name">href</span>=3D"<a class=3D"html-attribute-value html-exte=
+rnal-link" target=3D"_blank" href=3D"https://teichlab.github.io/scg_lib_str=
+ucts/methods_html/scTHS-seq.html" rel=3D"noreferrer noopener">https://teich=
+lab.github.io/scg_lib_structs/methods_html/scTHS-seq.html</a>"&gt;</span>sc=
+THS-seq<span class=3D"html-tag">&lt;/a&gt;</span><span class=3D"html-tag">&=
+lt;/li&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"103"></td=
+><td class=3D"line-content">      <span class=3D"html-tag">&lt;li&gt;</span=
+><span class=3D"html-tag">&lt;a <span class=3D"html-attribute-name">href</s=
+pan>=3D"<a class=3D"html-attribute-value html-external-link" target=3D"_bla=
+nk" href=3D"https://teichlab.github.io/scg_lib_structs/methods_html/itChIP-=
+seq.html" rel=3D"noreferrer noopener">https://teichlab.github.io/scg_lib_st=
+ructs/methods_html/itChIP-seq.html</a>"&gt;</span>itChIP-seq<span class=3D"=
+html-tag">&lt;/a&gt;</span><span class=3D"html-tag">&lt;/li&gt;</span></td>=
+</tr><tr><td class=3D"line-number" value=3D"104"></td><td class=3D"line-con=
+tent">      <span class=3D"html-tag">&lt;li&gt;</span><span class=3D"html-t=
+ag">&lt;a <span class=3D"html-attribute-name">href</span>=3D"<a class=3D"ht=
+ml-attribute-value html-external-link" target=3D"_blank" href=3D"https://te=
+ichlab.github.io/scg_lib_structs/methods_html/Drop-ChIP.html" rel=3D"norefe=
+rrer noopener">https://teichlab.github.io/scg_lib_structs/methods_html/Drop=
+-ChIP.html</a>"&gt;</span>Drop-ChIP<span class=3D"html-tag">&lt;/a&gt;</spa=
+n><span class=3D"html-tag">&lt;/li&gt;</span></td></tr><tr><td class=3D"lin=
+e-number" value=3D"105"></td><td class=3D"line-content">      <span class=
+=3D"html-tag">&lt;li&gt;</span><span class=3D"html-tag">&lt;a <span class=
+=3D"html-attribute-name">href</span>=3D"<a class=3D"html-attribute-value ht=
+ml-external-link" target=3D"_blank" href=3D"https://teichlab.github.io/scg_=
+lib_structs/methods_html/CoBATCH.html" rel=3D"noreferrer noopener">https://=
+teichlab.github.io/scg_lib_structs/methods_html/CoBATCH.html</a>"&gt;</span=
+>CoBATCH<span class=3D"html-tag">&lt;/a&gt;</span><span class=3D"html-tag">=
+&lt;/li&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"106"></t=
+d><td class=3D"line-content">      <span class=3D"html-tag">&lt;li&gt;</spa=
+n><span class=3D"html-tag">&lt;a <span class=3D"html-attribute-name">href</=
+span>=3D"<a class=3D"html-attribute-value html-external-link" target=3D"_bl=
+ank" href=3D"https://teichlab.github.io/scg_lib_structs/methods_html/scDamI=
+D.html" rel=3D"noreferrer noopener">https://teichlab.github.io/scg_lib_stru=
+cts/methods_html/scDamID.html</a>"&gt;</span>scDamID<span class=3D"html-tag=
+">&lt;/a&gt;</span><span class=3D"html-tag">&lt;/li&gt;</span></td></tr><tr=
+><td class=3D"line-number" value=3D"107"></td><td class=3D"line-content">  =
+  <span class=3D"html-tag">&lt;/ul&gt;</span></td></tr><tr><td class=3D"lin=
+e-number" value=3D"108"></td><td class=3D"line-content">  <span class=3D"ht=
+ml-tag">&lt;/li&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"=
+109"></td><td class=3D"line-content">  <span class=3D"html-tag">&lt;li&gt;<=
+/span></td></tr><tr><td class=3D"line-number" value=3D"110"></td><td class=
+=3D"line-content">    <span class=3D"html-tag">&lt;h3 <span class=3D"html-a=
+ttribute-name">id</span>=3D"<span class=3D"html-attribute-value">genomic-dn=
+a-or-dna-methylation</span>"&gt;</span>Genomic DNA or DNA methylation<span =
+class=3D"html-tag">&lt;/h3&gt;</span></td></tr><tr><td class=3D"line-number=
+" value=3D"111"></td><td class=3D"line-content"><br></td></tr><tr><td class=
+=3D"line-number" value=3D"112"></td><td class=3D"line-content">    <span cl=
+ass=3D"html-tag">&lt;ul&gt;</span></td></tr><tr><td class=3D"line-number" v=
+alue=3D"113"></td><td class=3D"line-content">      <span class=3D"html-tag"=
+>&lt;li&gt;</span><span class=3D"html-tag">&lt;a <span class=3D"html-attrib=
+ute-name">href</span>=3D"<a class=3D"html-attribute-value html-external-lin=
+k" target=3D"_blank" href=3D"https://teichlab.github.io/scg_lib_structs/met=
+hods_html/scBS-seq.html" rel=3D"noreferrer noopener">https://teichlab.githu=
+b.io/scg_lib_structs/methods_html/scBS-seq.html</a>"&gt;</span>scBS-seq<spa=
+n class=3D"html-tag">&lt;/a&gt;</span><span class=3D"html-tag">&lt;/li&gt;<=
+/span></td></tr><tr><td class=3D"line-number" value=3D"114"></td><td class=
+=3D"line-content">      <span class=3D"html-tag">&lt;li&gt;</span><span cla=
+ss=3D"html-tag">&lt;a <span class=3D"html-attribute-name">href</span>=3D"<a=
+ class=3D"html-attribute-value html-external-link" target=3D"_blank" href=
+=3D"https://teichlab.github.io/scg_lib_structs/methods_html/MALBAC.html" re=
+l=3D"noreferrer noopener">https://teichlab.github.io/scg_lib_structs/method=
+s_html/MALBAC.html</a>"&gt;</span>MALBAC<span class=3D"html-tag">&lt;/a&gt;=
+</span><span class=3D"html-tag">&lt;/li&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"115"></td><td class=3D"line-content">      <span =
+class=3D"html-tag">&lt;li&gt;</span><span class=3D"html-tag">&lt;a <span cl=
+ass=3D"html-attribute-name">href</span>=3D"<a class=3D"html-attribute-value=
+ html-external-link" target=3D"_blank" href=3D"https://teichlab.github.io/s=
+cg_lib_structs/methods_html/scRRBS.html" rel=3D"noreferrer noopener">https:=
+//teichlab.github.io/scg_lib_structs/methods_html/scRRBS.html</a>"&gt;</spa=
+n>scRRBS<span class=3D"html-tag">&lt;/a&gt;</span><span class=3D"html-tag">=
+&lt;/li&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"116"></t=
+d><td class=3D"line-content">      <span class=3D"html-tag">&lt;li&gt;</spa=
+n><span class=3D"html-tag">&lt;a <span class=3D"html-attribute-name">href</=
+span>=3D"<a class=3D"html-attribute-value html-external-link" target=3D"_bl=
+ank" href=3D"https://teichlab.github.io/scg_lib_structs/methods_html/LIANTI=
+.html" rel=3D"noreferrer noopener">https://teichlab.github.io/scg_lib_struc=
+ts/methods_html/LIANTI.html</a>"&gt;</span>LIANTI<span class=3D"html-tag">&=
+lt;/a&gt;</span><span class=3D"html-tag">&lt;/li&gt;</span></td></tr><tr><t=
+d class=3D"line-number" value=3D"117"></td><td class=3D"line-content">    <=
+span class=3D"html-tag">&lt;/ul&gt;</span></td></tr><tr><td class=3D"line-n=
+umber" value=3D"118"></td><td class=3D"line-content">  <span class=3D"html-=
+tag">&lt;/li&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"119=
+"></td><td class=3D"line-content">  <span class=3D"html-tag">&lt;li&gt;</sp=
+an></td></tr><tr><td class=3D"line-number" value=3D"120"></td><td class=3D"=
+line-content">    <span class=3D"html-tag">&lt;h3 <span class=3D"html-attri=
+bute-name">id</span>=3D"<span class=3D"html-attribute-value">multi-omics</s=
+pan>"&gt;</span>Multi-Omics<span class=3D"html-tag">&lt;/h3&gt;</span></td>=
+</tr><tr><td class=3D"line-number" value=3D"121"></td><td class=3D"line-con=
+tent"><br></td></tr><tr><td class=3D"line-number" value=3D"122"></td><td cl=
+ass=3D"line-content">    <span class=3D"html-tag">&lt;ul&gt;</span></td></t=
+r><tr><td class=3D"line-number" value=3D"123"></td><td class=3D"line-conten=
+t">      <span class=3D"html-tag">&lt;li&gt;</span><span class=3D"html-tag"=
+>&lt;a <span class=3D"html-attribute-name">href</span>=3D"<a class=3D"html-=
+attribute-value html-external-link" target=3D"_blank" href=3D"https://teich=
+lab.github.io/scg_lib_structs/methods_html/10xChromium_multiome.html" rel=
+=3D"noreferrer noopener">https://teichlab.github.io/scg_lib_structs/methods=
+_html/10xChromium_multiome.html</a>"&gt;</span>10x Chromium Single Cell Mul=
+tiome ATAC + Gene Expression<span class=3D"html-tag">&lt;/a&gt;</span><span=
+ class=3D"html-tag">&lt;/li&gt;</span></td></tr><tr><td class=3D"line-numbe=
+r" value=3D"124"></td><td class=3D"line-content">      <span class=3D"html-=
+tag">&lt;li&gt;</span><span class=3D"html-tag">&lt;a <span class=3D"html-at=
+tribute-name">href</span>=3D"<a class=3D"html-attribute-value html-external=
+-link" target=3D"_blank" href=3D"https://teichlab.github.io/scg_lib_structs=
+/methods_html/scNOMe_scCOOL.html" rel=3D"noreferrer noopener">https://teich=
+lab.github.io/scg_lib_structs/methods_html/scNOMe_scCOOL.html</a>"&gt;</spa=
+n>scNOMe-seq/scCOOL-seq<span class=3D"html-tag">&lt;/a&gt;</span><span clas=
+s=3D"html-tag">&lt;/li&gt;</span></td></tr><tr><td class=3D"line-number" va=
+lue=3D"125"></td><td class=3D"line-content">      <span class=3D"html-tag">=
+&lt;li&gt;</span><span class=3D"html-tag">&lt;a <span class=3D"html-attribu=
+te-name">href</span>=3D"<a class=3D"html-attribute-value html-external-link=
+" target=3D"_blank" href=3D"https://teichlab.github.io/scg_lib_structs/meth=
+ods_html/scDamT-seq.html" rel=3D"noreferrer noopener">https://teichlab.gith=
+ub.io/scg_lib_structs/methods_html/scDamT-seq.html</a>"&gt;</span>scDam&amp=
+;amp;T-seq<span class=3D"html-tag">&lt;/a&gt;</span><span class=3D"html-tag=
+">&lt;/li&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"126"><=
+/td><td class=3D"line-content">      <span class=3D"html-tag">&lt;li&gt;</s=
+pan><span class=3D"html-tag">&lt;a <span class=3D"html-attribute-name">href=
+</span>=3D"<a class=3D"html-attribute-value html-external-link" target=3D"_=
+blank" href=3D"https://teichlab.github.io/scg_lib_structs/methods_html/ISSA=
+AC-seq.html" rel=3D"noreferrer noopener">https://teichlab.github.io/scg_lib=
+_structs/methods_html/ISSAAC-seq.html</a>"&gt;</span>ISSAAC-seq<span class=
+=3D"html-tag">&lt;/a&gt;</span><span class=3D"html-tag">&lt;/li&gt;</span><=
+/td></tr><tr><td class=3D"line-number" value=3D"127"></td><td class=3D"line=
+-content">      <span class=3D"html-tag">&lt;li&gt;</span><span class=3D"ht=
+ml-tag">&lt;a <span class=3D"html-attribute-name">href</span>=3D"<a class=
+=3D"html-attribute-value html-external-link" target=3D"_blank" href=3D"http=
+s://teichlab.github.io/scg_lib_structs/methods_html/SHARE-seq.html" rel=3D"=
+noreferrer noopener">https://teichlab.github.io/scg_lib_structs/methods_htm=
+l/SHARE-seq.html</a>"&gt;</span>SHARE-seq<span class=3D"html-tag">&lt;/a&gt=
+;</span><span class=3D"html-tag">&lt;/li&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"128"></td><td class=3D"line-content">      <span =
+class=3D"html-tag">&lt;li&gt;</span><span class=3D"html-tag">&lt;a <span cl=
+ass=3D"html-attribute-name">href</span>=3D"<a class=3D"html-attribute-value=
+ html-external-link" target=3D"_blank" href=3D"https://teichlab.github.io/s=
+cg_lib_structs/methods_html/SNARE-seq.html" rel=3D"noreferrer noopener">htt=
+ps://teichlab.github.io/scg_lib_structs/methods_html/SNARE-seq.html</a>"&gt=
+;</span>SNARE-seq<span class=3D"html-tag">&lt;/a&gt;</span><span class=3D"h=
+tml-tag">&lt;/li&gt;</span></td></tr><tr><td class=3D"line-number" value=3D=
+"129"></td><td class=3D"line-content">      <span class=3D"html-tag">&lt;li=
+&gt;</span><span class=3D"html-tag">&lt;a <span class=3D"html-attribute-nam=
+e">href</span>=3D"<a class=3D"html-attribute-value html-external-link" targ=
+et=3D"_blank" href=3D"https://teichlab.github.io/scg_lib_structs/methods_ht=
+ml/scNMT-seq.html" rel=3D"noreferrer noopener">https://teichlab.github.io/s=
+cg_lib_structs/methods_html/scNMT-seq.html</a>"&gt;</span>scNMT-seq<span cl=
+ass=3D"html-tag">&lt;/a&gt;</span><span class=3D"html-tag">&lt;/li&gt;</spa=
+n></td></tr><tr><td class=3D"line-number" value=3D"130"></td><td class=3D"l=
+ine-content">      <span class=3D"html-tag">&lt;li&gt;</span><span class=3D=
+"html-tag">&lt;a <span class=3D"html-attribute-name">href</span>=3D"<a clas=
+s=3D"html-attribute-value html-external-link" target=3D"_blank" href=3D"htt=
+ps://teichlab.github.io/scg_lib_structs/methods_html/scMandT.html" rel=3D"n=
+oreferrer noopener">https://teichlab.github.io/scg_lib_structs/methods_html=
+/scMandT.html</a>"&gt;</span>scM&amp;amp;T-seq<span class=3D"html-tag">&lt;=
+/a&gt;</span><span class=3D"html-tag">&lt;/li&gt;</span></td></tr><tr><td c=
+lass=3D"line-number" value=3D"131"></td><td class=3D"line-content">      <s=
+pan class=3D"html-tag">&lt;li&gt;</span><span class=3D"html-tag">&lt;a <spa=
+n class=3D"html-attribute-name">href</span>=3D"<a class=3D"html-attribute-v=
+alue html-external-link" target=3D"_blank" href=3D"https://teichlab.github.=
+io/scg_lib_structs/methods_html/Paired-seq.html" rel=3D"noreferrer noopener=
+">https://teichlab.github.io/scg_lib_structs/methods_html/Paired-seq.html</=
+a>"&gt;</span>Paired-seq<span class=3D"html-tag">&lt;/a&gt;</span><span cla=
+ss=3D"html-tag">&lt;/li&gt;</span></td></tr><tr><td class=3D"line-number" v=
+alue=3D"132"></td><td class=3D"line-content">      <span class=3D"html-tag"=
+>&lt;li&gt;</span><span class=3D"html-tag">&lt;a <span class=3D"html-attrib=
+ute-name">href</span>=3D"<a class=3D"html-attribute-value html-external-lin=
+k" target=3D"_blank" href=3D"https://teichlab.github.io/scg_lib_structs/met=
+hods_html/scCAT-seq.html" rel=3D"noreferrer noopener">https://teichlab.gith=
+ub.io/scg_lib_structs/methods_html/scCAT-seq.html</a>"&gt;</span>scCAT-seq<=
+span class=3D"html-tag">&lt;/a&gt;</span><span class=3D"html-tag">&lt;/li&g=
+t;</span></td></tr><tr><td class=3D"line-number" value=3D"133"></td><td cla=
+ss=3D"line-content">      <span class=3D"html-tag">&lt;li&gt;</span><span c=
+lass=3D"html-tag">&lt;a <span class=3D"html-attribute-name">href</span>=3D"=
+<a class=3D"html-attribute-value html-external-link" target=3D"_blank" href=
+=3D"https://teichlab.github.io/scg_lib_structs/methods_html/scTrio-seq.html=
+" rel=3D"noreferrer noopener">https://teichlab.github.io/scg_lib_structs/me=
+thods_html/scTrio-seq.html</a>"&gt;</span>scTrio-seq<span class=3D"html-tag=
+">&lt;/a&gt;</span><span class=3D"html-tag">&lt;/li&gt;</span></td></tr><tr=
+><td class=3D"line-number" value=3D"134"></td><td class=3D"line-content">  =
+    <span class=3D"html-tag">&lt;li&gt;</span><span class=3D"html-tag">&lt;=
+a <span class=3D"html-attribute-name">href</span>=3D"<a class=3D"html-attri=
+bute-value html-external-link" target=3D"_blank" href=3D"https://teichlab.g=
+ithub.io/scg_lib_structs/methods_html/scMT-seq.html" rel=3D"noreferrer noop=
+ener">https://teichlab.github.io/scg_lib_structs/methods_html/scMT-seq.html=
+</a>"&gt;</span>scMT-seq<span class=3D"html-tag">&lt;/a&gt;</span><span cla=
+ss=3D"html-tag">&lt;/li&gt;</span></td></tr><tr><td class=3D"line-number" v=
+alue=3D"135"></td><td class=3D"line-content">      <span class=3D"html-tag"=
+>&lt;li&gt;</span><span class=3D"html-tag">&lt;a <span class=3D"html-attrib=
+ute-name">href</span>=3D"<a class=3D"html-attribute-value html-external-lin=
+k" target=3D"_blank" href=3D"https://teichlab.github.io/scg_lib_structs/met=
+hods_html/G_and_T_seq.html" rel=3D"noreferrer noopener">https://teichlab.gi=
+thub.io/scg_lib_structs/methods_html/G_and_T_seq.html</a>"&gt;</span>G&amp;=
+amp;T-seq<span class=3D"html-tag">&lt;/a&gt;</span><span class=3D"html-tag"=
+>&lt;/li&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"136"></=
+td><td class=3D"line-content">      <span class=3D"html-tag">&lt;li&gt;</sp=
+an><span class=3D"html-tag">&lt;a <span class=3D"html-attribute-name">href<=
+/span>=3D"<a class=3D"html-attribute-value html-external-link" target=3D"_b=
+lank" href=3D"https://teichlab.github.io/scg_lib_structs/methods_html/DR-se=
+q.html" rel=3D"noreferrer noopener">https://teichlab.github.io/scg_lib_stru=
+cts/methods_html/DR-seq.html</a>"&gt;</span>DR-seq<span class=3D"html-tag">=
+&lt;/a&gt;</span><span class=3D"html-tag">&lt;/li&gt;</span></td></tr><tr><=
+td class=3D"line-number" value=3D"137"></td><td class=3D"line-content">    =
+<span class=3D"html-tag">&lt;/ul&gt;</span></td></tr><tr><td class=3D"line-=
+number" value=3D"138"></td><td class=3D"line-content">  <span class=3D"html=
+-tag">&lt;/li&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"13=
+9"></td><td class=3D"line-content">  <span class=3D"html-tag">&lt;li&gt;</s=
+pan></td></tr><tr><td class=3D"line-number" value=3D"140"></td><td class=3D=
+"line-content">    <span class=3D"html-tag">&lt;h3 <span class=3D"html-attr=
+ibute-name">id</span>=3D"<span class=3D"html-attribute-value">todo-list</sp=
+an>"&gt;</span>TODO list:<span class=3D"html-tag">&lt;/h3&gt;</span></td></=
+tr><tr><td class=3D"line-number" value=3D"141"></td><td class=3D"line-conte=
+nt"><br></td></tr><tr><td class=3D"line-number" value=3D"142"></td><td clas=
+s=3D"line-content">    <span class=3D"html-tag">&lt;ul&gt;</span></td></tr>=
+<tr><td class=3D"line-number" value=3D"143"></td><td class=3D"line-content"=
+>      <span class=3D"html-tag">&lt;li&gt;</span><span class=3D"html-tag">&=
+lt;a <span class=3D"html-attribute-name">href</span>=3D"<a class=3D"html-at=
+tribute-value html-external-link" target=3D"_blank" href=3D"https://www.nat=
+ure.com/articles/s41592-018-0107-y" rel=3D"noreferrer noopener">https://www=
+.nature.com/articles/s41592-018-0107-y</a>"&gt;</span>Trac-looping<span cla=
+ss=3D"html-tag">&lt;/a&gt;</span><span class=3D"html-tag">&lt;/li&gt;</span=
+></td></tr><tr><td class=3D"line-number" value=3D"144"></td><td class=3D"li=
+ne-content">      <span class=3D"html-tag">&lt;li&gt;</span><span class=3D"=
+html-tag">&lt;a <span class=3D"html-attribute-name">href</span>=3D"<a class=
+=3D"html-attribute-value html-external-link" target=3D"_blank" href=3D"http=
+s://www.nature.com/articles/nmeth.4145" rel=3D"noreferrer noopener">https:/=
+/www.nature.com/articles/nmeth.4145</a>"&gt;</span>MATQ-seq<span class=3D"h=
+tml-tag">&lt;/a&gt;</span><span class=3D"html-tag">&lt;/li&gt;</span></td><=
+/tr><tr><td class=3D"line-number" value=3D"145"></td><td class=3D"line-cont=
+ent">      <span class=3D"html-tag">&lt;li&gt;</span><span class=3D"html-ta=
+g">&lt;a <span class=3D"html-attribute-name">href</span>=3D"<a class=3D"htm=
+l-attribute-value html-external-link" target=3D"_blank" href=3D"https://www=
+.biorxiv.org/content/10.1101/829960v1" rel=3D"noreferrer noopener">https://=
+www.biorxiv.org/content/10.1101/829960v1</a>"&gt;</span>ASTAR-seq<span clas=
+s=3D"html-tag">&lt;/a&gt;</span><span class=3D"html-tag">&lt;/li&gt;</span>=
+</td></tr><tr><td class=3D"line-number" value=3D"146"></td><td class=3D"lin=
+e-content">      <span class=3D"html-tag">&lt;li&gt;</span><span class=3D"h=
+tml-tag">&lt;a <span class=3D"html-attribute-name">href</span>=3D"<a class=
+=3D"html-attribute-value html-external-link" target=3D"_blank" href=3D"http=
+s://www.nature.com/articles/s41588-019-0424-9" rel=3D"noreferrer noopener">=
+https://www.nature.com/articles/s41588-019-0424-9</a>"&gt;</span>Drop scChI=
+P-seq<span class=3D"html-tag">&lt;/a&gt;</span><span class=3D"html-tag">&lt=
+;/li&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"147"></td><=
+td class=3D"line-content">      <span class=3D"html-tag">&lt;li&gt;</span><=
+span class=3D"html-tag">&lt;a <span class=3D"html-attribute-name">href</spa=
+n>=3D"<a class=3D"html-attribute-value html-external-link" target=3D"_blank=
+" href=3D"https://science.sciencemag.org/content/early/2019/12/04/science.a=
+ax6234.full" rel=3D"noreferrer noopener">https://science.sciencemag.org/con=
+tent/early/2019/12/04/science.aax6234.full</a>"&gt;</span>sci-Plex<span cla=
+ss=3D"html-tag">&lt;/a&gt;</span><span class=3D"html-tag">&lt;/li&gt;</span=
+></td></tr><tr><td class=3D"line-number" value=3D"148"></td><td class=3D"li=
+ne-content">      <span class=3D"html-tag">&lt;li&gt;</span><span class=3D"=
+html-tag">&lt;a <span class=3D"html-attribute-name">href</span>=3D"<a class=
+=3D"html-attribute-value html-external-link" target=3D"_blank" href=3D"http=
+s://science.sciencemag.org/content/361/6409/1380.full" rel=3D"noreferrer no=
+opener">https://science.sciencemag.org/content/361/6409/1380.full</a>"&gt;<=
+/span>sci-CAR-seq<span class=3D"html-tag">&lt;/a&gt;</span><span class=3D"h=
+tml-tag">&lt;/li&gt;</span></td></tr><tr><td class=3D"line-number" value=3D=
+"149"></td><td class=3D"line-content">      <span class=3D"html-tag">&lt;li=
+&gt;</span><span class=3D"html-tag">&lt;a <span class=3D"html-attribute-nam=
+e">href</span>=3D"<a class=3D"html-attribute-value html-external-link" targ=
+et=3D"_blank" href=3D"https://www.biorxiv.org/content/10.1101/2019.12.11.87=
+3398v1" rel=3D"noreferrer noopener">https://www.biorxiv.org/content/10.1101=
+/2019.12.11.873398v1</a>"&gt;</span>snmC2T-seq<span class=3D"html-tag">&lt;=
+/a&gt;</span><span class=3D"html-tag">&lt;/li&gt;</span></td></tr><tr><td c=
+lass=3D"line-number" value=3D"150"></td><td class=3D"line-content">      <s=
+pan class=3D"html-tag">&lt;li&gt;</span><span class=3D"html-tag">&lt;a <spa=
+n class=3D"html-attribute-name">href</span>=3D"<a class=3D"html-attribute-v=
+alue html-external-link" target=3D"_blank" href=3D"https://www.biorxiv.org/=
+content/10.1101/2019.12.31.892190v1" rel=3D"noreferrer noopener">https://ww=
+w.biorxiv.org/content/10.1101/2019.12.31.892190v1</a>"&gt;</span>MALBAC-DT<=
+span class=3D"html-tag">&lt;/a&gt;</span><span class=3D"html-tag">&lt;/li&g=
+t;</span></td></tr><tr><td class=3D"line-number" value=3D"151"></td><td cla=
+ss=3D"line-content">      <span class=3D"html-tag">&lt;li&gt;</span><span c=
+lass=3D"html-tag">&lt;a <span class=3D"html-attribute-name">href</span>=3D"=
+<a class=3D"html-attribute-value html-external-link" target=3D"_blank" href=
+=3D"https://www.nature.com/articles/nbt.3968" rel=3D"noreferrer noopener">h=
+ttps://www.nature.com/articles/nbt.3968</a>"&gt;</span>GRID-seq<span class=
+=3D"html-tag">&lt;/a&gt;</span><span class=3D"html-tag">&lt;/li&gt;</span><=
+/td></tr><tr><td class=3D"line-number" value=3D"152"></td><td class=3D"line=
+-content">      <span class=3D"html-tag">&lt;li&gt;</span><span class=3D"ht=
+ml-tag">&lt;a <span class=3D"html-attribute-name">href</span>=3D"<a class=
+=3D"html-attribute-value html-external-link" target=3D"_blank" href=3D"http=
+s://www.biorxiv.org/content/10.1101/2020.02.04.932988v1" rel=3D"noreferrer =
+noopener">https://www.biorxiv.org/content/10.1101/2020.02.04.932988v1</a>"&=
+gt;</span>ZipSeq<span class=3D"html-tag">&lt;/a&gt;</span><span class=3D"ht=
+ml-tag">&lt;/li&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"=
+153"></td><td class=3D"line-content">      <span class=3D"html-tag">&lt;li&=
+gt;</span><span class=3D"html-tag">&lt;a <span class=3D"html-attribute-name=
+">href</span>=3D"<a class=3D"html-attribute-value html-external-link" targe=
+t=3D"_blank" href=3D"https://www.biorxiv.org/content/10.1101/866244v1" rel=
+=3D"noreferrer noopener">https://www.biorxiv.org/content/10.1101/866244v1</=
+a>"&gt;</span>PETRI-seq<span class=3D"html-tag">&lt;/a&gt;</span><span clas=
+s=3D"html-tag">&lt;/li&gt;</span></td></tr><tr><td class=3D"line-number" va=
+lue=3D"154"></td><td class=3D"line-content">      <span class=3D"html-tag">=
+&lt;li&gt;</span><span class=3D"html-tag">&lt;a <span class=3D"html-attribu=
+te-name">href</span>=3D"<a class=3D"html-attribute-value html-external-link=
+" target=3D"_blank" href=3D"https://www.biorxiv.org/content/10.1101/869248v=
+2" rel=3D"noreferrer noopener">https://www.biorxiv.org/content/10.1101/8692=
+48v2</a>"&gt;</span>microSPLiT<span class=3D"html-tag">&lt;/a&gt;</span><sp=
+an class=3D"html-tag">&lt;/li&gt;</span></td></tr><tr><td class=3D"line-num=
+ber" value=3D"155"></td><td class=3D"line-content">      <span class=3D"htm=
+l-tag">&lt;li&gt;</span><span class=3D"html-tag">&lt;a <span class=3D"html-=
+attribute-name">href</span>=3D"<a class=3D"html-attribute-value html-extern=
+al-link" target=3D"_blank" href=3D"https://www.sciencedirect.com/science/ar=
+ticle/pii/S009286742030814X" rel=3D"noreferrer noopener">https://www.scienc=
+edirect.com/science/article/pii/S009286742030814X</a>"&gt;</span>scCC<span =
+class=3D"html-tag">&lt;/a&gt;</span><span class=3D"html-tag">&lt;/li&gt;</s=
+pan></td></tr><tr><td class=3D"line-number" value=3D"156"></td><td class=3D=
+"line-content">      <span class=3D"html-tag">&lt;li&gt;</span><span class=
+=3D"html-tag">&lt;a <span class=3D"html-attribute-name">href</span>=3D"<a c=
+lass=3D"html-attribute-value html-external-link" target=3D"_blank" href=3D"=
+https://www.biorxiv.org/content/10.1101/2020.08.11.242081v1" rel=3D"norefer=
+rer noopener">https://www.biorxiv.org/content/10.1101/2020.08.11.242081v1</=
+a>"&gt;</span>scSPRITE<span class=3D"html-tag">&lt;/a&gt;</span><span class=
+=3D"html-tag">&lt;/li&gt;</span></td></tr><tr><td class=3D"line-number" val=
+ue=3D"157"></td><td class=3D"line-content">      <span class=3D"html-tag">&=
+lt;li&gt;</span><span class=3D"html-tag">&lt;a <span class=3D"html-attribut=
+e-name">href</span>=3D"<a class=3D"html-attribute-value html-external-link"=
+ target=3D"_blank" href=3D"https://www.biorxiv.org/content/10.1101/2020.09.=
+04.283887v2" rel=3D"noreferrer noopener">https://www.biorxiv.org/content/10=
+.1101/2020.09.04.283887v2</a>"&gt;</span>TEA-seq/ICICLE-seq<span class=3D"h=
+tml-tag">&lt;/a&gt;</span><span class=3D"html-tag">&lt;/li&gt;</span></td><=
+/tr><tr><td class=3D"line-number" value=3D"158"></td><td class=3D"line-cont=
+ent">      <span class=3D"html-tag">&lt;li&gt;</span><span class=3D"html-ta=
+g">&lt;a <span class=3D"html-attribute-name">href</span>=3D"<a class=3D"htm=
+l-attribute-value html-external-link" target=3D"_blank" href=3D"https://sci=
+ence.sciencemag.org/content/370/6518/eaba7612.long" rel=3D"noreferrer noope=
+ner">https://science.sciencemag.org/content/370/6518/eaba7612.long</a>"&gt;=
+</span>sci-ATAC-seq3<span class=3D"html-tag">&lt;/a&gt;</span><span class=
+=3D"html-tag">&lt;/li&gt;</span></td></tr><tr><td class=3D"line-number" val=
+ue=3D"159"></td><td class=3D"line-content">      <span class=3D"html-tag">&=
+lt;li&gt;</span><span class=3D"html-tag">&lt;a <span class=3D"html-attribut=
+e-name">href</span>=3D"<a class=3D"html-attribute-value html-external-link"=
+ target=3D"_blank" href=3D"https://www.biorxiv.org/content/10.1101/2021.01.=
+11.425995v1" rel=3D"noreferrer noopener">https://www.biorxiv.org/content/10=
+.1101/2021.01.11.425995v1</a>"&gt;</span>s3-ATAC/WGS/GCC<span class=3D"html=
+-tag">&lt;/a&gt;</span><span class=3D"html-tag">&lt;/li&gt;</span></td></tr=
+><tr><td class=3D"line-number" value=3D"160"></td><td class=3D"line-content=
+">      <span class=3D"html-tag">&lt;li&gt;</span><span class=3D"html-tag">=
+&lt;a <span class=3D"html-attribute-name">href</span>=3D"<a class=3D"html-a=
+ttribute-value html-external-link" target=3D"_blank" href=3D"https://www.bi=
+orxiv.org/content/10.1101/2021.03.11.434985v1" rel=3D"noreferrer noopener">=
+https://www.biorxiv.org/content/10.1101/2021.03.11.434985v1</a>"&gt;</span>=
+hsrChST-seq<span class=3D"html-tag">&lt;/a&gt;</span><span class=3D"html-ta=
+g">&lt;/li&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"161">=
+</td><td class=3D"line-content">      <span class=3D"html-tag">&lt;li&gt;</=
+span><span class=3D"html-tag">&lt;a <span class=3D"html-attribute-name">hre=
+f</span>=3D"<a class=3D"html-attribute-value html-external-link" target=3D"=
+_blank" href=3D"https://www.biorxiv.org/content/10.1101/2021.03.17.435909v1=
+" rel=3D"noreferrer noopener">https://www.biorxiv.org/content/10.1101/2021.=
+03.17.435909v1</a>"&gt;</span>TIP-seq<span class=3D"html-tag">&lt;/a&gt;</s=
+pan><span class=3D"html-tag">&lt;/li&gt;</span></td></tr><tr><td class=3D"l=
+ine-number" value=3D"162"></td><td class=3D"line-content">      <span class=
+=3D"html-tag">&lt;li&gt;</span><span class=3D"html-tag">&lt;a <span class=
+=3D"html-attribute-name">href</span>=3D"<a class=3D"html-attribute-value ht=
+ml-external-link" target=3D"_blank" href=3D"https://www.nature.com/articles=
+/s41592-019-0392-0" rel=3D"noreferrer noopener">https://www.nature.com/arti=
+cles/s41592-019-0392-0</a>"&gt;</span>ECCITE-seq<span class=3D"html-tag">&l=
+t;/a&gt;</span><span class=3D"html-tag">&lt;/li&gt;</span></td></tr><tr><td=
+ class=3D"line-number" value=3D"163"></td><td class=3D"line-content">      =
+<span class=3D"html-tag">&lt;li&gt;</span><span class=3D"html-tag">&lt;a <s=
+pan class=3D"html-attribute-name">href</span>=3D"<a class=3D"html-attribute=
+-value html-external-link" target=3D"_blank" href=3D"https://www.nature.com=
+/articles/s41587-021-00927-2" rel=3D"noreferrer noopener">https://www.natur=
+e.com/articles/s41587-021-00927-2</a>"&gt;</span>ASAP-seq/DOGMA-seq<span cl=
+ass=3D"html-tag">&lt;/a&gt;</span><span class=3D"html-tag">&lt;/li&gt;</spa=
+n></td></tr><tr><td class=3D"line-number" value=3D"164"></td><td class=3D"l=
+ine-content">      <span class=3D"html-tag">&lt;li&gt;</span><span class=3D=
+"html-tag">&lt;a <span class=3D"html-attribute-name">href</span>=3D"<a clas=
+s=3D"html-attribute-value html-external-link" target=3D"_blank" href=3D"htt=
+ps://www.biorxiv.org/content/10.1101/2021.06.04.447104v1" rel=3D"noreferrer=
+ noopener">https://www.biorxiv.org/content/10.1101/2021.06.04.447104v1</a>"=
+&gt;</span>HyDrop<span class=3D"html-tag">&lt;/a&gt;</span><span class=3D"h=
+tml-tag">&lt;/li&gt;</span></td></tr><tr><td class=3D"line-number" value=3D=
+"165"></td><td class=3D"line-content">      <span class=3D"html-tag">&lt;li=
+&gt;</span><span class=3D"html-tag">&lt;a <span class=3D"html-attribute-nam=
+e">href</span>=3D"<a class=3D"html-attribute-value html-external-link" targ=
+et=3D"_blank" href=3D"https://www.biorxiv.org/content/10.1101/2020.10.01.32=
+2420v1" rel=3D"noreferrer noopener">https://www.biorxiv.org/content/10.1101=
+/2020.10.01.322420v1</a>"&gt;</span>PHAGE-ATAC<span class=3D"html-tag">&lt;=
+/a&gt;</span><span class=3D"html-tag">&lt;/li&gt;</span></td></tr><tr><td c=
+lass=3D"line-number" value=3D"166"></td><td class=3D"line-content">      <s=
+pan class=3D"html-tag">&lt;li&gt;</span><span class=3D"html-tag">&lt;a <spa=
+n class=3D"html-attribute-name">href</span>=3D"<a class=3D"html-attribute-v=
+alue html-external-link" target=3D"_blank" href=3D"https://www.biorxiv.org/=
+content/10.1101/2021.06.06.447244v1" rel=3D"noreferrer noopener">https://ww=
+w.biorxiv.org/content/10.1101/2021.06.06.447244v1</a>"&gt;</span>Spatial-AT=
+AC-seq<span class=3D"html-tag">&lt;/a&gt;</span><span class=3D"html-tag">&l=
+t;/li&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"167"></td>=
+<td class=3D"line-content">      <span class=3D"html-tag">&lt;li&gt;</span>=
+<span class=3D"html-tag">&lt;a <span class=3D"html-attribute-name">href</sp=
+an>=3D"<a class=3D"html-attribute-value html-external-link" target=3D"_blan=
+k" href=3D"https://www.science.org/doi/10.1126/science.abg7216" rel=3D"nore=
+ferrer noopener">https://www.science.org/doi/10.1126/science.abg7216</a>"&g=
+t;</span>Spatial C&amp;amp;T<span class=3D"html-tag">&lt;/a&gt;</span><span=
+ class=3D"html-tag">&lt;/li&gt;</span></td></tr><tr><td class=3D"line-numbe=
+r" value=3D"168"></td><td class=3D"line-content">      <span class=3D"html-=
+tag">&lt;li&gt;</span><span class=3D"html-tag">&lt;a <span class=3D"html-at=
+tribute-name">href</span>=3D"<a class=3D"html-attribute-value html-external=
+-link" target=3D"_blank" href=3D"https://www.biorxiv.org/content/10.1101/20=
+21.03.25.436351v1" rel=3D"noreferrer noopener">https://www.biorxiv.org/cont=
+ent/10.1101/2021.03.25.436351v1</a>"&gt;</span>scTEM-seq<span class=3D"html=
+-tag">&lt;/a&gt;</span><span class=3D"html-tag">&lt;/li&gt;</span></td></tr=
+><tr><td class=3D"line-number" value=3D"169"></td><td class=3D"line-content=
+">      <span class=3D"html-tag">&lt;li&gt;</span><span class=3D"html-tag">=
+&lt;a <span class=3D"html-attribute-name">href</span>=3D"<a class=3D"html-a=
+ttribute-value html-external-link" target=3D"_blank" href=3D"https://www.sc=
+iencedirect.com/science/article/pii/S0092867420313908" rel=3D"noreferrer no=
+opener">https://www.sciencedirect.com/science/article/pii/S0092867420313908=
+</a>"&gt;</span>DBiT-seq<span class=3D"html-tag">&lt;/a&gt;</span><span cla=
+ss=3D"html-tag">&lt;/li&gt;</span></td></tr><tr><td class=3D"line-number" v=
+alue=3D"170"></td><td class=3D"line-content">      <span class=3D"html-tag"=
+>&lt;li&gt;</span><span class=3D"html-tag">&lt;a <span class=3D"html-attrib=
+ute-name">href</span>=3D"<a class=3D"html-attribute-value html-external-lin=
+k" target=3D"_blank" href=3D"https://www.nature.com/articles/s41587-021-010=
+31-1" rel=3D"noreferrer noopener">https://www.nature.com/articles/s41587-02=
+1-01031-1</a>"&gt;</span>scGET-seq<span class=3D"html-tag">&lt;/a&gt;</span=
+><span class=3D"html-tag">&lt;/li&gt;</span></td></tr><tr><td class=3D"line=
+-number" value=3D"171"></td><td class=3D"line-content">      <span class=3D=
+"html-tag">&lt;li&gt;</span><span class=3D"html-tag">&lt;a <span class=3D"h=
+tml-attribute-name">href</span>=3D"<a class=3D"html-attribute-value html-ex=
+ternal-link" target=3D"_blank" href=3D"https://www.sciencedirect.com/scienc=
+e/article/pii/S109727652100753X" rel=3D"noreferrer noopener">https://www.sc=
+iencedirect.com/science/article/pii/S109727652100753X</a>"&gt;</span>Multi-=
+CUT&amp;amp;Tag<span class=3D"html-tag">&lt;/a&gt;</span><span class=3D"htm=
+l-tag">&lt;/li&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"1=
+72"></td><td class=3D"line-content">      <span class=3D"html-tag">&lt;li&g=
+t;</span><span class=3D"html-tag">&lt;a <span class=3D"html-attribute-name"=
+>href</span>=3D"<a class=3D"html-attribute-value html-external-link" target=
+=3D"_blank" href=3D"https://www.biorxiv.org/content/10.1101/2021.07.08.4516=
+91v1" rel=3D"noreferrer noopener">https://www.biorxiv.org/content/10.1101/2=
+021.07.08.451691v1</a>"&gt;</span>MulTI-Tag<span class=3D"html-tag">&lt;/a&=
+gt;</span><span class=3D"html-tag">&lt;/li&gt;</span></td></tr><tr><td clas=
+s=3D"line-number" value=3D"173"></td><td class=3D"line-content">      <span=
+ class=3D"html-tag">&lt;li&gt;</span><span class=3D"html-tag">&lt;a <span c=
+lass=3D"html-attribute-name">href</span>=3D"<a class=3D"html-attribute-valu=
+e html-external-link" target=3D"_blank" href=3D"https://www.biorxiv.org/con=
+tent/10.1101/2021.10.25.465725v1" rel=3D"noreferrer noopener">https://www.b=
+iorxiv.org/content/10.1101/2021.10.25.465725v1</a>"&gt;</span>TIME-seq<span=
+ class=3D"html-tag">&lt;/a&gt;</span><span class=3D"html-tag">&lt;/li&gt;</=
+span></td></tr><tr><td class=3D"line-number" value=3D"174"></td><td class=
+=3D"line-content">      <span class=3D"html-tag">&lt;li&gt;</span><span cla=
+ss=3D"html-tag">&lt;a <span class=3D"html-attribute-name">href</span>=3D"<a=
+ class=3D"html-attribute-value html-external-link" target=3D"_blank" href=
+=3D"https://www.biorxiv.org/content/10.1101/2021.10.14.464375v2" rel=3D"nor=
+eferrer noopener">https://www.biorxiv.org/content/10.1101/2021.10.14.464375=
+v2</a>"&gt;</span>scSPLAT<span class=3D"html-tag">&lt;/a&gt;</span><span cl=
+ass=3D"html-tag">&lt;/li&gt;</span></td></tr><tr><td class=3D"line-number" =
+value=3D"175"></td><td class=3D"line-content">      <span class=3D"html-tag=
+">&lt;li&gt;</span><span class=3D"html-tag">&lt;a <span class=3D"html-attri=
+bute-name">href</span>=3D"<a class=3D"html-attribute-value html-external-li=
+nk" target=3D"_blank" href=3D"https://www.biorxiv.org/content/10.1101/2021.=
+10.26.465688v1" rel=3D"noreferrer noopener">https://www.biorxiv.org/content=
+/10.1101/2021.10.26.465688v1</a>"&gt;</span>EpiDamID<span class=3D"html-tag=
+">&lt;/a&gt;</span><span class=3D"html-tag">&lt;/li&gt;</span></td></tr><tr=
+><td class=3D"line-number" value=3D"176"></td><td class=3D"line-content">  =
+    <span class=3D"html-tag">&lt;li&gt;</span><span class=3D"html-tag">&lt;=
+a <span class=3D"html-attribute-name">href</span>=3D"<a class=3D"html-attri=
+bute-value html-external-link" target=3D"_blank" href=3D"https://www.nature=
+.com/articles/s41586-021-03887-4" rel=3D"noreferrer noopener">https://www.n=
+ature.com/articles/s41586-021-03887-4</a>"&gt;</span>scRibo-seq<span class=
+=3D"html-tag">&lt;/a&gt;</span><span class=3D"html-tag">&lt;/li&gt;</span><=
+/td></tr><tr><td class=3D"line-number" value=3D"177"></td><td class=3D"line=
+-content">      <span class=3D"html-tag">&lt;li&gt;</span><span class=3D"ht=
+ml-tag">&lt;a <span class=3D"html-attribute-name">href</span>=3D"<a class=
+=3D"html-attribute-value html-external-link" target=3D"_blank" href=3D"http=
+s://www.nature.com/articles/s41587-022-01312-3" rel=3D"noreferrer noopener"=
+>https://www.nature.com/articles/s41587-022-01312-3</a>"&gt;</span>FLASH-se=
+q<span class=3D"html-tag">&lt;/a&gt;</span><span class=3D"html-tag">&lt;/li=
+&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"178"></td><td c=
+lass=3D"line-content">      <span class=3D"html-tag">&lt;li&gt;</span><span=
+ class=3D"html-tag">&lt;a <span class=3D"html-attribute-name">href</span>=
+=3D"<a class=3D"html-attribute-value html-external-link" target=3D"_blank" =
+href=3D"https://www.nature.com/articles/s41587-022-01311-4" rel=3D"noreferr=
+er noopener">https://www.nature.com/articles/s41587-022-01311-4</a>"&gt;</s=
+pan>Smart-seq3xpress<span class=3D"html-tag">&lt;/a&gt;</span><span class=
+=3D"html-tag">&lt;/li&gt;</span></td></tr><tr><td class=3D"line-number" val=
+ue=3D"179"></td><td class=3D"line-content">      <span class=3D"html-tag">&=
+lt;li&gt;</span><span class=3D"html-tag">&lt;a <span class=3D"html-attribut=
+e-name">href</span>=3D"<a class=3D"html-attribute-value html-external-link"=
+ target=3D"_blank" href=3D"https://www.biorxiv.org/content/10.1101/2021.04.=
+04.438388v2" rel=3D"noreferrer noopener">https://www.biorxiv.org/content/10=
+.1101/2021.04.04.438388v2</a>"&gt;</span>sc-end5-seq<span class=3D"html-tag=
+">&lt;/a&gt;</span><span class=3D"html-tag">&lt;/li&gt;</span></td></tr><tr=
+><td class=3D"line-number" value=3D"180"></td><td class=3D"line-content">  =
+    <span class=3D"html-tag">&lt;li&gt;</span><span class=3D"html-tag">&lt;=
+a <span class=3D"html-attribute-name">href</span>=3D"<a class=3D"html-attri=
+bute-value html-external-link" target=3D"_blank" href=3D"https://www.scienc=
+e.org/doi/10.1126/science.aaw1219" rel=3D"noreferrer noopener">https://www.=
+science.org/doi/10.1126/science.aaw1219</a>"&gt;</span>Slide-seq<span class=
+=3D"html-tag">&lt;/a&gt;</span> / <span class=3D"html-tag">&lt;a <span clas=
+s=3D"html-attribute-name">href</span>=3D"<a class=3D"html-attribute-value h=
+tml-external-link" target=3D"_blank" href=3D"https://www.nature.com/article=
+s/s41587-020-0739-1" rel=3D"noreferrer noopener">https://www.nature.com/art=
+icles/s41587-020-0739-1</a>"&gt;</span>Slide-seqV2<span class=3D"html-tag">=
+&lt;/a&gt;</span> / <span class=3D"html-tag">&lt;a <span class=3D"html-attr=
+ibute-name">href</span>=3D"<a class=3D"html-attribute-value html-external-l=
+ink" target=3D"_blank" href=3D"https://www.nature.com/articles/s41586-021-0=
+4217-4" rel=3D"noreferrer noopener">https://www.nature.com/articles/s41586-=
+021-04217-4</a>"&gt;</span>Slide-DNA-seq<span class=3D"html-tag">&lt;/a&gt;=
+</span><span class=3D"html-tag">&lt;/li&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"181"></td><td class=3D"line-content">      <span =
+class=3D"html-tag">&lt;li&gt;</span><span class=3D"html-tag">&lt;a <span cl=
+ass=3D"html-attribute-name">href</span>=3D"<a class=3D"html-attribute-value=
+ html-external-link" target=3D"_blank" href=3D"https://www.nature.com/artic=
+les/s41592-021-01129-z" rel=3D"noreferrer noopener">https://www.nature.com/=
+articles/s41592-021-01129-z</a>"&gt;</span>CoTECH<span class=3D"html-tag">&=
+lt;/a&gt;</span><span class=3D"html-tag">&lt;/li&gt;</span></td></tr><tr><t=
+d class=3D"line-number" value=3D"182"></td><td class=3D"line-content">     =
+ <span class=3D"html-tag">&lt;li&gt;</span><span class=3D"html-tag">&lt;a <=
+span class=3D"html-attribute-name">href</span>=3D"<a class=3D"html-attribut=
+e-value html-external-link" target=3D"_blank" href=3D"https://www.nature.co=
+m/articles/s41592-021-01060-3" rel=3D"noreferrer noopener">https://www.natu=
+re.com/articles/s41592-021-01060-3</a>"&gt;</span>PairedTag<span class=3D"h=
+tml-tag">&lt;/a&gt;</span><span class=3D"html-tag">&lt;/li&gt;</span></td><=
+/tr><tr><td class=3D"line-number" value=3D"183"></td><td class=3D"line-cont=
+ent">      <span class=3D"html-tag">&lt;li&gt;</span><span class=3D"html-ta=
+g">&lt;a <span class=3D"html-attribute-name">href</span>=3D"<a class=3D"htm=
+l-attribute-value html-external-link" target=3D"_blank" href=3D"https://www=
+.biorxiv.org/content/10.1101/2022.05.11.491515v1" rel=3D"noreferrer noopene=
+r">https://www.biorxiv.org/content/10.1101/2022.05.11.491515v1</a>"&gt;</sp=
+an>GoT-ChA<span class=3D"html-tag">&lt;/a&gt;</span><span class=3D"html-tag=
+">&lt;/li&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"184"><=
+/td><td class=3D"line-content">      <span class=3D"html-tag">&lt;li&gt;</s=
+pan><span class=3D"html-tag">&lt;a <span class=3D"html-attribute-name">href=
+</span>=3D"<a class=3D"html-attribute-value html-external-link" target=3D"_=
+blank" href=3D"https://www.nature.com/articles/s41592-019-0502-z" rel=3D"no=
+referrer noopener">https://www.nature.com/articles/s41592-019-0502-z</a>"&g=
+t;</span>Methyl-HiC<span class=3D"html-tag">&lt;/a&gt;</span><span class=3D=
+"html-tag">&lt;/li&gt;</span></td></tr><tr><td class=3D"line-number" value=
+=3D"185"></td><td class=3D"line-content">      <span class=3D"html-tag">&lt=
+;li&gt;</span><span class=3D"html-tag">&lt;a <span class=3D"html-attribute-=
+name">href</span>=3D"<a class=3D"html-attribute-value html-external-link" t=
+arget=3D"_blank" href=3D"https://www.sciencedirect.com/science/article/pii/=
+S1097276521007954" rel=3D"noreferrer noopener">https://www.sciencedirect.co=
+m/science/article/pii/S1097276521007954</a>"&gt;</span>SNuBar-ATAC<span cla=
+ss=3D"html-tag">&lt;/a&gt;</span><span class=3D"html-tag">&lt;/li&gt;</span=
+></td></tr><tr><td class=3D"line-number" value=3D"186"></td><td class=3D"li=
+ne-content">      <span class=3D"html-tag">&lt;li&gt;</span><span class=3D"=
+html-tag">&lt;a <span class=3D"html-attribute-name">href</span>=3D"<a class=
+=3D"html-attribute-value html-external-link" target=3D"_blank" href=3D"http=
+s://www.sciencedirect.com/science/article/pii/S0092867420309946" rel=3D"nor=
+eferrer noopener">https://www.sciencedirect.com/science/article/pii/S009286=
+7420309946</a>"&gt;</span>RAISIN RNA-seq &amp;amp; MIRACL-seq<span class=3D=
+"html-tag">&lt;/a&gt;</span><span class=3D"html-tag">&lt;/li&gt;</span></td=
+></tr><tr><td class=3D"line-number" value=3D"187"></td><td class=3D"line-co=
+ntent">      <span class=3D"html-tag">&lt;li&gt;</span><span class=3D"html-=
+tag">&lt;a <span class=3D"html-attribute-name">href</span>=3D"<a class=3D"h=
+tml-attribute-value html-external-link" target=3D"_blank" href=3D"https://w=
+ww.science.org/doi/10.1126/science.abm1483" rel=3D"noreferrer noopener">htt=
+ps://www.science.org/doi/10.1126/science.abm1483</a>"&gt;</span>Microbe-seq=
+<span class=3D"html-tag">&lt;/a&gt;</span><span class=3D"html-tag">&lt;/li&=
+gt;</span></td></tr><tr><td class=3D"line-number" value=3D"188"></td><td cl=
+ass=3D"line-content">      <span class=3D"html-tag">&lt;li&gt;</span><span =
+class=3D"html-tag">&lt;a <span class=3D"html-attribute-name">href</span>=3D=
+"<a class=3D"html-attribute-value html-external-link" target=3D"_blank" hre=
+f=3D"https://www.biorxiv.org/content/10.1101/2022.08.25.505190v1" rel=3D"no=
+referrer noopener">https://www.biorxiv.org/content/10.1101/2022.08.25.50519=
+0v1</a>"&gt;</span>SEC-seq<span class=3D"html-tag">&lt;/a&gt;</span><span c=
+lass=3D"html-tag">&lt;/li&gt;</span></td></tr><tr><td class=3D"line-number"=
+ value=3D"189"></td><td class=3D"line-content">    <span class=3D"html-tag"=
+>&lt;/ul&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"190"></=
+td><td class=3D"line-content">  <span class=3D"html-tag">&lt;/li&gt;</span>=
+</td></tr><tr><td class=3D"line-number" value=3D"191"></td><td class=3D"lin=
+e-content"><span class=3D"html-tag">&lt;/ul&gt;</span></td></tr><tr><td cla=
+ss=3D"line-number" value=3D"192"></td><td class=3D"line-content"><br></td><=
+/tr><tr><td class=3D"line-number" value=3D"193"></td><td class=3D"line-cont=
+ent"><span class=3D"html-tag">&lt;h2 <span class=3D"html-attribute-name">id=
+</span>=3D"<span class=3D"html-attribute-value">scrna-seq-technical-compari=
+sons</span>"&gt;</span>scRNA-seq technical comparisons<span class=3D"html-t=
+ag">&lt;/h2&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"194"=
+></td><td class=3D"line-content"><br></td></tr><tr><td class=3D"line-number=
+" value=3D"195"></td><td class=3D"line-content"><span class=3D"html-tag">&l=
+t;p&gt;</span><span class=3D"html-tag">&lt;strong&gt;</span>The basic chemi=
+stry is very similar, the main differences among those scRNA-seq methods ar=
+e summarised in the table below. For a detailed discussion, check the text =
+boxes from our review: <span class=3D"html-tag">&lt;a <span class=3D"html-a=
+ttribute-name">href</span>=3D"<a class=3D"html-attribute-value html-externa=
+l-link" target=3D"_blank" href=3D"https://www.annualreviews.org/doi/10.1146=
+/annurev-biodatasci-080917-013452" rel=3D"noreferrer noopener">https://www.=
+annualreviews.org/doi/10.1146/annurev-biodatasci-080917-013452</a>"&gt;</sp=
+an>From Tissues to Cell Types and Back: Single-Cell Gene Expression Analysi=
+s of Tissue Architecture<span class=3D"html-tag">&lt;/a&gt;</span><span cla=
+ss=3D"html-tag">&lt;/strong&gt;</span><span class=3D"html-tag">&lt;/p&gt;</=
+span></td></tr><tr><td class=3D"line-number" value=3D"196"></td><td class=
+=3D"line-content"><br></td></tr><tr><td class=3D"line-number" value=3D"197"=
+></td><td class=3D"line-content"><span class=3D"html-tag">&lt;table&gt;</sp=
+an></td></tr><tr><td class=3D"line-number" value=3D"198"></td><td class=3D"=
+line-content">  <span class=3D"html-tag">&lt;thead&gt;</span></td></tr><tr>=
+<td class=3D"line-number" value=3D"199"></td><td class=3D"line-content">   =
+ <span class=3D"html-tag">&lt;tr&gt;</span></td></tr><tr><td class=3D"line-=
+number" value=3D"200"></td><td class=3D"line-content">      <span class=3D"=
+html-tag">&lt;th <span class=3D"html-attribute-name">style</span>=3D"<span =
+class=3D"html-attribute-value">text-align: center</span>"&gt;</span>&nbsp;<=
+span class=3D"html-tag">&lt;/th&gt;</span></td></tr><tr><td class=3D"line-n=
+umber" value=3D"201"></td><td class=3D"line-content">      <span class=3D"h=
+tml-tag">&lt;th <span class=3D"html-attribute-name">style</span>=3D"<span c=
+lass=3D"html-attribute-value">text-align: center</span>"&gt;</span>Single c=
+ell isolation/capture<span class=3D"html-tag">&lt;/th&gt;</span></td></tr><=
+tr><td class=3D"line-number" value=3D"202"></td><td class=3D"line-content">=
+      <span class=3D"html-tag">&lt;th <span class=3D"html-attribute-name">s=
+tyle</span>=3D"<span class=3D"html-attribute-value">text-align: center</spa=
+n>"&gt;</span>Where RT happens<span class=3D"html-tag">&lt;/th&gt;</span></=
+td></tr><tr><td class=3D"line-number" value=3D"203"></td><td class=3D"line-=
+content">      <span class=3D"html-tag">&lt;th <span class=3D"html-attribut=
+e-name">style</span>=3D"<span class=3D"html-attribute-value">text-align: ce=
+nter</span>"&gt;</span>2nd strand synthesis<span class=3D"html-tag">&lt;/th=
+&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"204"></td><td c=
+lass=3D"line-content">      <span class=3D"html-tag">&lt;th <span class=3D"=
+html-attribute-name">style</span>=3D"<span class=3D"html-attribute-value">t=
+ext-align: center</span>"&gt;</span>Full-length cDNA synthesis<span class=
+=3D"html-tag">&lt;/th&gt;</span></td></tr><tr><td class=3D"line-number" val=
+ue=3D"205"></td><td class=3D"line-content">      <span class=3D"html-tag">&=
+lt;th <span class=3D"html-attribute-name">style</span>=3D"<span class=3D"ht=
+ml-attribute-value">text-align: center</span>"&gt;</span>Barcode addition<s=
+pan class=3D"html-tag">&lt;/th&gt;</span></td></tr><tr><td class=3D"line-nu=
+mber" value=3D"206"></td><td class=3D"line-content">      <span class=3D"ht=
+ml-tag">&lt;th <span class=3D"html-attribute-name">style</span>=3D"<span cl=
+ass=3D"html-attribute-value">text-align: center</span>"&gt;</span>Pooling b=
+efore library<span class=3D"html-tag">&lt;/th&gt;</span></td></tr><tr><td c=
+lass=3D"line-number" value=3D"207"></td><td class=3D"line-content">      <s=
+pan class=3D"html-tag">&lt;th <span class=3D"html-attribute-name">style</sp=
+an>=3D"<span class=3D"html-attribute-value">text-align: center</span>"&gt;<=
+/span>Library amplification<span class=3D"html-tag">&lt;/th&gt;</span></td>=
+</tr><tr><td class=3D"line-number" value=3D"208"></td><td class=3D"line-con=
+tent">      <span class=3D"html-tag">&lt;th <span class=3D"html-attribute-n=
+ame">style</span>=3D"<span class=3D"html-attribute-value">text-align: cente=
+r</span>"&gt;</span>Gene coverage<span class=3D"html-tag">&lt;/th&gt;</span=
+></td></tr><tr><td class=3D"line-number" value=3D"209"></td><td class=3D"li=
+ne-content">    <span class=3D"html-tag">&lt;/tr&gt;</span></td></tr><tr><t=
+d class=3D"line-number" value=3D"210"></td><td class=3D"line-content">  <sp=
+an class=3D"html-tag">&lt;/thead&gt;</span></td></tr><tr><td class=3D"line-=
+number" value=3D"211"></td><td class=3D"line-content">  <span class=3D"html=
+-tag">&lt;tbody&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"=
+212"></td><td class=3D"line-content">    <span class=3D"html-tag">&lt;tr&gt=
+;</span></td></tr><tr><td class=3D"line-number" value=3D"213"></td><td clas=
+s=3D"line-content">      <span class=3D"html-tag">&lt;td <span class=3D"htm=
+l-attribute-name">style</span>=3D"<span class=3D"html-attribute-value">text=
+-align: center</span>"&gt;</span>10x Chromium Single Cell 3=E2=80=99<span c=
+lass=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number"=
+ value=3D"214"></td><td class=3D"line-content">      <span class=3D"html-ta=
+g">&lt;td <span class=3D"html-attribute-name">style</span>=3D"<span class=
+=3D"html-attribute-value">text-align: center</span>"&gt;</span>Droplet<span=
+ class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-numbe=
+r" value=3D"215"></td><td class=3D"line-content">      <span class=3D"html-=
+tag">&lt;td <span class=3D"html-attribute-name">style</span>=3D"<span class=
+=3D"html-attribute-value">text-align: center</span>"&gt;</span>In droplets<=
+span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-n=
+umber" value=3D"216"></td><td class=3D"line-content">      <span class=3D"h=
+tml-tag">&lt;td <span class=3D"html-attribute-name">style</span>=3D"<span c=
+lass=3D"html-attribute-value">text-align: center</span>"&gt;</span>TSO<span=
+ class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-numbe=
+r" value=3D"217"></td><td class=3D"line-content">      <span class=3D"html-=
+tag">&lt;td <span class=3D"html-attribute-name">style</span>=3D"<span class=
+=3D"html-attribute-value">text-align: center</span>"&gt;</span>Yes<span cla=
+ss=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" v=
+alue=3D"218"></td><td class=3D"line-content">      <span class=3D"html-tag"=
+>&lt;td <span class=3D"html-attribute-name">style</span>=3D"<span class=3D"=
+html-attribute-value">text-align: center</span>"&gt;</span>Barcoded RT prim=
+ers<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"li=
+ne-number" value=3D"219"></td><td class=3D"line-content">      <span class=
+=3D"html-tag">&lt;td <span class=3D"html-attribute-name">style</span>=3D"<s=
+pan class=3D"html-attribute-value">text-align: center</span>"&gt;</span>Yes=
+<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-=
+number" value=3D"220"></td><td class=3D"line-content">      <span class=3D"=
+html-tag">&lt;td <span class=3D"html-attribute-name">style</span>=3D"<span =
+class=3D"html-attribute-value">text-align: center</span>"&gt;</span>PCR<spa=
+n class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-numb=
+er" value=3D"221"></td><td class=3D"line-content">      <span class=3D"html=
+-tag">&lt;td <span class=3D"html-attribute-name">style</span>=3D"<span clas=
+s=3D"html-attribute-value">text-align: center</span>"&gt;</span>3=E2=80=99<=
+span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-n=
+umber" value=3D"222"></td><td class=3D"line-content">    <span class=3D"htm=
+l-tag">&lt;/tr&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"2=
+23"></td><td class=3D"line-content">    <span class=3D"html-tag">&lt;tr&gt;=
+</span></td></tr><tr><td class=3D"line-number" value=3D"224"></td><td class=
+=3D"line-content">      <span class=3D"html-tag">&lt;td <span class=3D"html=
+-attribute-name">style</span>=3D"<span class=3D"html-attribute-value">text-=
+align: center</span>"&gt;</span>10x Chromium Single Cell 5=E2=80=99<span cl=
+ass=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" =
+value=3D"225"></td><td class=3D"line-content">      <span class=3D"html-tag=
+">&lt;td <span class=3D"html-attribute-name">style</span>=3D"<span class=3D=
+"html-attribute-value">text-align: center</span>"&gt;</span>Droplet<span cl=
+ass=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" =
+value=3D"226"></td><td class=3D"line-content">      <span class=3D"html-tag=
+">&lt;td <span class=3D"html-attribute-name">style</span>=3D"<span class=3D=
+"html-attribute-value">text-align: center</span>"&gt;</span>In droplets<spa=
+n class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-numb=
+er" value=3D"227"></td><td class=3D"line-content">      <span class=3D"html=
+-tag">&lt;td <span class=3D"html-attribute-name">style</span>=3D"<span clas=
+s=3D"html-attribute-value">text-align: center</span>"&gt;</span>TSO<span cl=
+ass=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" =
+value=3D"228"></td><td class=3D"line-content">      <span class=3D"html-tag=
+">&lt;td <span class=3D"html-attribute-name">style</span>=3D"<span class=3D=
+"html-attribute-value">text-align: center</span>"&gt;</span>Yes<span class=
+=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" val=
+ue=3D"229"></td><td class=3D"line-content">      <span class=3D"html-tag">&=
+lt;td <span class=3D"html-attribute-name">style</span>=3D"<span class=3D"ht=
+ml-attribute-value">text-align: center</span>"&gt;</span>Barcoded TSO prime=
+rs<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"lin=
+e-number" value=3D"230"></td><td class=3D"line-content">      <span class=
+=3D"html-tag">&lt;td <span class=3D"html-attribute-name">style</span>=3D"<s=
+pan class=3D"html-attribute-value">text-align: center</span>"&gt;</span>Yes=
+<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-=
+number" value=3D"231"></td><td class=3D"line-content">      <span class=3D"=
+html-tag">&lt;td <span class=3D"html-attribute-name">style</span>=3D"<span =
+class=3D"html-attribute-value">text-align: center</span>"&gt;</span>PCR<spa=
+n class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-numb=
+er" value=3D"232"></td><td class=3D"line-content">      <span class=3D"html=
+-tag">&lt;td <span class=3D"html-attribute-name">style</span>=3D"<span clas=
+s=3D"html-attribute-value">text-align: center</span>"&gt;</span>5=E2=80=99<=
+span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-n=
+umber" value=3D"233"></td><td class=3D"line-content">    <span class=3D"htm=
+l-tag">&lt;/tr&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"2=
+34"></td><td class=3D"line-content">    <span class=3D"html-tag">&lt;tr&gt;=
+</span></td></tr><tr><td class=3D"line-number" value=3D"235"></td><td class=
+=3D"line-content">      <span class=3D"html-tag">&lt;td <span class=3D"html=
+-attribute-name">style</span>=3D"<span class=3D"html-attribute-value">text-=
+align: center</span>"&gt;</span>BD Rhapsody<span class=3D"html-tag">&lt;/td=
+&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"236"></td><td c=
+lass=3D"line-content">      <span class=3D"html-tag">&lt;td <span class=3D"=
+html-attribute-name">style</span>=3D"<span class=3D"html-attribute-value">t=
+ext-align: center</span>"&gt;</span>Nanowells<span class=3D"html-tag">&lt;/=
+td&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"237"></td><td=
+ class=3D"line-content">      <span class=3D"html-tag">&lt;td <span class=
+=3D"html-attribute-name">style</span>=3D"<span class=3D"html-attribute-valu=
+e">text-align: center</span>"&gt;</span>In collection tubes<span class=3D"h=
+tml-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" value=3D=
+"238"></td><td class=3D"line-content">      <span class=3D"html-tag">&lt;td=
+ <span class=3D"html-attribute-name">style</span>=3D"<span class=3D"html-at=
+tribute-value">text-align: center</span>"&gt;</span>Random priming and prim=
+er extension<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td cl=
+ass=3D"line-number" value=3D"239"></td><td class=3D"line-content">      <sp=
+an class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">style</spa=
+n>=3D"<span class=3D"html-attribute-value">text-align: center</span>"&gt;</=
+span>No<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"240"></td><td class=3D"line-content">      <span =
+class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">style</span>=
+=3D"<span class=3D"html-attribute-value">text-align: center</span>"&gt;</sp=
+an>Barcoded RT primers<span class=3D"html-tag">&lt;/td&gt;</span></td></tr>=
+<tr><td class=3D"line-number" value=3D"241"></td><td class=3D"line-content"=
+>      <span class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">=
+style</span>=3D"<span class=3D"html-attribute-value">text-align: center</sp=
+an>"&gt;</span>Yes<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr>=
+<td class=3D"line-number" value=3D"242"></td><td class=3D"line-content">   =
+   <span class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">styl=
+e</span>=3D"<span class=3D"html-attribute-value">text-align: center</span>"=
+&gt;</span>PCR<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td =
+class=3D"line-number" value=3D"243"></td><td class=3D"line-content">      <=
+span class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">style</s=
+pan>=3D"<span class=3D"html-attribute-value">text-align: center</span>"&gt;=
+</span>3=E2=80=99<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><=
+td class=3D"line-number" value=3D"244"></td><td class=3D"line-content">    =
+<span class=3D"html-tag">&lt;/tr&gt;</span></td></tr><tr><td class=3D"line-=
+number" value=3D"245"></td><td class=3D"line-content">    <span class=3D"ht=
+ml-tag">&lt;tr&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"2=
+46"></td><td class=3D"line-content">      <span class=3D"html-tag">&lt;td <=
+span class=3D"html-attribute-name">style</span>=3D"<span class=3D"html-attr=
+ibute-value">text-align: center</span>"&gt;</span>CEL-seq/CEL-seq2<span cla=
+ss=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" v=
+alue=3D"247"></td><td class=3D"line-content">      <span class=3D"html-tag"=
+>&lt;td <span class=3D"html-attribute-name">style</span>=3D"<span class=3D"=
+html-attribute-value">text-align: center</span>"&gt;</span>FACS<span class=
+=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" val=
+ue=3D"248"></td><td class=3D"line-content">      <span class=3D"html-tag">&=
+lt;td <span class=3D"html-attribute-name">style</span>=3D"<span class=3D"ht=
+ml-attribute-value">text-align: center</span>"&gt;</span>In 96w/384w wells<=
+span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-n=
+umber" value=3D"249"></td><td class=3D"line-content">      <span class=3D"h=
+tml-tag">&lt;td <span class=3D"html-attribute-name">style</span>=3D"<span c=
+lass=3D"html-attribute-value">text-align: center</span>"&gt;</span>RNase H =
+and DNA pol I<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td c=
+lass=3D"line-number" value=3D"250"></td><td class=3D"line-content">      <s=
+pan class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">style</sp=
+an>=3D"<span class=3D"html-attribute-value">text-align: center</span>"&gt;<=
+/span>No<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"251"></td><td class=3D"line-content">      <span =
+class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">style</span>=
+=3D"<span class=3D"html-attribute-value">text-align: center</span>"&gt;</sp=
+an>Barcoded RT primers<span class=3D"html-tag">&lt;/td&gt;</span></td></tr>=
+<tr><td class=3D"line-number" value=3D"252"></td><td class=3D"line-content"=
+>      <span class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">=
+style</span>=3D"<span class=3D"html-attribute-value">text-align: center</sp=
+an>"&gt;</span>Yes<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr>=
+<td class=3D"line-number" value=3D"253"></td><td class=3D"line-content">   =
+   <span class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">styl=
+e</span>=3D"<span class=3D"html-attribute-value">text-align: center</span>"=
+&gt;</span>In vitro transcription<span class=3D"html-tag">&lt;/td&gt;</span=
+></td></tr><tr><td class=3D"line-number" value=3D"254"></td><td class=3D"li=
+ne-content">      <span class=3D"html-tag">&lt;td <span class=3D"html-attri=
+bute-name">style</span>=3D"<span class=3D"html-attribute-value">text-align:=
+ center</span>"&gt;</span>3=E2=80=99<span class=3D"html-tag">&lt;/td&gt;</s=
+pan></td></tr><tr><td class=3D"line-number" value=3D"255"></td><td class=3D=
+"line-content">    <span class=3D"html-tag">&lt;/tr&gt;</span></td></tr><tr=
+><td class=3D"line-number" value=3D"256"></td><td class=3D"line-content">  =
+  <span class=3D"html-tag">&lt;tr&gt;</span></td></tr><tr><td class=3D"line=
+-number" value=3D"257"></td><td class=3D"line-content">      <span class=3D=
+"html-tag">&lt;td <span class=3D"html-attribute-name">style</span>=3D"<span=
+ class=3D"html-attribute-value">text-align: center</span>"&gt;</span>Drop-s=
+eq<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"lin=
+e-number" value=3D"258"></td><td class=3D"line-content">      <span class=
+=3D"html-tag">&lt;td <span class=3D"html-attribute-name">style</span>=3D"<s=
+pan class=3D"html-attribute-value">text-align: center</span>"&gt;</span>Dro=
+plet<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"l=
+ine-number" value=3D"259"></td><td class=3D"line-content">      <span class=
+=3D"html-tag">&lt;td <span class=3D"html-attribute-name">style</span>=3D"<s=
+pan class=3D"html-attribute-value">text-align: center</span>"&gt;</span>In =
+collection tubes<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><t=
+d class=3D"line-number" value=3D"260"></td><td class=3D"line-content">     =
+ <span class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">style<=
+/span>=3D"<span class=3D"html-attribute-value">text-align: center</span>"&g=
+t;</span>TSO<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td cl=
+ass=3D"line-number" value=3D"261"></td><td class=3D"line-content">      <sp=
+an class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">style</spa=
+n>=3D"<span class=3D"html-attribute-value">text-align: center</span>"&gt;</=
+span>Yes<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"262"></td><td class=3D"line-content">      <span =
+class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">style</span>=
+=3D"<span class=3D"html-attribute-value">text-align: center</span>"&gt;</sp=
+an>Barcoded RT primers<span class=3D"html-tag">&lt;/td&gt;</span></td></tr>=
+<tr><td class=3D"line-number" value=3D"263"></td><td class=3D"line-content"=
+>      <span class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">=
+style</span>=3D"<span class=3D"html-attribute-value">text-align: center</sp=
+an>"&gt;</span>Yes<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr>=
+<td class=3D"line-number" value=3D"264"></td><td class=3D"line-content">   =
+   <span class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">styl=
+e</span>=3D"<span class=3D"html-attribute-value">text-align: center</span>"=
+&gt;</span>PCR<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td =
+class=3D"line-number" value=3D"265"></td><td class=3D"line-content">      <=
+span class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">style</s=
+pan>=3D"<span class=3D"html-attribute-value">text-align: center</span>"&gt;=
+</span>3=E2=80=99<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><=
+td class=3D"line-number" value=3D"266"></td><td class=3D"line-content">    =
+<span class=3D"html-tag">&lt;/tr&gt;</span></td></tr><tr><td class=3D"line-=
+number" value=3D"267"></td><td class=3D"line-content">    <span class=3D"ht=
+ml-tag">&lt;tr&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"2=
+68"></td><td class=3D"line-content">      <span class=3D"html-tag">&lt;td <=
+span class=3D"html-attribute-name">style</span>=3D"<span class=3D"html-attr=
+ibute-value">text-align: center</span>"&gt;</span>Illumina Bio-Rad SureCell=
+ 3=E2=80=99 WTA<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td=
+ class=3D"line-number" value=3D"269"></td><td class=3D"line-content">      =
+<span class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">style</=
+span>=3D"<span class=3D"html-attribute-value">text-align: center</span>"&gt=
+;</span>Droplet<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td=
+ class=3D"line-number" value=3D"270"></td><td class=3D"line-content">      =
+<span class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">style</=
+span>=3D"<span class=3D"html-attribute-value">text-align: center</span>"&gt=
+;</span>In droplets<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr=
+><td class=3D"line-number" value=3D"271"></td><td class=3D"line-content">  =
+    <span class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">sty=
+le</span>=3D"<span class=3D"html-attribute-value">text-align: center</span>=
+"&gt;</span>RNase H and DNA pol I<span class=3D"html-tag">&lt;/td&gt;</span=
+></td></tr><tr><td class=3D"line-number" value=3D"272"></td><td class=3D"li=
+ne-content">      <span class=3D"html-tag">&lt;td <span class=3D"html-attri=
+bute-name">style</span>=3D"<span class=3D"html-attribute-value">text-align:=
+ center</span>"&gt;</span>No<span class=3D"html-tag">&lt;/td&gt;</span></td=
+></tr><tr><td class=3D"line-number" value=3D"273"></td><td class=3D"line-co=
+ntent">      <span class=3D"html-tag">&lt;td <span class=3D"html-attribute-=
+name">style</span>=3D"<span class=3D"html-attribute-value">text-align: cent=
+er</span>"&gt;</span>Barcoded RT primers<span class=3D"html-tag">&lt;/td&gt=
+;</span></td></tr><tr><td class=3D"line-number" value=3D"274"></td><td clas=
+s=3D"line-content">      <span class=3D"html-tag">&lt;td <span class=3D"htm=
+l-attribute-name">style</span>=3D"<span class=3D"html-attribute-value">text=
+-align: center</span>"&gt;</span>Yes<span class=3D"html-tag">&lt;/td&gt;</s=
+pan></td></tr><tr><td class=3D"line-number" value=3D"275"></td><td class=3D=
+"line-content">      <span class=3D"html-tag">&lt;td <span class=3D"html-at=
+tribute-name">style</span>=3D"<span class=3D"html-attribute-value">text-ali=
+gn: center</span>"&gt;</span>PCR<span class=3D"html-tag">&lt;/td&gt;</span>=
+</td></tr><tr><td class=3D"line-number" value=3D"276"></td><td class=3D"lin=
+e-content">      <span class=3D"html-tag">&lt;td <span class=3D"html-attrib=
+ute-name">style</span>=3D"<span class=3D"html-attribute-value">text-align: =
+center</span>"&gt;</span>3=E2=80=99<span class=3D"html-tag">&lt;/td&gt;</sp=
+an></td></tr><tr><td class=3D"line-number" value=3D"277"></td><td class=3D"=
+line-content">    <span class=3D"html-tag">&lt;/tr&gt;</span></td></tr><tr>=
+<td class=3D"line-number" value=3D"278"></td><td class=3D"line-content">   =
+ <span class=3D"html-tag">&lt;tr&gt;</span></td></tr><tr><td class=3D"line-=
+number" value=3D"279"></td><td class=3D"line-content">      <span class=3D"=
+html-tag">&lt;td <span class=3D"html-attribute-name">style</span>=3D"<span =
+class=3D"html-attribute-value">text-align: center</span>"&gt;</span>inDrop<=
+span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-n=
+umber" value=3D"280"></td><td class=3D"line-content">      <span class=3D"h=
+tml-tag">&lt;td <span class=3D"html-attribute-name">style</span>=3D"<span c=
+lass=3D"html-attribute-value">text-align: center</span>"&gt;</span>Droplet<=
+span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-n=
+umber" value=3D"281"></td><td class=3D"line-content">      <span class=3D"h=
+tml-tag">&lt;td <span class=3D"html-attribute-name">style</span>=3D"<span c=
+lass=3D"html-attribute-value">text-align: center</span>"&gt;</span>In dropl=
+ets<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"li=
+ne-number" value=3D"282"></td><td class=3D"line-content">      <span class=
+=3D"html-tag">&lt;td <span class=3D"html-attribute-name">style</span>=3D"<s=
+pan class=3D"html-attribute-value">text-align: center</span>"&gt;</span>RNa=
+se H and DNA pol I<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr>=
+<td class=3D"line-number" value=3D"283"></td><td class=3D"line-content">   =
+   <span class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">styl=
+e</span>=3D"<span class=3D"html-attribute-value">text-align: center</span>"=
+&gt;</span>No<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td c=
+lass=3D"line-number" value=3D"284"></td><td class=3D"line-content">      <s=
+pan class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">style</sp=
+an>=3D"<span class=3D"html-attribute-value">text-align: center</span>"&gt;<=
+/span>Barcoded RT primers<span class=3D"html-tag">&lt;/td&gt;</span></td></=
+tr><tr><td class=3D"line-number" value=3D"285"></td><td class=3D"line-conte=
+nt">      <span class=3D"html-tag">&lt;td <span class=3D"html-attribute-nam=
+e">style</span>=3D"<span class=3D"html-attribute-value">text-align: center<=
+/span>"&gt;</span>Yes<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><=
+tr><td class=3D"line-number" value=3D"286"></td><td class=3D"line-content">=
+      <span class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">s=
+tyle</span>=3D"<span class=3D"html-attribute-value">text-align: center</spa=
+n>"&gt;</span>In vitro transcription<span class=3D"html-tag">&lt;/td&gt;</s=
+pan></td></tr><tr><td class=3D"line-number" value=3D"287"></td><td class=3D=
+"line-content">      <span class=3D"html-tag">&lt;td <span class=3D"html-at=
+tribute-name">style</span>=3D"<span class=3D"html-attribute-value">text-ali=
+gn: center</span>"&gt;</span>3=E2=80=99<span class=3D"html-tag">&lt;/td&gt;=
+</span></td></tr><tr><td class=3D"line-number" value=3D"288"></td><td class=
+=3D"line-content">    <span class=3D"html-tag">&lt;/tr&gt;</span></td></tr>=
+<tr><td class=3D"line-number" value=3D"289"></td><td class=3D"line-content"=
+>    <span class=3D"html-tag">&lt;tr&gt;</span></td></tr><tr><td class=3D"l=
+ine-number" value=3D"290"></td><td class=3D"line-content">      <span class=
+=3D"html-tag">&lt;td <span class=3D"html-attribute-name">style</span>=3D"<s=
+pan class=3D"html-attribute-value">text-align: center</span>"&gt;</span>MAR=
+S-seq/MARS-seq2.0<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><=
+td class=3D"line-number" value=3D"291"></td><td class=3D"line-content">    =
+  <span class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">style=
+</span>=3D"<span class=3D"html-attribute-value">text-align: center</span>"&=
+gt;</span>FACS<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td =
+class=3D"line-number" value=3D"292"></td><td class=3D"line-content">      <=
+span class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">style</s=
+pan>=3D"<span class=3D"html-attribute-value">text-align: center</span>"&gt;=
+</span>In 96w/384w wells<span class=3D"html-tag">&lt;/td&gt;</span></td></t=
+r><tr><td class=3D"line-number" value=3D"293"></td><td class=3D"line-conten=
+t">      <span class=3D"html-tag">&lt;td <span class=3D"html-attribute-name=
+">style</span>=3D"<span class=3D"html-attribute-value">text-align: center</=
+span>"&gt;</span>RNase H and DNA pol I<span class=3D"html-tag">&lt;/td&gt;<=
+/span></td></tr><tr><td class=3D"line-number" value=3D"294"></td><td class=
+=3D"line-content">      <span class=3D"html-tag">&lt;td <span class=3D"html=
+-attribute-name">style</span>=3D"<span class=3D"html-attribute-value">text-=
+align: center</span>"&gt;</span>No<span class=3D"html-tag">&lt;/td&gt;</spa=
+n></td></tr><tr><td class=3D"line-number" value=3D"295"></td><td class=3D"l=
+ine-content">      <span class=3D"html-tag">&lt;td <span class=3D"html-attr=
+ibute-name">style</span>=3D"<span class=3D"html-attribute-value">text-align=
+: center</span>"&gt;</span>Barcoded RT primers<span class=3D"html-tag">&lt;=
+/td&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"296"></td><t=
+d class=3D"line-content">      <span class=3D"html-tag">&lt;td <span class=
+=3D"html-attribute-name">style</span>=3D"<span class=3D"html-attribute-valu=
+e">text-align: center</span>"&gt;</span>Yes<span class=3D"html-tag">&lt;/td=
+&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"297"></td><td c=
+lass=3D"line-content">      <span class=3D"html-tag">&lt;td <span class=3D"=
+html-attribute-name">style</span>=3D"<span class=3D"html-attribute-value">t=
+ext-align: center</span>"&gt;</span>In vitro transcription<span class=3D"ht=
+ml-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"=
+298"></td><td class=3D"line-content">      <span class=3D"html-tag">&lt;td =
+<span class=3D"html-attribute-name">style</span>=3D"<span class=3D"html-att=
+ribute-value">text-align: center</span>"&gt;</span>3=E2=80=99<span class=3D=
+"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" value=
+=3D"299"></td><td class=3D"line-content">    <span class=3D"html-tag">&lt;/=
+tr&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"300"></td><td=
+ class=3D"line-content">    <span class=3D"html-tag">&lt;tr&gt;</span></td>=
+</tr><tr><td class=3D"line-number" value=3D"301"></td><td class=3D"line-con=
+tent">      <span class=3D"html-tag">&lt;td <span class=3D"html-attribute-n=
+ame">style</span>=3D"<span class=3D"html-attribute-value">text-align: cente=
+r</span>"&gt;</span>Microwell-seq<span class=3D"html-tag">&lt;/td&gt;</span=
+></td></tr><tr><td class=3D"line-number" value=3D"302"></td><td class=3D"li=
+ne-content">      <span class=3D"html-tag">&lt;td <span class=3D"html-attri=
+bute-name">style</span>=3D"<span class=3D"html-attribute-value">text-align:=
+ center</span>"&gt;</span>Nanowells<span class=3D"html-tag">&lt;/td&gt;</sp=
+an></td></tr><tr><td class=3D"line-number" value=3D"303"></td><td class=3D"=
+line-content">      <span class=3D"html-tag">&lt;td <span class=3D"html-att=
+ribute-name">style</span>=3D"<span class=3D"html-attribute-value">text-alig=
+n: center</span>"&gt;</span>In collection tubes<span class=3D"html-tag">&lt=
+;/td&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"304"></td><=
+td class=3D"line-content">      <span class=3D"html-tag">&lt;td <span class=
+=3D"html-attribute-name">style</span>=3D"<span class=3D"html-attribute-valu=
+e">text-align: center</span>"&gt;</span>TSO<span class=3D"html-tag">&lt;/td=
+&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"305"></td><td c=
+lass=3D"line-content">      <span class=3D"html-tag">&lt;td <span class=3D"=
+html-attribute-name">style</span>=3D"<span class=3D"html-attribute-value">t=
+ext-align: center</span>"&gt;</span>Yes<span class=3D"html-tag">&lt;/td&gt;=
+</span></td></tr><tr><td class=3D"line-number" value=3D"306"></td><td class=
+=3D"line-content">      <span class=3D"html-tag">&lt;td <span class=3D"html=
+-attribute-name">style</span>=3D"<span class=3D"html-attribute-value">text-=
+align: center</span>"&gt;</span>Barcoded RT primers<span class=3D"html-tag"=
+>&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"307"></=
+td><td class=3D"line-content">      <span class=3D"html-tag">&lt;td <span c=
+lass=3D"html-attribute-name">style</span>=3D"<span class=3D"html-attribute-=
+value">text-align: center</span>"&gt;</span>Yes<span class=3D"html-tag">&lt=
+;/td&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"308"></td><=
+td class=3D"line-content">      <span class=3D"html-tag">&lt;td <span class=
+=3D"html-attribute-name">style</span>=3D"<span class=3D"html-attribute-valu=
+e">text-align: center</span>"&gt;</span>PCR<span class=3D"html-tag">&lt;/td=
+&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"309"></td><td c=
+lass=3D"line-content">      <span class=3D"html-tag">&lt;td <span class=3D"=
+html-attribute-name">style</span>=3D"<span class=3D"html-attribute-value">t=
+ext-align: center</span>"&gt;</span>3=E2=80=99<span class=3D"html-tag">&lt;=
+/td&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"310"></td><t=
+d class=3D"line-content">    <span class=3D"html-tag">&lt;/tr&gt;</span></t=
+d></tr><tr><td class=3D"line-number" value=3D"311"></td><td class=3D"line-c=
+ontent">    <span class=3D"html-tag">&lt;tr&gt;</span></td></tr><tr><td cla=
+ss=3D"line-number" value=3D"312"></td><td class=3D"line-content">      <spa=
+n class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">style</span=
+>=3D"<span class=3D"html-attribute-value">text-align: center</span>"&gt;</s=
+pan>Quartz-seq<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td =
+class=3D"line-number" value=3D"313"></td><td class=3D"line-content">      <=
+span class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">style</s=
+pan>=3D"<span class=3D"html-attribute-value">text-align: center</span>"&gt;=
+</span>FACS<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td cla=
+ss=3D"line-number" value=3D"314"></td><td class=3D"line-content">      <spa=
+n class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">style</span=
+>=3D"<span class=3D"html-attribute-value">text-align: center</span>"&gt;</s=
+pan>In 96w/384w wells<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><=
+tr><td class=3D"line-number" value=3D"315"></td><td class=3D"line-content">=
+      <span class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">s=
+tyle</span>=3D"<span class=3D"html-attribute-value">text-align: center</spa=
+n>"&gt;</span>PolyA tailing and primer ligation<span class=3D"html-tag">&lt=
+;/td&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"316"></td><=
+td class=3D"line-content">      <span class=3D"html-tag">&lt;td <span class=
+=3D"html-attribute-name">style</span>=3D"<span class=3D"html-attribute-valu=
+e">text-align: center</span>"&gt;</span>Yes in principle<span class=3D"html=
+-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"31=
+7"></td><td class=3D"line-content">      <span class=3D"html-tag">&lt;td <s=
+pan class=3D"html-attribute-name">style</span>=3D"<span class=3D"html-attri=
+bute-value">text-align: center</span>"&gt;</span>Ligation of barcoded Truse=
+q adapters<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td clas=
+s=3D"line-number" value=3D"318"></td><td class=3D"line-content">      <span=
+ class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">style</span>=
+=3D"<span class=3D"html-attribute-value">text-align: center</span>"&gt;</sp=
+an>No<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"=
+line-number" value=3D"319"></td><td class=3D"line-content">      <span clas=
+s=3D"html-tag">&lt;td <span class=3D"html-attribute-name">style</span>=3D"<=
+span class=3D"html-attribute-value">text-align: center</span>"&gt;</span>PC=
+R<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line=
+-number" value=3D"320"></td><td class=3D"line-content">      <span class=3D=
+"html-tag">&lt;td <span class=3D"html-attribute-name">style</span>=3D"<span=
+ class=3D"html-attribute-value">text-align: center</span>"&gt;</span>3=E2=
+=80=99<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D=
+"line-number" value=3D"321"></td><td class=3D"line-content">    <span class=
+=3D"html-tag">&lt;/tr&gt;</span></td></tr><tr><td class=3D"line-number" val=
+ue=3D"322"></td><td class=3D"line-content">    <span class=3D"html-tag">&lt=
+;tr&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"323"></td><t=
+d class=3D"line-content">      <span class=3D"html-tag">&lt;td <span class=
+=3D"html-attribute-name">style</span>=3D"<span class=3D"html-attribute-valu=
+e">text-align: center</span>"&gt;</span>Quartz-seq2<span class=3D"html-tag"=
+>&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"324"></=
+td><td class=3D"line-content">      <span class=3D"html-tag">&lt;td <span c=
+lass=3D"html-attribute-name">style</span>=3D"<span class=3D"html-attribute-=
+value">text-align: center</span>"&gt;</span>FACS<span class=3D"html-tag">&l=
+t;/td&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"325"></td>=
+<td class=3D"line-content">      <span class=3D"html-tag">&lt;td <span clas=
+s=3D"html-attribute-name">style</span>=3D"<span class=3D"html-attribute-val=
+ue">text-align: center</span>"&gt;</span>In 96w/384w wells<span class=3D"ht=
+ml-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"=
+326"></td><td class=3D"line-content">      <span class=3D"html-tag">&lt;td =
+<span class=3D"html-attribute-name">style</span>=3D"<span class=3D"html-att=
+ribute-value">text-align: center</span>"&gt;</span>PolyA tailing and primer=
+ ligation<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"327"></td><td class=3D"line-content">      <span =
+class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">style</span>=
+=3D"<span class=3D"html-attribute-value">text-align: center</span>"&gt;</sp=
+an>Yes in principle<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr=
+><td class=3D"line-number" value=3D"328"></td><td class=3D"line-content">  =
+    <span class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">sty=
+le</span>=3D"<span class=3D"html-attribute-value">text-align: center</span>=
+"&gt;</span>Barcoded RT primers<span class=3D"html-tag">&lt;/td&gt;</span><=
+/td></tr><tr><td class=3D"line-number" value=3D"329"></td><td class=3D"line=
+-content">      <span class=3D"html-tag">&lt;td <span class=3D"html-attribu=
+te-name">style</span>=3D"<span class=3D"html-attribute-value">text-align: c=
+enter</span>"&gt;</span>Yes<span class=3D"html-tag">&lt;/td&gt;</span></td>=
+</tr><tr><td class=3D"line-number" value=3D"330"></td><td class=3D"line-con=
+tent">      <span class=3D"html-tag">&lt;td <span class=3D"html-attribute-n=
+ame">style</span>=3D"<span class=3D"html-attribute-value">text-align: cente=
+r</span>"&gt;</span>PCR<span class=3D"html-tag">&lt;/td&gt;</span></td></tr=
+><tr><td class=3D"line-number" value=3D"331"></td><td class=3D"line-content=
+">      <span class=3D"html-tag">&lt;td <span class=3D"html-attribute-name"=
+>style</span>=3D"<span class=3D"html-attribute-value">text-align: center</s=
+pan>"&gt;</span>3=E2=80=99<span class=3D"html-tag">&lt;/td&gt;</span></td><=
+/tr><tr><td class=3D"line-number" value=3D"332"></td><td class=3D"line-cont=
+ent">    <span class=3D"html-tag">&lt;/tr&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"333"></td><td class=3D"line-content">    <span cl=
+ass=3D"html-tag">&lt;tr&gt;</span></td></tr><tr><td class=3D"line-number" v=
+alue=3D"334"></td><td class=3D"line-content">      <span class=3D"html-tag"=
+>&lt;td <span class=3D"html-attribute-name">style</span>=3D"<span class=3D"=
+html-attribute-value">text-align: center</span>"&gt;</span>sci-RNA-seq<span=
+ class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-numbe=
+r" value=3D"335"></td><td class=3D"line-content">      <span class=3D"html-=
+tag">&lt;td <span class=3D"html-attribute-name">style</span>=3D"<span class=
+=3D"html-attribute-value">text-align: center</span>"&gt;</span>Not needed<s=
+pan class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-nu=
+mber" value=3D"336"></td><td class=3D"line-content">      <span class=3D"ht=
+ml-tag">&lt;td <span class=3D"html-attribute-name">style</span>=3D"<span cl=
+ass=3D"html-attribute-value">text-align: center</span>"&gt;</span>In situ<s=
+pan class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-nu=
+mber" value=3D"337"></td><td class=3D"line-content">      <span class=3D"ht=
+ml-tag">&lt;td <span class=3D"html-attribute-name">style</span>=3D"<span cl=
+ass=3D"html-attribute-value">text-align: center</span>"&gt;</span>RNase H a=
+nd DNA pol I<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td cl=
+ass=3D"line-number" value=3D"338"></td><td class=3D"line-content">      <sp=
+an class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">style</spa=
+n>=3D"<span class=3D"html-attribute-value">text-align: center</span>"&gt;</=
+span>No<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"339"></td><td class=3D"line-content">      <span =
+class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">style</span>=
+=3D"<span class=3D"html-attribute-value">text-align: center</span>"&gt;</sp=
+an>Barcoded RT primers and library PCR with barcoded primers<span class=3D"=
+html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" value=
+=3D"340"></td><td class=3D"line-content">      <span class=3D"html-tag">&lt=
+;td <span class=3D"html-attribute-name">style</span>=3D"<span class=3D"html=
+-attribute-value">text-align: center</span>"&gt;</span>Yes<span class=3D"ht=
+ml-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"=
+341"></td><td class=3D"line-content">      <span class=3D"html-tag">&lt;td =
+<span class=3D"html-attribute-name">style</span>=3D"<span class=3D"html-att=
+ribute-value">text-align: center</span>"&gt;</span>PCR<span class=3D"html-t=
+ag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"342"=
+></td><td class=3D"line-content">      <span class=3D"html-tag">&lt;td <spa=
+n class=3D"html-attribute-name">style</span>=3D"<span class=3D"html-attribu=
+te-value">text-align: center</span>"&gt;</span>3=E2=80=99<span class=3D"htm=
+l-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"3=
+43"></td><td class=3D"line-content">    <span class=3D"html-tag">&lt;/tr&gt=
+;</span></td></tr><tr><td class=3D"line-number" value=3D"344"></td><td clas=
+s=3D"line-content">    <span class=3D"html-tag">&lt;tr&gt;</span></td></tr>=
+<tr><td class=3D"line-number" value=3D"345"></td><td class=3D"line-content"=
+>      <span class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">=
+style</span>=3D"<span class=3D"html-attribute-value">text-align: center</sp=
+an>"&gt;</span>sci-RNA-seq3<span class=3D"html-tag">&lt;/td&gt;</span></td>=
+</tr><tr><td class=3D"line-number" value=3D"346"></td><td class=3D"line-con=
+tent">      <span class=3D"html-tag">&lt;td <span class=3D"html-attribute-n=
+ame">style</span>=3D"<span class=3D"html-attribute-value">text-align: cente=
+r</span>"&gt;</span>Not needed<span class=3D"html-tag">&lt;/td&gt;</span></=
+td></tr><tr><td class=3D"line-number" value=3D"347"></td><td class=3D"line-=
+content">      <span class=3D"html-tag">&lt;td <span class=3D"html-attribut=
+e-name">style</span>=3D"<span class=3D"html-attribute-value">text-align: ce=
+nter</span>"&gt;</span>In situ<span class=3D"html-tag">&lt;/td&gt;</span></=
+td></tr><tr><td class=3D"line-number" value=3D"348"></td><td class=3D"line-=
+content">      <span class=3D"html-tag">&lt;td <span class=3D"html-attribut=
+e-name">style</span>=3D"<span class=3D"html-attribute-value">text-align: ce=
+nter</span>"&gt;</span>RNase H and DNA pol I<span class=3D"html-tag">&lt;/t=
+d&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"349"></td><td =
+class=3D"line-content">      <span class=3D"html-tag">&lt;td <span class=3D=
+"html-attribute-name">style</span>=3D"<span class=3D"html-attribute-value">=
+text-align: center</span>"&gt;</span>No<span class=3D"html-tag">&lt;/td&gt;=
+</span></td></tr><tr><td class=3D"line-number" value=3D"350"></td><td class=
+=3D"line-content">      <span class=3D"html-tag">&lt;td <span class=3D"html=
+-attribute-name">style</span>=3D"<span class=3D"html-attribute-value">text-=
+align: center</span>"&gt;</span>Barcoded RT primers and hairpin adapters<sp=
+an class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-num=
+ber" value=3D"351"></td><td class=3D"line-content">      <span class=3D"htm=
+l-tag">&lt;td <span class=3D"html-attribute-name">style</span>=3D"<span cla=
+ss=3D"html-attribute-value">text-align: center</span>"&gt;</span>Yes<span c=
+lass=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number"=
+ value=3D"352"></td><td class=3D"line-content">      <span class=3D"html-ta=
+g">&lt;td <span class=3D"html-attribute-name">style</span>=3D"<span class=
+=3D"html-attribute-value">text-align: center</span>"&gt;</span>PCR<span cla=
+ss=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" v=
+alue=3D"353"></td><td class=3D"line-content">      <span class=3D"html-tag"=
+>&lt;td <span class=3D"html-attribute-name">style</span>=3D"<span class=3D"=
+html-attribute-value">text-align: center</span>"&gt;</span>3=E2=80=99<span =
+class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number=
+" value=3D"354"></td><td class=3D"line-content">    <span class=3D"html-tag=
+">&lt;/tr&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"355"><=
+/td><td class=3D"line-content">    <span class=3D"html-tag">&lt;tr&gt;</spa=
+n></td></tr><tr><td class=3D"line-number" value=3D"356"></td><td class=3D"l=
+ine-content">      <span class=3D"html-tag">&lt;td <span class=3D"html-attr=
+ibute-name">style</span>=3D"<span class=3D"html-attribute-value">text-align=
+: center</span>"&gt;</span>scifi-RNA-seq<span class=3D"html-tag">&lt;/td&gt=
+;</span></td></tr><tr><td class=3D"line-number" value=3D"357"></td><td clas=
+s=3D"line-content">      <span class=3D"html-tag">&lt;td <span class=3D"htm=
+l-attribute-name">style</span>=3D"<span class=3D"html-attribute-value">text=
+-align: center</span>"&gt;</span>Droplet multiple cells<span class=3D"html-=
+tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"358=
+"></td><td class=3D"line-content">      <span class=3D"html-tag">&lt;td <sp=
+an class=3D"html-attribute-name">style</span>=3D"<span class=3D"html-attrib=
+ute-value">text-align: center</span>"&gt;</span>In situ<span class=3D"html-=
+tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"359=
+"></td><td class=3D"line-content">      <span class=3D"html-tag">&lt;td <sp=
+an class=3D"html-attribute-name">style</span>=3D"<span class=3D"html-attrib=
+ute-value">text-align: center</span>"&gt;</span>TSO<span class=3D"html-tag"=
+>&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"360"></=
+td><td class=3D"line-content">      <span class=3D"html-tag">&lt;td <span c=
+lass=3D"html-attribute-name">style</span>=3D"<span class=3D"html-attribute-=
+value">text-align: center</span>"&gt;</span>Yes<span class=3D"html-tag">&lt=
+;/td&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"361"></td><=
+td class=3D"line-content">      <span class=3D"html-tag">&lt;td <span class=
+=3D"html-attribute-name">style</span>=3D"<span class=3D"html-attribute-valu=
+e">text-align: center</span>"&gt;</span>Barcoded RT primers and gel bead ba=
+rcodes<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D=
+"line-number" value=3D"362"></td><td class=3D"line-content">      <span cla=
+ss=3D"html-tag">&lt;td <span class=3D"html-attribute-name">style</span>=3D"=
+<span class=3D"html-attribute-value">text-align: center</span>"&gt;</span>Y=
+es<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"lin=
+e-number" value=3D"363"></td><td class=3D"line-content">      <span class=
+=3D"html-tag">&lt;td <span class=3D"html-attribute-name">style</span>=3D"<s=
+pan class=3D"html-attribute-value">text-align: center</span>"&gt;</span>PCR=
+<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-=
+number" value=3D"364"></td><td class=3D"line-content">      <span class=3D"=
+html-tag">&lt;td <span class=3D"html-attribute-name">style</span>=3D"<span =
+class=3D"html-attribute-value">text-align: center</span>"&gt;</span>3=E2=80=
+=99<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"li=
+ne-number" value=3D"365"></td><td class=3D"line-content">    <span class=3D=
+"html-tag">&lt;/tr&gt;</span></td></tr><tr><td class=3D"line-number" value=
+=3D"366"></td><td class=3D"line-content">    <span class=3D"html-tag">&lt;t=
+r&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"367"></td><td =
+class=3D"line-content">      <span class=3D"html-tag">&lt;td <span class=3D=
+"html-attribute-name">style</span>=3D"<span class=3D"html-attribute-value">=
+text-align: center</span>"&gt;</span>SCRB-seq/mcSCRB-seq<span class=3D"html=
+-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"36=
+8"></td><td class=3D"line-content">      <span class=3D"html-tag">&lt;td <s=
+pan class=3D"html-attribute-name">style</span>=3D"<span class=3D"html-attri=
+bute-value">text-align: center</span>"&gt;</span>FACS<span class=3D"html-ta=
+g">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"369">=
+</td><td class=3D"line-content">      <span class=3D"html-tag">&lt;td <span=
+ class=3D"html-attribute-name">style</span>=3D"<span class=3D"html-attribut=
+e-value">text-align: center</span>"&gt;</span>In 96w/384w wells<span class=
+=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" val=
+ue=3D"370"></td><td class=3D"line-content">      <span class=3D"html-tag">&=
+lt;td <span class=3D"html-attribute-name">style</span>=3D"<span class=3D"ht=
+ml-attribute-value">text-align: center</span>"&gt;</span>TSO<span class=3D"=
+html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" value=
+=3D"371"></td><td class=3D"line-content">      <span class=3D"html-tag">&lt=
+;td <span class=3D"html-attribute-name">style</span>=3D"<span class=3D"html=
+-attribute-value">text-align: center</span>"&gt;</span>Yes<span class=3D"ht=
+ml-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"=
+372"></td><td class=3D"line-content">      <span class=3D"html-tag">&lt;td =
+<span class=3D"html-attribute-name">style</span>=3D"<span class=3D"html-att=
+ribute-value">text-align: center</span>"&gt;</span>Barcoded RT primers<span=
+ class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-numbe=
+r" value=3D"373"></td><td class=3D"line-content">      <span class=3D"html-=
+tag">&lt;td <span class=3D"html-attribute-name">style</span>=3D"<span class=
+=3D"html-attribute-value">text-align: center</span>"&gt;</span>Yes<span cla=
+ss=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" v=
+alue=3D"374"></td><td class=3D"line-content">      <span class=3D"html-tag"=
+>&lt;td <span class=3D"html-attribute-name">style</span>=3D"<span class=3D"=
+html-attribute-value">text-align: center</span>"&gt;</span>PCR<span class=
+=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" val=
+ue=3D"375"></td><td class=3D"line-content">      <span class=3D"html-tag">&=
+lt;td <span class=3D"html-attribute-name">style</span>=3D"<span class=3D"ht=
+ml-attribute-value">text-align: center</span>"&gt;</span>3=E2=80=99<span cl=
+ass=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" =
+value=3D"376"></td><td class=3D"line-content">    <span class=3D"html-tag">=
+&lt;/tr&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"377"></t=
+d><td class=3D"line-content">    <span class=3D"html-tag">&lt;tr&gt;</span>=
+</td></tr><tr><td class=3D"line-number" value=3D"378"></td><td class=3D"lin=
+e-content">      <span class=3D"html-tag">&lt;td <span class=3D"html-attrib=
+ute-name">style</span>=3D"<span class=3D"html-attribute-value">text-align: =
+center</span>"&gt;</span>Seq-Well<span class=3D"html-tag">&lt;/td&gt;</span=
+></td></tr><tr><td class=3D"line-number" value=3D"379"></td><td class=3D"li=
+ne-content">      <span class=3D"html-tag">&lt;td <span class=3D"html-attri=
+bute-name">style</span>=3D"<span class=3D"html-attribute-value">text-align:=
+ center</span>"&gt;</span>Nanowells<span class=3D"html-tag">&lt;/td&gt;</sp=
+an></td></tr><tr><td class=3D"line-number" value=3D"380"></td><td class=3D"=
+line-content">      <span class=3D"html-tag">&lt;td <span class=3D"html-att=
+ribute-name">style</span>=3D"<span class=3D"html-attribute-value">text-alig=
+n: center</span>"&gt;</span>In collection tubes<span class=3D"html-tag">&lt=
+;/td&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"381"></td><=
+td class=3D"line-content">      <span class=3D"html-tag">&lt;td <span class=
+=3D"html-attribute-name">style</span>=3D"<span class=3D"html-attribute-valu=
+e">text-align: center</span>"&gt;</span>TSO<span class=3D"html-tag">&lt;/td=
+&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"382"></td><td c=
+lass=3D"line-content">      <span class=3D"html-tag">&lt;td <span class=3D"=
+html-attribute-name">style</span>=3D"<span class=3D"html-attribute-value">t=
+ext-align: center</span>"&gt;</span>Yes<span class=3D"html-tag">&lt;/td&gt;=
+</span></td></tr><tr><td class=3D"line-number" value=3D"383"></td><td class=
+=3D"line-content">      <span class=3D"html-tag">&lt;td <span class=3D"html=
+-attribute-name">style</span>=3D"<span class=3D"html-attribute-value">text-=
+align: center</span>"&gt;</span>Barcoded RT primers<span class=3D"html-tag"=
+>&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"384"></=
+td><td class=3D"line-content">      <span class=3D"html-tag">&lt;td <span c=
+lass=3D"html-attribute-name">style</span>=3D"<span class=3D"html-attribute-=
+value">text-align: center</span>"&gt;</span>Yes<span class=3D"html-tag">&lt=
+;/td&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"385"></td><=
+td class=3D"line-content">      <span class=3D"html-tag">&lt;td <span class=
+=3D"html-attribute-name">style</span>=3D"<span class=3D"html-attribute-valu=
+e">text-align: center</span>"&gt;</span>PCR<span class=3D"html-tag">&lt;/td=
+&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"386"></td><td c=
+lass=3D"line-content">      <span class=3D"html-tag">&lt;td <span class=3D"=
+html-attribute-name">style</span>=3D"<span class=3D"html-attribute-value">t=
+ext-align: center</span>"&gt;</span>3=E2=80=99<span class=3D"html-tag">&lt;=
+/td&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"387"></td><t=
+d class=3D"line-content">    <span class=3D"html-tag">&lt;/tr&gt;</span></t=
+d></tr><tr><td class=3D"line-number" value=3D"388"></td><td class=3D"line-c=
+ontent">    <span class=3D"html-tag">&lt;tr&gt;</span></td></tr><tr><td cla=
+ss=3D"line-number" value=3D"389"></td><td class=3D"line-content">      <spa=
+n class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">style</span=
+>=3D"<span class=3D"html-attribute-value">text-align: center</span>"&gt;</s=
+pan>Seq-Well S3<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td=
+ class=3D"line-number" value=3D"390"></td><td class=3D"line-content">      =
+<span class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">style</=
+span>=3D"<span class=3D"html-attribute-value">text-align: center</span>"&gt=
+;</span>Nanowells<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><=
+td class=3D"line-number" value=3D"391"></td><td class=3D"line-content">    =
+  <span class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">style=
+</span>=3D"<span class=3D"html-attribute-value">text-align: center</span>"&=
+gt;</span>In collection tubes<span class=3D"html-tag">&lt;/td&gt;</span></t=
+d></tr><tr><td class=3D"line-number" value=3D"392"></td><td class=3D"line-c=
+ontent">      <span class=3D"html-tag">&lt;td <span class=3D"html-attribute=
+-name">style</span>=3D"<span class=3D"html-attribute-value">text-align: cen=
+ter</span>"&gt;</span>Random priming and primer extension<span class=3D"htm=
+l-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"3=
+93"></td><td class=3D"line-content">      <span class=3D"html-tag">&lt;td <=
+span class=3D"html-attribute-name">style</span>=3D"<span class=3D"html-attr=
+ibute-value">text-align: center</span>"&gt;</span>No<span class=3D"html-tag=
+">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"394"><=
+/td><td class=3D"line-content">      <span class=3D"html-tag">&lt;td <span =
+class=3D"html-attribute-name">style</span>=3D"<span class=3D"html-attribute=
+-value">text-align: center</span>"&gt;</span>Barcoded RT primers<span class=
+=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" val=
+ue=3D"395"></td><td class=3D"line-content">      <span class=3D"html-tag">&=
+lt;td <span class=3D"html-attribute-name">style</span>=3D"<span class=3D"ht=
+ml-attribute-value">text-align: center</span>"&gt;</span>Yes<span class=3D"=
+html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" value=
+=3D"396"></td><td class=3D"line-content">      <span class=3D"html-tag">&lt=
+;td <span class=3D"html-attribute-name">style</span>=3D"<span class=3D"html=
+-attribute-value">text-align: center</span>"&gt;</span>PCR<span class=3D"ht=
+ml-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"=
+397"></td><td class=3D"line-content">      <span class=3D"html-tag">&lt;td =
+<span class=3D"html-attribute-name">style</span>=3D"<span class=3D"html-att=
+ribute-value">text-align: center</span>"&gt;</span>3=E2=80=99<span class=3D=
+"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" value=
+=3D"398"></td><td class=3D"line-content">    <span class=3D"html-tag">&lt;/=
+tr&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"399"></td><td=
+ class=3D"line-content">    <span class=3D"html-tag">&lt;tr&gt;</span></td>=
+</tr><tr><td class=3D"line-number" value=3D"400"></td><td class=3D"line-con=
+tent">      <span class=3D"html-tag">&lt;td <span class=3D"html-attribute-n=
+ame">style</span>=3D"<span class=3D"html-attribute-value">text-align: cente=
+r</span>"&gt;</span>SMART-seq/SMART-seq2/SMART-seq3<span class=3D"html-tag"=
+>&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"401"></=
+td><td class=3D"line-content">      <span class=3D"html-tag">&lt;td <span c=
+lass=3D"html-attribute-name">style</span>=3D"<span class=3D"html-attribute-=
+value">text-align: center</span>"&gt;</span>FACS or Fluidigm C1<span class=
+=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" val=
+ue=3D"402"></td><td class=3D"line-content">      <span class=3D"html-tag">&=
+lt;td <span class=3D"html-attribute-name">style</span>=3D"<span class=3D"ht=
+ml-attribute-value">text-align: center</span>"&gt;</span>In 96w/384w wells<=
+span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-n=
+umber" value=3D"403"></td><td class=3D"line-content">      <span class=3D"h=
+tml-tag">&lt;td <span class=3D"html-attribute-name">style</span>=3D"<span c=
+lass=3D"html-attribute-value">text-align: center</span>"&gt;</span>TSO<span=
+ class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-numbe=
+r" value=3D"404"></td><td class=3D"line-content">      <span class=3D"html-=
+tag">&lt;td <span class=3D"html-attribute-name">style</span>=3D"<span class=
+=3D"html-attribute-value">text-align: center</span>"&gt;</span>Yes<span cla=
+ss=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" v=
+alue=3D"405"></td><td class=3D"line-content">      <span class=3D"html-tag"=
+>&lt;td <span class=3D"html-attribute-name">style</span>=3D"<span class=3D"=
+html-attribute-value">text-align: center</span>"&gt;</span>Library PCR with=
+ barcoded primers<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><=
+td class=3D"line-number" value=3D"406"></td><td class=3D"line-content">    =
+  <span class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">style=
+</span>=3D"<span class=3D"html-attribute-value">text-align: center</span>"&=
+gt;</span>No<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td cl=
+ass=3D"line-number" value=3D"407"></td><td class=3D"line-content">      <sp=
+an class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">style</spa=
+n>=3D"<span class=3D"html-attribute-value">text-align: center</span>"&gt;</=
+span>PCR<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"408"></td><td class=3D"line-content">      <span =
+class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">style</span>=
+=3D"<span class=3D"html-attribute-value">text-align: center</span>"&gt;</sp=
+an>full-length<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td =
+class=3D"line-number" value=3D"409"></td><td class=3D"line-content">    <sp=
+an class=3D"html-tag">&lt;/tr&gt;</span></td></tr><tr><td class=3D"line-num=
+ber" value=3D"410"></td><td class=3D"line-content">    <span class=3D"html-=
+tag">&lt;tr&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"411"=
+></td><td class=3D"line-content">      <span class=3D"html-tag">&lt;td <spa=
+n class=3D"html-attribute-name">style</span>=3D"<span class=3D"html-attribu=
+te-value">text-align: center</span>"&gt;</span>SPLiT-seq<span class=3D"html=
+-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"41=
+2"></td><td class=3D"line-content">      <span class=3D"html-tag">&lt;td <s=
+pan class=3D"html-attribute-name">style</span>=3D"<span class=3D"html-attri=
+bute-value">text-align: center</span>"&gt;</span>Not needed<span class=3D"h=
+tml-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" value=3D=
+"413"></td><td class=3D"line-content">      <span class=3D"html-tag">&lt;td=
+ <span class=3D"html-attribute-name">style</span>=3D"<span class=3D"html-at=
+tribute-value">text-align: center</span>"&gt;</span>In situ<span class=3D"h=
+tml-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" value=3D=
+"414"></td><td class=3D"line-content">      <span class=3D"html-tag">&lt;td=
+ <span class=3D"html-attribute-name">style</span>=3D"<span class=3D"html-at=
+tribute-value">text-align: center</span>"&gt;</span>TSO<span class=3D"html-=
+tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"415=
+"></td><td class=3D"line-content">      <span class=3D"html-tag">&lt;td <sp=
+an class=3D"html-attribute-name">style</span>=3D"<span class=3D"html-attrib=
+ute-value">text-align: center</span>"&gt;</span>Yes<span class=3D"html-tag"=
+>&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"416"></=
+td><td class=3D"line-content">      <span class=3D"html-tag">&lt;td <span c=
+lass=3D"html-attribute-name">style</span>=3D"<span class=3D"html-attribute-=
+value">text-align: center</span>"&gt;</span>Ligation of barcoded RT primers=
+<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-=
+number" value=3D"417"></td><td class=3D"line-content">      <span class=3D"=
+html-tag">&lt;td <span class=3D"html-attribute-name">style</span>=3D"<span =
+class=3D"html-attribute-value">text-align: center</span>"&gt;</span>Yes<spa=
+n class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-numb=
+er" value=3D"418"></td><td class=3D"line-content">      <span class=3D"html=
+-tag">&lt;td <span class=3D"html-attribute-name">style</span>=3D"<span clas=
+s=3D"html-attribute-value">text-align: center</span>"&gt;</span>PCR<span cl=
+ass=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" =
+value=3D"419"></td><td class=3D"line-content">      <span class=3D"html-tag=
+">&lt;td <span class=3D"html-attribute-name">style</span>=3D"<span class=3D=
+"html-attribute-value">text-align: center</span>"&gt;</span>3=E2=80=99<span=
+ class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-numbe=
+r" value=3D"420"></td><td class=3D"line-content">    <span class=3D"html-ta=
+g">&lt;/tr&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"421">=
+</td><td class=3D"line-content">    <span class=3D"html-tag">&lt;tr&gt;</sp=
+an></td></tr><tr><td class=3D"line-number" value=3D"422"></td><td class=3D"=
+line-content">      <span class=3D"html-tag">&lt;td <span class=3D"html-att=
+ribute-name">style</span>=3D"<span class=3D"html-attribute-value">text-alig=
+n: center</span>"&gt;</span>STRT-seq<span class=3D"html-tag">&lt;/td&gt;</s=
+pan></td></tr><tr><td class=3D"line-number" value=3D"423"></td><td class=3D=
+"line-content">      <span class=3D"html-tag">&lt;td <span class=3D"html-at=
+tribute-name">style</span>=3D"<span class=3D"html-attribute-value">text-ali=
+gn: center</span>"&gt;</span>FACS<span class=3D"html-tag">&lt;/td&gt;</span=
+></td></tr><tr><td class=3D"line-number" value=3D"424"></td><td class=3D"li=
+ne-content">      <span class=3D"html-tag">&lt;td <span class=3D"html-attri=
+bute-name">style</span>=3D"<span class=3D"html-attribute-value">text-align:=
+ center</span>"&gt;</span>In 96w/384w wells<span class=3D"html-tag">&lt;/td=
+&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"425"></td><td c=
+lass=3D"line-content">      <span class=3D"html-tag">&lt;td <span class=3D"=
+html-attribute-name">style</span>=3D"<span class=3D"html-attribute-value">t=
+ext-align: center</span>"&gt;</span>TSO<span class=3D"html-tag">&lt;/td&gt;=
+</span></td></tr><tr><td class=3D"line-number" value=3D"426"></td><td class=
+=3D"line-content">      <span class=3D"html-tag">&lt;td <span class=3D"html=
+-attribute-name">style</span>=3D"<span class=3D"html-attribute-value">text-=
+align: center</span>"&gt;</span>Yes<span class=3D"html-tag">&lt;/td&gt;</sp=
+an></td></tr><tr><td class=3D"line-number" value=3D"427"></td><td class=3D"=
+line-content">      <span class=3D"html-tag">&lt;td <span class=3D"html-att=
+ribute-name">style</span>=3D"<span class=3D"html-attribute-value">text-alig=
+n: center</span>"&gt;</span>Barcoded TSO primers<span class=3D"html-tag">&l=
+t;/td&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"428"></td>=
+<td class=3D"line-content">      <span class=3D"html-tag">&lt;td <span clas=
+s=3D"html-attribute-name">style</span>=3D"<span class=3D"html-attribute-val=
+ue">text-align: center</span>"&gt;</span>Yes<span class=3D"html-tag">&lt;/t=
+d&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"429"></td><td =
+class=3D"line-content">      <span class=3D"html-tag">&lt;td <span class=3D=
+"html-attribute-name">style</span>=3D"<span class=3D"html-attribute-value">=
+text-align: center</span>"&gt;</span>PCR<span class=3D"html-tag">&lt;/td&gt=
+;</span></td></tr><tr><td class=3D"line-number" value=3D"430"></td><td clas=
+s=3D"line-content">      <span class=3D"html-tag">&lt;td <span class=3D"htm=
+l-attribute-name">style</span>=3D"<span class=3D"html-attribute-value">text=
+-align: center</span>"&gt;</span>5=E2=80=99<span class=3D"html-tag">&lt;/td=
+&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"431"></td><td c=
+lass=3D"line-content">    <span class=3D"html-tag">&lt;/tr&gt;</span></td><=
+/tr><tr><td class=3D"line-number" value=3D"432"></td><td class=3D"line-cont=
+ent">    <span class=3D"html-tag">&lt;tr&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"433"></td><td class=3D"line-content">      <span =
+class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">style</span>=
+=3D"<span class=3D"html-attribute-value">text-align: center</span>"&gt;</sp=
+an>STRT-seq-C1<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td =
+class=3D"line-number" value=3D"434"></td><td class=3D"line-content">      <=
+span class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">style</s=
+pan>=3D"<span class=3D"html-attribute-value">text-align: center</span>"&gt;=
+</span>Fluidigm C1<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr>=
+<td class=3D"line-number" value=3D"435"></td><td class=3D"line-content">   =
+   <span class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">styl=
+e</span>=3D"<span class=3D"html-attribute-value">text-align: center</span>"=
+&gt;</span>In microfluidic chambers<span class=3D"html-tag">&lt;/td&gt;</sp=
+an></td></tr><tr><td class=3D"line-number" value=3D"436"></td><td class=3D"=
+line-content">      <span class=3D"html-tag">&lt;td <span class=3D"html-att=
+ribute-name">style</span>=3D"<span class=3D"html-attribute-value">text-alig=
+n: center</span>"&gt;</span>TSO<span class=3D"html-tag">&lt;/td&gt;</span><=
+/td></tr><tr><td class=3D"line-number" value=3D"437"></td><td class=3D"line=
+-content">      <span class=3D"html-tag">&lt;td <span class=3D"html-attribu=
+te-name">style</span>=3D"<span class=3D"html-attribute-value">text-align: c=
+enter</span>"&gt;</span>Yes<span class=3D"html-tag">&lt;/td&gt;</span></td>=
+</tr><tr><td class=3D"line-number" value=3D"438"></td><td class=3D"line-con=
+tent">      <span class=3D"html-tag">&lt;td <span class=3D"html-attribute-n=
+ame">style</span>=3D"<span class=3D"html-attribute-value">text-align: cente=
+r</span>"&gt;</span>Barcoded Tn5 transposase<span class=3D"html-tag">&lt;/t=
+d&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"439"></td><td =
+class=3D"line-content">      <span class=3D"html-tag">&lt;td <span class=3D=
+"html-attribute-name">style</span>=3D"<span class=3D"html-attribute-value">=
+text-align: center</span>"&gt;</span>No<span class=3D"html-tag">&lt;/td&gt;=
+</span></td></tr><tr><td class=3D"line-number" value=3D"440"></td><td class=
+=3D"line-content">      <span class=3D"html-tag">&lt;td <span class=3D"html=
+-attribute-name">style</span>=3D"<span class=3D"html-attribute-value">text-=
+align: center</span>"&gt;</span>PCR<span class=3D"html-tag">&lt;/td&gt;</sp=
+an></td></tr><tr><td class=3D"line-number" value=3D"441"></td><td class=3D"=
+line-content">      <span class=3D"html-tag">&lt;td <span class=3D"html-att=
+ribute-name">style</span>=3D"<span class=3D"html-attribute-value">text-alig=
+n: center</span>"&gt;</span>5=E2=80=99<span class=3D"html-tag">&lt;/td&gt;<=
+/span></td></tr><tr><td class=3D"line-number" value=3D"442"></td><td class=
+=3D"line-content">    <span class=3D"html-tag">&lt;/tr&gt;</span></td></tr>=
+<tr><td class=3D"line-number" value=3D"443"></td><td class=3D"line-content"=
+>    <span class=3D"html-tag">&lt;tr&gt;</span></td></tr><tr><td class=3D"l=
+ine-number" value=3D"444"></td><td class=3D"line-content">      <span class=
+=3D"html-tag">&lt;td <span class=3D"html-attribute-name">style</span>=3D"<s=
+pan class=3D"html-attribute-value">text-align: center</span>"&gt;</span>STR=
+T-seq-2i<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"445"></td><td class=3D"line-content">      <span =
+class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">style</span>=
+=3D"<span class=3D"html-attribute-value">text-align: center</span>"&gt;</sp=
+an>FACS or dilution<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr=
+><td class=3D"line-number" value=3D"446"></td><td class=3D"line-content">  =
+    <span class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">sty=
+le</span>=3D"<span class=3D"html-attribute-value">text-align: center</span>=
+"&gt;</span>In 9600w wells<span class=3D"html-tag">&lt;/td&gt;</span></td><=
+/tr><tr><td class=3D"line-number" value=3D"447"></td><td class=3D"line-cont=
+ent">      <span class=3D"html-tag">&lt;td <span class=3D"html-attribute-na=
+me">style</span>=3D"<span class=3D"html-attribute-value">text-align: center=
+</span>"&gt;</span>TSO<span class=3D"html-tag">&lt;/td&gt;</span></td></tr>=
+<tr><td class=3D"line-number" value=3D"448"></td><td class=3D"line-content"=
+>      <span class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">=
+style</span>=3D"<span class=3D"html-attribute-value">text-align: center</sp=
+an>"&gt;</span>Yes<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr>=
+<td class=3D"line-number" value=3D"449"></td><td class=3D"line-content">   =
+   <span class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">styl=
+e</span>=3D"<span class=3D"html-attribute-value">text-align: center</span>"=
+&gt;</span>Barcoded PCR primers and Tn5 transposase<span class=3D"html-tag"=
+>&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"450"></=
+td><td class=3D"line-content">      <span class=3D"html-tag">&lt;td <span c=
+lass=3D"html-attribute-name">style</span>=3D"<span class=3D"html-attribute-=
+value">text-align: center</span>"&gt;</span>Yes<span class=3D"html-tag">&lt=
+;/td&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"451"></td><=
+td class=3D"line-content">      <span class=3D"html-tag">&lt;td <span class=
+=3D"html-attribute-name">style</span>=3D"<span class=3D"html-attribute-valu=
+e">text-align: center</span>"&gt;</span>PCR<span class=3D"html-tag">&lt;/td=
+&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"452"></td><td c=
+lass=3D"line-content">      <span class=3D"html-tag">&lt;td <span class=3D"=
+html-attribute-name">style</span>=3D"<span class=3D"html-attribute-value">t=
+ext-align: center</span>"&gt;</span>5=E2=80=99<span class=3D"html-tag">&lt;=
+/td&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"453"></td><t=
+d class=3D"line-content">    <span class=3D"html-tag">&lt;/tr&gt;</span></t=
+d></tr><tr><td class=3D"line-number" value=3D"454"></td><td class=3D"line-c=
+ontent">    <span class=3D"html-tag">&lt;tr&gt;</span></td></tr><tr><td cla=
+ss=3D"line-number" value=3D"455"></td><td class=3D"line-content">      <spa=
+n class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">style</span=
+>=3D"<span class=3D"html-attribute-value">text-align: center</span>"&gt;</s=
+pan>Tang 2009<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td c=
+lass=3D"line-number" value=3D"456"></td><td class=3D"line-content">      <s=
+pan class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">style</sp=
+an>=3D"<span class=3D"html-attribute-value">text-align: center</span>"&gt;<=
+/span>FACS or manual<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><t=
+r><td class=3D"line-number" value=3D"457"></td><td class=3D"line-content"> =
+     <span class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">st=
+yle</span>=3D"<span class=3D"html-attribute-value">text-align: center</span=
+>"&gt;</span>In 96w/384w wells<span class=3D"html-tag">&lt;/td&gt;</span></=
+td></tr><tr><td class=3D"line-number" value=3D"458"></td><td class=3D"line-=
+content">      <span class=3D"html-tag">&lt;td <span class=3D"html-attribut=
+e-name">style</span>=3D"<span class=3D"html-attribute-value">text-align: ce=
+nter</span>"&gt;</span>PolyA tailing and primer extension<span class=3D"htm=
+l-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"4=
+59"></td><td class=3D"line-content">      <span class=3D"html-tag">&lt;td <=
+span class=3D"html-attribute-name">style</span>=3D"<span class=3D"html-attr=
+ibute-value">text-align: center</span>"&gt;</span>Yes in principle<span cla=
+ss=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" v=
+alue=3D"460"></td><td class=3D"line-content">      <span class=3D"html-tag"=
+>&lt;td <span class=3D"html-attribute-name">style</span>=3D"<span class=3D"=
+html-attribute-value">text-align: center</span>"&gt;</span>Ligation of barc=
+oded adaptors<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td c=
+lass=3D"line-number" value=3D"461"></td><td class=3D"line-content">      <s=
+pan class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">style</sp=
+an>=3D"<span class=3D"html-attribute-value">text-align: center</span>"&gt;<=
+/span>No<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"462"></td><td class=3D"line-content">      <span =
+class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">style</span>=
+=3D"<span class=3D"html-attribute-value">text-align: center</span>"&gt;</sp=
+an>PCR<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D=
+"line-number" value=3D"463"></td><td class=3D"line-content">      <span cla=
+ss=3D"html-tag">&lt;td <span class=3D"html-attribute-name">style</span>=3D"=
+<span class=3D"html-attribute-value">text-align: center</span>"&gt;</span>B=
+iased to 3=E2=80=99<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr=
+><td class=3D"line-number" value=3D"464"></td><td class=3D"line-content">  =
+  <span class=3D"html-tag">&lt;/tr&gt;</span></td></tr><tr><td class=3D"lin=
+e-number" value=3D"465"></td><td class=3D"line-content">  <span class=3D"ht=
+ml-tag">&lt;/tbody&gt;</span></td></tr><tr><td class=3D"line-number" value=
+=3D"466"></td><td class=3D"line-content"><span class=3D"html-tag">&lt;/tabl=
+e&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"467"></td><td =
+class=3D"line-content"><br></td></tr><tr><td class=3D"line-number" value=3D=
+"468"></td><td class=3D"line-content"><span class=3D"html-tag">&lt;h2 <span=
+ class=3D"html-attribute-name">id</span>=3D"<span class=3D"html-attribute-v=
+alue">scatac-seq-technical-comparisons</span>"&gt;</span>scATAC-seq technic=
+al comparisons<span class=3D"html-tag">&lt;/h2&gt;</span></td></tr><tr><td =
+class=3D"line-number" value=3D"469"></td><td class=3D"line-content"><br></t=
+d></tr><tr><td class=3D"line-number" value=3D"470"></td><td class=3D"line-c=
+ontent"><span class=3D"html-tag">&lt;p&gt;</span><span class=3D"html-tag">&=
+lt;strong&gt;</span>This is basically Table 1 from our scATAC-seq protocol:=
+ <span class=3D"html-tag">&lt;a <span class=3D"html-attribute-name">href</s=
+pan>=3D"<a class=3D"html-attribute-value html-external-link" target=3D"_bla=
+nk" href=3D"https://www.nature.com/articles/s41596-021-00583-5" rel=3D"nore=
+ferrer noopener">https://www.nature.com/articles/s41596-021-00583-5</a>"&gt=
+;</span>A plate-based single-cell ATAC-seq workflow for fast and robust pro=
+filing of chromatin accessibility<span class=3D"html-tag">&lt;/a&gt;</span>=
+<span class=3D"html-tag">&lt;/strong&gt;</span><span class=3D"html-tag">&lt=
+;/p&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"471"></td><t=
+d class=3D"line-content"><br></td></tr><tr><td class=3D"line-number" value=
+=3D"472"></td><td class=3D"line-content"><span class=3D"html-tag">&lt;table=
+&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"473"></td><td c=
+lass=3D"line-content">  <span class=3D"html-tag">&lt;thead&gt;</span></td><=
+/tr><tr><td class=3D"line-number" value=3D"474"></td><td class=3D"line-cont=
+ent">    <span class=3D"html-tag">&lt;tr&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"475"></td><td class=3D"line-content">      <span =
+class=3D"html-tag">&lt;th <span class=3D"html-attribute-name">style</span>=
+=3D"<span class=3D"html-attribute-value">text-align: center</span>"&gt;</sp=
+an>&nbsp;<span class=3D"html-tag">&lt;/th&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"476"></td><td class=3D"line-content">      <span =
+class=3D"html-tag">&lt;th <span class=3D"html-attribute-name">style</span>=
+=3D"<span class=3D"html-attribute-value">text-align: center</span>"&gt;</sp=
+an>Tn5 and adaptors<span class=3D"html-tag">&lt;/th&gt;</span></td></tr><tr=
+><td class=3D"line-number" value=3D"477"></td><td class=3D"line-content">  =
+    <span class=3D"html-tag">&lt;th <span class=3D"html-attribute-name">sty=
+le</span>=3D"<span class=3D"html-attribute-value">text-align: center</span>=
+"&gt;</span>Staring cell number<span class=3D"html-tag">&lt;/th&gt;</span><=
+/td></tr><tr><td class=3D"line-number" value=3D"478"></td><td class=3D"line=
+-content">      <span class=3D"html-tag">&lt;th <span class=3D"html-attribu=
+te-name">style</span>=3D"<span class=3D"html-attribute-value">text-align: c=
+enter</span>"&gt;</span>Tagmentation<span class=3D"html-tag">&lt;/th&gt;</s=
+pan></td></tr><tr><td class=3D"line-number" value=3D"479"></td><td class=3D=
+"line-content">      <span class=3D"html-tag">&lt;th <span class=3D"html-at=
+tribute-name">style</span>=3D"<span class=3D"html-attribute-value">text-ali=
+gn: center</span>"&gt;</span>Single-cell/nucleus isolation<span class=3D"ht=
+ml-tag">&lt;/th&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"=
+480"></td><td class=3D"line-content">      <span class=3D"html-tag">&lt;th =
+<span class=3D"html-attribute-name">style</span>=3D"<span class=3D"html-att=
+ribute-value">text-align: center</span>"&gt;</span>Library amplification<sp=
+an class=3D"html-tag">&lt;/th&gt;</span></td></tr><tr><td class=3D"line-num=
+ber" value=3D"481"></td><td class=3D"line-content">      <span class=3D"htm=
+l-tag">&lt;th <span class=3D"html-attribute-name">style</span>=3D"<span cla=
+ss=3D"html-attribute-value">text-align: center</span>"&gt;</span>Barcode ad=
+dition<span class=3D"html-tag">&lt;/th&gt;</span></td></tr><tr><td class=3D=
+"line-number" value=3D"482"></td><td class=3D"line-content">      <span cla=
+ss=3D"html-tag">&lt;th <span class=3D"html-attribute-name">style</span>=3D"=
+<span class=3D"html-attribute-value">text-align: center</span>"&gt;</span>T=
+hroughput<span class=3D"html-tag">&lt;/th&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"483"></td><td class=3D"line-content">    <span cl=
+ass=3D"html-tag">&lt;/tr&gt;</span></td></tr><tr><td class=3D"line-number" =
+value=3D"484"></td><td class=3D"line-content">  <span class=3D"html-tag">&l=
+t;/thead&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"485"></=
+td><td class=3D"line-content">  <span class=3D"html-tag">&lt;tbody&gt;</spa=
+n></td></tr><tr><td class=3D"line-number" value=3D"486"></td><td class=3D"l=
+ine-content">    <span class=3D"html-tag">&lt;tr&gt;</span></td></tr><tr><t=
+d class=3D"line-number" value=3D"487"></td><td class=3D"line-content">     =
+ <span class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">style<=
+/span>=3D"<span class=3D"html-attribute-value">text-align: center</span>"&g=
+t;</span>sc-ATAC-seq/snATAC-seq<span class=3D"html-tag">&lt;/td&gt;</span><=
+/td></tr><tr><td class=3D"line-number" value=3D"488"></td><td class=3D"line=
+-content">      <span class=3D"html-tag">&lt;td <span class=3D"html-attribu=
+te-name">style</span>=3D"<span class=3D"html-attribute-value">text-align: c=
+enter</span>"&gt;</span>Custom-made<span class=3D"html-tag">&lt;/td&gt;</sp=
+an></td></tr><tr><td class=3D"line-number" value=3D"489"></td><td class=3D"=
+line-content">      <span class=3D"html-tag">&lt;td <span class=3D"html-att=
+ribute-name">style</span>=3D"<span class=3D"html-attribute-value">text-alig=
+n: center</span>"&gt;</span>500,000+<span class=3D"html-tag">&lt;/td&gt;</s=
+pan></td></tr><tr><td class=3D"line-number" value=3D"490"></td><td class=3D=
+"line-content">      <span class=3D"html-tag">&lt;td <span class=3D"html-at=
+tribute-name">style</span>=3D"<span class=3D"html-attribute-value">text-ali=
+gn: center</span>"&gt;</span>Bulk<span class=3D"html-tag">&lt;/td&gt;</span=
+></td></tr><tr><td class=3D"line-number" value=3D"491"></td><td class=3D"li=
+ne-content">      <span class=3D"html-tag">&lt;td <span class=3D"html-attri=
+bute-name">style</span>=3D"<span class=3D"html-attribute-value">text-align:=
+ center</span>"&gt;</span>FACS or dilution<span class=3D"html-tag">&lt;/td&=
+gt;</span></td></tr><tr><td class=3D"line-number" value=3D"492"></td><td cl=
+ass=3D"line-content">      <span class=3D"html-tag">&lt;td <span class=3D"h=
+tml-attribute-name">style</span>=3D"<span class=3D"html-attribute-value">te=
+xt-align: center</span>"&gt;</span>PCR<span class=3D"html-tag">&lt;/td&gt;<=
+/span></td></tr><tr><td class=3D"line-number" value=3D"493"></td><td class=
+=3D"line-content">      <span class=3D"html-tag">&lt;td <span class=3D"html=
+-attribute-name">style</span>=3D"<span class=3D"html-attribute-value">text-=
+align: center</span>"&gt;</span>Tn5 + PCR barcodes<span class=3D"html-tag">=
+&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"494"></t=
+d><td class=3D"line-content">      <span class=3D"html-tag">&lt;td <span cl=
+ass=3D"html-attribute-name">style</span>=3D"<span class=3D"html-attribute-v=
+alue">text-align: center</span>"&gt;</span>10,000<span class=3D"html-tag">&=
+lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"495"></td=
+><td class=3D"line-content">    <span class=3D"html-tag">&lt;/tr&gt;</span>=
+</td></tr><tr><td class=3D"line-number" value=3D"496"></td><td class=3D"lin=
+e-content">    <span class=3D"html-tag">&lt;tr&gt;</span></td></tr><tr><td =
+class=3D"line-number" value=3D"497"></td><td class=3D"line-content">      <=
+span class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">style</s=
+pan>=3D"<span class=3D"html-attribute-value">text-align: center</span>"&gt;=
+</span>scTHS-seq<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><t=
+d class=3D"line-number" value=3D"498"></td><td class=3D"line-content">     =
+ <span class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">style<=
+/span>=3D"<span class=3D"html-attribute-value">text-align: center</span>"&g=
+t;</span>Custom-made<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><t=
+r><td class=3D"line-number" value=3D"499"></td><td class=3D"line-content"> =
+     <span class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">st=
+yle</span>=3D"<span class=3D"html-attribute-value">text-align: center</span=
+>"&gt;</span>500,000+<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><=
+tr><td class=3D"line-number" value=3D"500"></td><td class=3D"line-content">=
+      <span class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">s=
+tyle</span>=3D"<span class=3D"html-attribute-value">text-align: center</spa=
+n>"&gt;</span>Bulk<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr>=
+<td class=3D"line-number" value=3D"501"></td><td class=3D"line-content">   =
+   <span class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">styl=
+e</span>=3D"<span class=3D"html-attribute-value">text-align: center</span>"=
+&gt;</span>FACS or dilution<span class=3D"html-tag">&lt;/td&gt;</span></td>=
+</tr><tr><td class=3D"line-number" value=3D"502"></td><td class=3D"line-con=
+tent">      <span class=3D"html-tag">&lt;td <span class=3D"html-attribute-n=
+ame">style</span>=3D"<span class=3D"html-attribute-value">text-align: cente=
+r</span>"&gt;</span>IVT and PCR<span class=3D"html-tag">&lt;/td&gt;</span><=
+/td></tr><tr><td class=3D"line-number" value=3D"503"></td><td class=3D"line=
+-content">      <span class=3D"html-tag">&lt;td <span class=3D"html-attribu=
+te-name">style</span>=3D"<span class=3D"html-attribute-value">text-align: c=
+enter</span>"&gt;</span>Tn5 + PCR barcodes<span class=3D"html-tag">&lt;/td&=
+gt;</span></td></tr><tr><td class=3D"line-number" value=3D"504"></td><td cl=
+ass=3D"line-content">      <span class=3D"html-tag">&lt;td <span class=3D"h=
+tml-attribute-name">style</span>=3D"<span class=3D"html-attribute-value">te=
+xt-align: center</span>"&gt;</span>10,000<span class=3D"html-tag">&lt;/td&g=
+t;</span></td></tr><tr><td class=3D"line-number" value=3D"505"></td><td cla=
+ss=3D"line-content">    <span class=3D"html-tag">&lt;/tr&gt;</span></td></t=
+r><tr><td class=3D"line-number" value=3D"506"></td><td class=3D"line-conten=
+t">    <span class=3D"html-tag">&lt;tr&gt;</span></td></tr><tr><td class=3D=
+"line-number" value=3D"507"></td><td class=3D"line-content">      <span cla=
+ss=3D"html-tag">&lt;td <span class=3D"html-attribute-name">style</span>=3D"=
+<span class=3D"html-attribute-value">text-align: center</span>"&gt;</span>P=
+late_scATAC-seq and Pi-ATAC-seq<span class=3D"html-tag">&lt;/td&gt;</span><=
+/td></tr><tr><td class=3D"line-number" value=3D"508"></td><td class=3D"line=
+-content">      <span class=3D"html-tag">&lt;td <span class=3D"html-attribu=
+te-name">style</span>=3D"<span class=3D"html-attribute-value">text-align: c=
+enter</span>"&gt;</span>Nextera<span class=3D"html-tag">&lt;/td&gt;</span><=
+/td></tr><tr><td class=3D"line-number" value=3D"509"></td><td class=3D"line=
+-content">      <span class=3D"html-tag">&lt;td <span class=3D"html-attribu=
+te-name">style</span>=3D"<span class=3D"html-attribute-value">text-align: c=
+enter</span>"&gt;</span>5,000+<span class=3D"html-tag">&lt;/td&gt;</span></=
+td></tr><tr><td class=3D"line-number" value=3D"510"></td><td class=3D"line-=
+content">      <span class=3D"html-tag">&lt;td <span class=3D"html-attribut=
+e-name">style</span>=3D"<span class=3D"html-attribute-value">text-align: ce=
+nter</span>"&gt;</span>Bulk<span class=3D"html-tag">&lt;/td&gt;</span></td>=
+</tr><tr><td class=3D"line-number" value=3D"511"></td><td class=3D"line-con=
+tent">      <span class=3D"html-tag">&lt;td <span class=3D"html-attribute-n=
+ame">style</span>=3D"<span class=3D"html-attribute-value">text-align: cente=
+r</span>"&gt;</span>FACS<span class=3D"html-tag">&lt;/td&gt;</span></td></t=
+r><tr><td class=3D"line-number" value=3D"512"></td><td class=3D"line-conten=
+t">      <span class=3D"html-tag">&lt;td <span class=3D"html-attribute-name=
+">style</span>=3D"<span class=3D"html-attribute-value">text-align: center</=
+span>"&gt;</span>PCR<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><t=
+r><td class=3D"line-number" value=3D"513"></td><td class=3D"line-content"> =
+     <span class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">st=
+yle</span>=3D"<span class=3D"html-attribute-value">text-align: center</span=
+>"&gt;</span>PCR barcodes<span class=3D"html-tag">&lt;/td&gt;</span></td></=
+tr><tr><td class=3D"line-number" value=3D"514"></td><td class=3D"line-conte=
+nt">      <span class=3D"html-tag">&lt;td <span class=3D"html-attribute-nam=
+e">style</span>=3D"<span class=3D"html-attribute-value">text-align: center<=
+/span>"&gt;</span>1,000<span class=3D"html-tag">&lt;/td&gt;</span></td></tr=
+><tr><td class=3D"line-number" value=3D"515"></td><td class=3D"line-content=
+">    <span class=3D"html-tag">&lt;/tr&gt;</span></td></tr><tr><td class=3D=
+"line-number" value=3D"516"></td><td class=3D"line-content">    <span class=
+=3D"html-tag">&lt;tr&gt;</span></td></tr><tr><td class=3D"line-number" valu=
+e=3D"517"></td><td class=3D"line-content">      <span class=3D"html-tag">&l=
+t;td <span class=3D"html-attribute-name">style</span>=3D"<span class=3D"htm=
+l-attribute-value">text-align: center</span>"&gt;</span>Fluidigm C1<span cl=
+ass=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" =
+value=3D"518"></td><td class=3D"line-content">      <span class=3D"html-tag=
+">&lt;td <span class=3D"html-attribute-name">style</span>=3D"<span class=3D=
+"html-attribute-value">text-align: center</span>"&gt;</span>Nextera<span cl=
+ass=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" =
+value=3D"519"></td><td class=3D"line-content">      <span class=3D"html-tag=
+">&lt;td <span class=3D"html-attribute-name">style</span>=3D"<span class=3D=
+"html-attribute-value">text-align: center</span>"&gt;</span>4,000-20,000<sp=
+an class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-num=
+ber" value=3D"520"></td><td class=3D"line-content">      <span class=3D"htm=
+l-tag">&lt;td <span class=3D"html-attribute-name">style</span>=3D"<span cla=
+ss=3D"html-attribute-value">text-align: center</span>"&gt;</span>Single cel=
+ls<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"lin=
+e-number" value=3D"521"></td><td class=3D"line-content">      <span class=
+=3D"html-tag">&lt;td <span class=3D"html-attribute-name">style</span>=3D"<s=
+pan class=3D"html-attribute-value">text-align: center</span>"&gt;</span>Mic=
+rofluidics<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td clas=
+s=3D"line-number" value=3D"522"></td><td class=3D"line-content">      <span=
+ class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">style</span>=
+=3D"<span class=3D"html-attribute-value">text-align: center</span>"&gt;</sp=
+an>PCR<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D=
+"line-number" value=3D"523"></td><td class=3D"line-content">      <span cla=
+ss=3D"html-tag">&lt;td <span class=3D"html-attribute-name">style</span>=3D"=
+<span class=3D"html-attribute-value">text-align: center</span>"&gt;</span>P=
+CR barcodes<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td cla=
+ss=3D"line-number" value=3D"524"></td><td class=3D"line-content">      <spa=
+n class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">style</span=
+>=3D"<span class=3D"html-attribute-value">text-align: center</span>"&gt;</s=
+pan>100<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"525"></td><td class=3D"line-content">    <span cl=
+ass=3D"html-tag">&lt;/tr&gt;</span></td></tr><tr><td class=3D"line-number" =
+value=3D"526"></td><td class=3D"line-content">    <span class=3D"html-tag">=
+&lt;tr&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"527"></td=
+><td class=3D"line-content">      <span class=3D"html-tag">&lt;td <span cla=
+ss=3D"html-attribute-name">style</span>=3D"<span class=3D"html-attribute-va=
+lue">text-align: center</span>"&gt;</span>Takara ICELL8<span class=3D"html-=
+tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"528=
+"></td><td class=3D"line-content">      <span class=3D"html-tag">&lt;td <sp=
+an class=3D"html-attribute-name">style</span>=3D"<span class=3D"html-attrib=
+ute-value">text-align: center</span>"&gt;</span>Nextera<span class=3D"html-=
+tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"529=
+"></td><td class=3D"line-content">      <span class=3D"html-tag">&lt;td <sp=
+an class=3D"html-attribute-name">style</span>=3D"<span class=3D"html-attrib=
+ute-value">text-align: center</span>"&gt;</span>16,000<span class=3D"html-t=
+ag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"530"=
+></td><td class=3D"line-content">      <span class=3D"html-tag">&lt;td <spa=
+n class=3D"html-attribute-name">style</span>=3D"<span class=3D"html-attribu=
+te-value">text-align: center</span>"&gt;</span>Single cells<span class=3D"h=
+tml-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" value=3D=
+"531"></td><td class=3D"line-content">      <span class=3D"html-tag">&lt;td=
+ <span class=3D"html-attribute-name">style</span>=3D"<span class=3D"html-at=
+tribute-value">text-align: center</span>"&gt;</span>Microfluidics<span clas=
+s=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" va=
+lue=3D"532"></td><td class=3D"line-content">      <span class=3D"html-tag">=
+&lt;td <span class=3D"html-attribute-name">style</span>=3D"<span class=3D"h=
+tml-attribute-value">text-align: center</span>"&gt;</span>PCR<span class=3D=
+"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" value=
+=3D"533"></td><td class=3D"line-content">      <span class=3D"html-tag">&lt=
+;td <span class=3D"html-attribute-name">style</span>=3D"<span class=3D"html=
+-attribute-value">text-align: center</span>"&gt;</span>PCR barcodes<span cl=
+ass=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" =
+value=3D"534"></td><td class=3D"line-content">      <span class=3D"html-tag=
+">&lt;td <span class=3D"html-attribute-name">style</span>=3D"<span class=3D=
+"html-attribute-value">text-align: center</span>"&gt;</span>1,000<span clas=
+s=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" va=
+lue=3D"535"></td><td class=3D"line-content">    <span class=3D"html-tag">&l=
+t;/tr&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"536"></td>=
+<td class=3D"line-content">    <span class=3D"html-tag">&lt;tr&gt;</span></=
+td></tr><tr><td class=3D"line-number" value=3D"537"></td><td class=3D"line-=
+content">      <span class=3D"html-tag">&lt;td <span class=3D"html-attribut=
+e-name">style</span>=3D"<span class=3D"html-attribute-value">text-align: ce=
+nter</span>"&gt;</span>10x Chromium Single Cell ATAC<span class=3D"html-tag=
+">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"538"><=
+/td><td class=3D"line-content">      <span class=3D"html-tag">&lt;td <span =
+class=3D"html-attribute-name">style</span>=3D"<span class=3D"html-attribute=
+-value">text-align: center</span>"&gt;</span>Nextera<span class=3D"html-tag=
+">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"539"><=
+/td><td class=3D"line-content">      <span class=3D"html-tag">&lt;td <span =
+class=3D"html-attribute-name">style</span>=3D"<span class=3D"html-attribute=
+-value">text-align: center</span>"&gt;</span>800-15,000<span class=3D"html-=
+tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"540=
+"></td><td class=3D"line-content">      <span class=3D"html-tag">&lt;td <sp=
+an class=3D"html-attribute-name">style</span>=3D"<span class=3D"html-attrib=
+ute-value">text-align: center</span>"&gt;</span>Bulk<span class=3D"html-tag=
+">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"541"><=
+/td><td class=3D"line-content">      <span class=3D"html-tag">&lt;td <span =
+class=3D"html-attribute-name">style</span>=3D"<span class=3D"html-attribute=
+-value">text-align: center</span>"&gt;</span>Droplets<span class=3D"html-ta=
+g">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"542">=
+</td><td class=3D"line-content">      <span class=3D"html-tag">&lt;td <span=
+ class=3D"html-attribute-name">style</span>=3D"<span class=3D"html-attribut=
+e-value">text-align: center</span>"&gt;</span>PCR<span class=3D"html-tag">&=
+lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"543"></td=
+><td class=3D"line-content">      <span class=3D"html-tag">&lt;td <span cla=
+ss=3D"html-attribute-name">style</span>=3D"<span class=3D"html-attribute-va=
+lue">text-align: center</span>"&gt;</span>PCR barcodes<span class=3D"html-t=
+ag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"544"=
+></td><td class=3D"line-content">      <span class=3D"html-tag">&lt;td <spa=
+n class=3D"html-attribute-name">style</span>=3D"<span class=3D"html-attribu=
+te-value">text-align: center</span>"&gt;</span>10,000<span class=3D"html-ta=
+g">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"545">=
+</td><td class=3D"line-content">    <span class=3D"html-tag">&lt;/tr&gt;</s=
+pan></td></tr><tr><td class=3D"line-number" value=3D"546"></td><td class=3D=
+"line-content">    <span class=3D"html-tag">&lt;tr&gt;</span></td></tr><tr>=
+<td class=3D"line-number" value=3D"547"></td><td class=3D"line-content">   =
+   <span class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">styl=
+e</span>=3D"<span class=3D"html-attribute-value">text-align: center</span>"=
+&gt;</span>Bio-Rad dscATAC-seq<span class=3D"html-tag">&lt;/td&gt;</span></=
+td></tr><tr><td class=3D"line-number" value=3D"548"></td><td class=3D"line-=
+content">      <span class=3D"html-tag">&lt;td <span class=3D"html-attribut=
+e-name">style</span>=3D"<span class=3D"html-attribute-value">text-align: ce=
+nter</span>"&gt;</span>Nextera<span class=3D"html-tag">&lt;/td&gt;</span></=
+td></tr><tr><td class=3D"line-number" value=3D"549"></td><td class=3D"line-=
+content">      <span class=3D"html-tag">&lt;td <span class=3D"html-attribut=
+e-name">style</span>=3D"<span class=3D"html-attribute-value">text-align: ce=
+nter</span>"&gt;</span>60,000+<span class=3D"html-tag">&lt;/td&gt;</span></=
+td></tr><tr><td class=3D"line-number" value=3D"550"></td><td class=3D"line-=
+content">      <span class=3D"html-tag">&lt;td <span class=3D"html-attribut=
+e-name">style</span>=3D"<span class=3D"html-attribute-value">text-align: ce=
+nter</span>"&gt;</span>Bulk<span class=3D"html-tag">&lt;/td&gt;</span></td>=
+</tr><tr><td class=3D"line-number" value=3D"551"></td><td class=3D"line-con=
+tent">      <span class=3D"html-tag">&lt;td <span class=3D"html-attribute-n=
+ame">style</span>=3D"<span class=3D"html-attribute-value">text-align: cente=
+r</span>"&gt;</span>Droplets<span class=3D"html-tag">&lt;/td&gt;</span></td=
+></tr><tr><td class=3D"line-number" value=3D"552"></td><td class=3D"line-co=
+ntent">      <span class=3D"html-tag">&lt;td <span class=3D"html-attribute-=
+name">style</span>=3D"<span class=3D"html-attribute-value">text-align: cent=
+er</span>"&gt;</span>PCR<span class=3D"html-tag">&lt;/td&gt;</span></td></t=
+r><tr><td class=3D"line-number" value=3D"553"></td><td class=3D"line-conten=
+t">      <span class=3D"html-tag">&lt;td <span class=3D"html-attribute-name=
+">style</span>=3D"<span class=3D"html-attribute-value">text-align: center</=
+span>"&gt;</span>PCR barcodes<span class=3D"html-tag">&lt;/td&gt;</span></t=
+d></tr><tr><td class=3D"line-number" value=3D"554"></td><td class=3D"line-c=
+ontent">      <span class=3D"html-tag">&lt;td <span class=3D"html-attribute=
+-name">style</span>=3D"<span class=3D"html-attribute-value">text-align: cen=
+ter</span>"&gt;</span>10,000<span class=3D"html-tag">&lt;/td&gt;</span></td=
+></tr><tr><td class=3D"line-number" value=3D"555"></td><td class=3D"line-co=
+ntent">    <span class=3D"html-tag">&lt;/tr&gt;</span></td></tr><tr><td cla=
+ss=3D"line-number" value=3D"556"></td><td class=3D"line-content">    <span =
+class=3D"html-tag">&lt;tr&gt;</span></td></tr><tr><td class=3D"line-number"=
+ value=3D"557"></td><td class=3D"line-content">      <span class=3D"html-ta=
+g">&lt;td <span class=3D"html-attribute-name">style</span>=3D"<span class=
+=3D"html-attribute-value">text-align: center</span>"&gt;</span>Bio-Rad dsci=
+ATAC-seq<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"558"></td><td class=3D"line-content">      <span =
+class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">style</span>=
+=3D"<span class=3D"html-attribute-value">text-align: center</span>"&gt;</sp=
+an>Custom-made<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td =
+class=3D"line-number" value=3D"559"></td><td class=3D"line-content">      <=
+span class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">style</s=
+pan>=3D"<span class=3D"html-attribute-value">text-align: center</span>"&gt;=
+</span>600,000+<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td=
+ class=3D"line-number" value=3D"560"></td><td class=3D"line-content">      =
+<span class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">style</=
+span>=3D"<span class=3D"html-attribute-value">text-align: center</span>"&gt=
+;</span>Bulk<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td cl=
+ass=3D"line-number" value=3D"561"></td><td class=3D"line-content">      <sp=
+an class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">style</spa=
+n>=3D"<span class=3D"html-attribute-value">text-align: center</span>"&gt;</=
+span>Droplets<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td c=
+lass=3D"line-number" value=3D"562"></td><td class=3D"line-content">      <s=
+pan class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">style</sp=
+an>=3D"<span class=3D"html-attribute-value">text-align: center</span>"&gt;<=
+/span>PCR<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"563"></td><td class=3D"line-content">      <span =
+class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">style</span>=
+=3D"<span class=3D"html-attribute-value">text-align: center</span>"&gt;</sp=
+an>Tn5 + PCR barcodes<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><=
+tr><td class=3D"line-number" value=3D"564"></td><td class=3D"line-content">=
+      <span class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">s=
+tyle</span>=3D"<span class=3D"html-attribute-value">text-align: center</spa=
+n>"&gt;</span>100,000<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><=
+tr><td class=3D"line-number" value=3D"565"></td><td class=3D"line-content">=
+    <span class=3D"html-tag">&lt;/tr&gt;</span></td></tr><tr><td class=3D"l=
+ine-number" value=3D"566"></td><td class=3D"line-content">  <span class=3D"=
+html-tag">&lt;/tbody&gt;</span></td></tr><tr><td class=3D"line-number" valu=
+e=3D"567"></td><td class=3D"line-content"><span class=3D"html-tag">&lt;/tab=
+le&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"568"></td><td=
+ class=3D"line-content"><br></td></tr><tr><td class=3D"line-number" value=
+=3D"569"></td><td class=3D"line-content"><span class=3D"html-tag">&lt;h2 <s=
+pan class=3D"html-attribute-name">id</span>=3D"<span class=3D"html-attribut=
+e-value">motivation</span>"&gt;</span>Motivation<span class=3D"html-tag">&l=
+t;/h2&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"570"></td>=
+<td class=3D"line-content"><br></td></tr><tr><td class=3D"line-number" valu=
+e=3D"571"></td><td class=3D"line-content"><span class=3D"html-tag">&lt;p&gt=
+;</span>I was a little bit bombarded with all the single cell methods and g=
+ot completely lost. To help myself understand all of them and future troubl=
+eshooting, I start to perform an on-paper library preparation whenever I se=
+e a new single cell method.<span class=3D"html-tag">&lt;/p&gt;</span></td><=
+/tr><tr><td class=3D"line-number" value=3D"572"></td><td class=3D"line-cont=
+ent"><br></td></tr><tr><td class=3D"line-number" value=3D"573"></td><td cla=
+ss=3D"line-content"><span class=3D"html-tag">&lt;h2 <span class=3D"html-att=
+ribute-name">id</span>=3D"<span class=3D"html-attribute-value">why-bother</=
+span>"&gt;</span>Why bother?<span class=3D"html-tag">&lt;/h2&gt;</span></td=
+></tr><tr><td class=3D"line-number" value=3D"574"></td><td class=3D"line-co=
+ntent"><br></td></tr><tr><td class=3D"line-number" value=3D"575"></td><td c=
+lass=3D"line-content"><span class=3D"html-tag">&lt;p&gt;</span>Here I borro=
+w from Feyman:<span class=3D"html-tag">&lt;/p&gt;</span></td></tr><tr><td c=
+lass=3D"line-number" value=3D"576"></td><td class=3D"line-content"><br></td=
+></tr><tr><td class=3D"line-number" value=3D"577"></td><td class=3D"line-co=
+ntent"><span class=3D"html-tag">&lt;p&gt;</span><span class=3D"html-tag">&l=
+t;strong&gt;</span>What I cannot create, I do not understand.<span class=3D=
+"html-tag">&lt;/strong&gt;</span><span class=3D"html-tag">&lt;/p&gt;</span>=
+</td></tr><tr><td class=3D"line-number" value=3D"578"></td><td class=3D"lin=
+e-content"><br></td></tr><tr><td class=3D"line-number" value=3D"579"></td><=
+td class=3D"line-content"><span class=3D"html-tag">&lt;hr /&gt;</span></td>=
+</tr><tr><td class=3D"line-number" value=3D"580"></td><td class=3D"line-con=
+tent"><br></td></tr><tr><td class=3D"line-number" value=3D"581"></td><td cl=
+ass=3D"line-content"><span class=3D"html-tag">&lt;p&gt;</span><span class=
+=3D"html-tag">&lt;img <span class=3D"html-attribute-name">src</span>=3D"<a =
+class=3D"html-attribute-value html-resource-link" target=3D"_blank" href=3D=
+"https://teichlab.github.io/scg_lib_structs/data/feyman.jpeg" rel=3D"norefe=
+rrer noopener">/scg_lib_structs/data/feyman.jpeg</a>" <span class=3D"html-a=
+ttribute-name">alt</span>=3D"" /&gt;</span><span class=3D"html-tag">&lt;/p&=
+gt;</span></td></tr><tr><td class=3D"line-number" value=3D"582"></td><td cl=
+ass=3D"line-content"><br></td></tr><tr><td class=3D"line-number" value=3D"5=
+83"></td><td class=3D"line-content"><span class=3D"html-tag">&lt;h2 <span c=
+lass=3D"html-attribute-name">id</span>=3D"<span class=3D"html-attribute-val=
+ue">feedback</span>"&gt;</span>Feedback<span class=3D"html-tag">&lt;/h2&gt;=
+</span></td></tr><tr><td class=3D"line-number" value=3D"584"></td><td class=
+=3D"line-content"><br></td></tr><tr><td class=3D"line-number" value=3D"585"=
+></td><td class=3D"line-content"><span class=3D"html-tag">&lt;p&gt;</span>I=
+ would be very happy if you go through them and let me know what you think.=
+ If you spot some errors/mistakes, or I=E2=80=99ve missed some key methods.=
+ Feel free to raise an issue in the <span class=3D"html-tag">&lt;a <span cl=
+ass=3D"html-attribute-name">href</span>=3D"<a class=3D"html-attribute-value=
+ html-external-link" target=3D"_blank" href=3D"https://github.com/Teichlab/=
+scg_lib_structs/issues" rel=3D"noreferrer noopener">https://github.com/Teic=
+hlab/scg_lib_structs/issues</a>"&gt;</span>GitHub repository<span class=3D"=
+html-tag">&lt;/a&gt;</span>, or contact me directly:<span class=3D"html-tag=
+">&lt;/p&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"586"></=
+td><td class=3D"line-content"><br></td></tr><tr><td class=3D"line-number" v=
+alue=3D"587"></td><td class=3D"line-content"><span class=3D"html-tag">&lt;p=
+&gt;</span>Xi Chen<span class=3D"html-tag">&lt;br /&gt;</span></td></tr><tr=
+><td class=3D"line-number" value=3D"588"></td><td class=3D"line-content">ch=
+enx9@sustech.edu.cn<span class=3D"html-tag">&lt;/p&gt;</span></td></tr><tr>=
+<td class=3D"line-number" value=3D"589"></td><td class=3D"line-content"><br=
+></td></tr><tr><td class=3D"line-number" value=3D"590"></td><td class=3D"li=
+ne-content"><br></td></tr><tr><td class=3D"line-number" value=3D"591"></td>=
+<td class=3D"line-content">      </td></tr><tr><td class=3D"line-number" va=
+lue=3D"592"></td><td class=3D"line-content">    <span class=3D"html-tag">&l=
+t;/div&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"593"></td=
+><td class=3D"line-content">    <span class=3D"html-tag">&lt;script <span c=
+lass=3D"html-attribute-name">src</span>=3D"<a class=3D"html-attribute-value=
+ html-resource-link" target=3D"_blank" href=3D"https://cdnjs.cloudflare.com=
+/ajax/libs/anchor-js/4.1.0/anchor.min.js" rel=3D"noreferrer noopener">https=
+://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js</a>" <span =
+class=3D"html-attribute-name">integrity</span>=3D"<span class=3D"html-attri=
+bute-value">sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=3D</span>" <=
+span class=3D"html-attribute-name">crossorigin</span>=3D"<span class=3D"htm=
+l-attribute-value">anonymous</span>"&gt;</span><span class=3D"html-tag">&lt=
+;/script&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"594"></=
+td><td class=3D"line-content">    <span class=3D"html-tag">&lt;script&gt;</=
+span>anchors.add();<span class=3D"html-tag">&lt;/script&gt;</span></td></tr=
+><tr><td class=3D"line-number" value=3D"595"></td><td class=3D"line-content=
+">  <span class=3D"html-tag">&lt;/body&gt;</span></td></tr><tr><td class=3D=
+"line-number" value=3D"596"></td><td class=3D"line-content"><span class=3D"=
+html-tag">&lt;/html&gt;</span></td></tr><tr><td class=3D"line-number" value=
+=3D"597"></td><td class=3D"line-content"><span class=3D"html-end-of-file"><=
+/span></td></tr></tbody></table></body></html>
+------MultipartBoundary--bNu1n0NiayZuhKAZ6e9p9bHg8CnvbUeU1b4EhM0d8L------

@@ -36,7 +36,7 @@ a {
 	主要结构样式
 */
 body {
-	background-color: #003134;
+	background-color: #FFF;
 }
 
 .content {
@@ -56,7 +56,7 @@ body {
 	overflow: hidden;
 	padding: 50px 20px 0;
 	margin-left: 240px;
-	background-color: #FFF;
+	background-color: #EEE;
 	min-height: 534px;
 }
 /*********************/
