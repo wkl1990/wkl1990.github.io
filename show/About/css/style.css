@@ -58,21 +58,22 @@ p {
 }
 /* **********头部样式********** */
 .header {
-	background-color: #522A5C;
+	background-color: #9fc5e8;
 	color:#FFF;
 	height:32px;
 	padding-top:48px;
 	position: relative;
 }
 .header h1 {
-	font-weight: normal;
+	font-weight: bold;
 	font-size:20px; 
 }
 .header li {
 	float: left;
-	font-family: "宋体";
+	font-family: "Times New Roman";
 	font-size: 14px;
 	margin-left:32px;
+	margin-top:10px;
 }
 /* 对github小图标设置绝对定位，使其在屏幕缩放时距离屏幕边界的距离都为10px */
 .header img {
@@ -83,19 +84,20 @@ p {
 
 /* **********底部模块********** */
 .footer {
-	background-color: #000;
+	background-color: #9fc5e8;
 	color: #FFF;
 }
 .classes {
 	display: block;
-	width:216px;
+	width:766px;
 	margin:0 auto;
+	margin-right: 10px;
 	padding:12px 0; 
 }
 .classes li {
 	float: left;
-	width:24px;
-	margin-right: 30px;
+	width: 64px;
+	margin-right: 50px;
 	font-size: 12px; 
 }
 .line { 
@@ -106,17 +108,17 @@ p {
 }
 .menu li {
 	display: block;
-	float: left;
+	float: right;
 	font-size: 12px; 
-	width: 320px;
+	width: 250px;
 }
 .menu li .notlast {
-	margin-right: 20px;
+	margin-right: 10px;
 	margin: 0 auto; 
 }
 .menu li dl dt {
 	display: block;
-	margin-bottom: 18px;
+	margin-bottom: 12px;
 }
 .menu li dl dd {
 	display: block;
@@ -126,13 +128,14 @@ p {
 	text-decoration: underline;
 }
 .footer p {
-	font-size: 12px;
+	font-size: 1px;
 	text-align: center;
+	margin-top: 10px;
 }
 .footer img {
 	display: block;
 	margin: 0 auto; 
-	margin-top: 20px;
+	margin-top: 5px;
 }
 
 /* ********************************************index.html css style********************************************** */
@@ -151,7 +154,7 @@ p {
 	margin-left:110px; 
 	width:360px;	
 	background-color: #FFF; 
-	color:#FFF;
+	color:#000000;
 	padding:10px 10px 30px;
 
 	/* 在不同浏览器下渐变的兼容性实现，但不知道为什么IE下还是有问题，尚未解决*/
@@ -174,7 +177,7 @@ p {
 .container h3 {
 	font-weight: normal;
 	font-size: 14px;
-	text-align: right;
+	text-align: left;
 	margin-bottom: 12px;
 }
 .container p {
