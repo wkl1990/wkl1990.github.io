@@ -15,7 +15,7 @@ ul {
 	list-style:none;
 }
 a { 
-	text-decoration:none; color:#FFF;
+	text-decoration:none; color:#000000;
 }
 /* 对所有的段落设置2个字的缩进 */
 p {
@@ -765,9 +765,11 @@ ul.pattern li a {
 	top: 1050px;
 }
 .resume #second {
-	top: 1420px;
+	top: 1200px;
 }
-
+.resume #third {
+	top: 1450px;
+}
 /* 左右两侧内容，也是绝对定位 */
 .left-div, .right-div {
 	margin-top: 100px;
@@ -843,5 +845,8 @@ ul.pattern li a {
 	top: 20px;
 }
 .right-div div.internship div.second {
-	top: 390px;
+	top: 175px;
+}
+.right-div div.internship div.third {
+	top: 420px;
 }
