@@ -4,13 +4,13 @@ body {
 h2 { 
 	text-align: center;
 }
-.container{ 
+.container0{ 
 	width:1060px; 
 	height: 250px; 
 	margin: 60px auto; 
 	position: relative;
 }
-img0 { 
+img { 
 	padding:10px 10px 15px; 
 	background: #fff;
 	border:1px solid #DDD; 
@@ -22,7 +22,7 @@ img0 {
 	transition:1s;
 
 }
-img0:hover {
+img:hover {
 	-webkit-transform:rotate(0deg)  scale(1.2);
 	-moz-transform:rotate(0deg)  scale(1.2);
 	text-transform: rotate(0deg)  scale(1.2);
