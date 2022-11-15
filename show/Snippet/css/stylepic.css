@@ -1,7 +1,7 @@
 body { 
 	background-color: #FFF;
 }
-h1 { 
+main h1 { 
 	text-align: center;
 }
 .container{ 
@@ -10,7 +10,7 @@ h1 {
 	margin: 60px auto; 
 	position: relative;
 }
-img { 
+main img { 
 	padding:5px 5px 8px; 
 	background: #fff;
 	border:1px solid #DDD; 
@@ -26,7 +26,7 @@ img {
 
 
 }
-img:hover {
+main img:hover {
 	-webkit-transform:rotate(0deg)  scale(2);
 	-moz-transform:rotate(0deg)  scale(2);
 	text-transform: rotate(0deg)  scale(2);
