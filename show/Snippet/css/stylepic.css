@@ -32,61 +32,61 @@ body {
 	z-index: 99;
 }
 
-#main .container1 img .pic1 {	
+#main .container1 .pic1 {	
 	top:50px; left:30px;
 	-webkit-transform:rotate(20deg);
 	-moz-transform:rotate(20deg);
 	transform: rotate(20deg);
 }
-#main .container1 img .pic2 {	
+#main .container1 .pic2 {	
 	top:30px; left:130px;
 	-webkit-transform:rotate(-15deg);
 	-moz-transform:rotate(-15deg);
 	transform: rotate(-15deg);
 }
-#main .container1 img .pic3 {	
+#main .container1 .pic3 {	
 	top:60px; left:320px;
 	-webkit-transform:rotate(25deg);
 	-moz-transform:rotate(25deg);
 	transform: rotate(25deg);
 }
-#main .container1 img .pic4 {	
+#main .container1 .pic4 {	
 	top:20px; right:250px;
 	-webkit-transform:rotate(10deg);
 	-moz-transform:rotate(10deg);
 	transform: rotate(10deg);
 }
-#main .container1 img .pic5 {	
+#main .container1 .pic5 {	
 	top:50px; right:30px;
 	-webkit-transform:rotate(-15deg);
 	-moz-transform:rotate(-15deg);
 	transform: rotate(-15deg);
 }
-#main .container1 img .pic6 {	
+#main .container1 .pic6 {	
 	bottom:30px; left:70px;
 	-webkit-transform:rotate(-20deg);
 	-moz-transform:rotate(-20deg);
 	transform: rotate(-20deg);
 }
-#main .container1 img .pic7 {	
+#main .container1 .pic7 {	
 	bottom:10px; left:280px;
 	-webkit-transform:rotate(30deg);
 	-moz-transform:rotate(30deg);
 	transform: rotate(30deg);
 }
-#main .container1 img .pic8 {	
+#main .container1 .pic8 {	
 	bottom:50px; left:450px;
 	-webkit-transform:rotate(20deg);
 	-moz-transform:rotate(20deg);
 	transform: rotate(20deg);
 }
-#main .container1 img .pic9 {	
+#main .container1 .pic9 {	
 	bottom:10px; right:150px;
 	-webkit-transform:rotate(-15deg);
 	-moz-transform:rotate(-15deg);
 	transform: rotate(-15deg);
 }
-#main .container1 img .pic10 {	
+#main .container1 .pic10 {	
 	bottom:-20px; right:-10px;
 	-webkit-transform:rotate(20deg);
 	-moz-transform:rotate(20deg);
