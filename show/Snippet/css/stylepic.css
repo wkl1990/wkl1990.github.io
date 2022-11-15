@@ -4,13 +4,13 @@ body {
 #main h1 { 
 	text-align: center;
 }
-#main .container{ 
+#main .container1{ 
 	width:1060px; 
 	height: 450px; 
 	margin: 60px auto; 
 	position: relative;
 }
-#main img { 
+#main .container1 img { 
 	padding:5px 5px 8px; 
 	background: #fff;
 	border:1px solid #DDD; 
@@ -24,7 +24,7 @@ body {
 	width: 215px;
     height: 165px;
 }
-#main img:hover {
+#main .container1 img:hover {
 	-webkit-transform:rotate(0deg)  scale(2);
 	-moz-transform:rotate(0deg)  scale(2);
 	text-transform: rotate(0deg)  scale(2);
@@ -32,61 +32,61 @@ body {
 	z-index: 99;
 }
 
-#main img .pic1 {	
+#main .container1 img .pic1 {	
 	top:50px; left:30px;
 	-webkit-transform:rotate(20deg);
 	-moz-transform:rotate(20deg);
 	transform: rotate(20deg);
 }
-#main img .pic2 {	
+#main .container1 img .pic2 {	
 	top:30px; left:130px;
 	-webkit-transform:rotate(-15deg);
 	-moz-transform:rotate(-15deg);
 	transform: rotate(-15deg);
 }
-#main img .pic3 {	
+#main .container1 img .pic3 {	
 	top:60px; left:320px;
 	-webkit-transform:rotate(25deg);
 	-moz-transform:rotate(25deg);
 	transform: rotate(25deg);
 }
-#main img .pic4 {	
+#main .container1 img .pic4 {	
 	top:20px; right:250px;
 	-webkit-transform:rotate(10deg);
 	-moz-transform:rotate(10deg);
 	transform: rotate(10deg);
 }
-#main img .pic5 {	
+#main .container1 img .pic5 {	
 	top:50px; right:30px;
 	-webkit-transform:rotate(-15deg);
 	-moz-transform:rotate(-15deg);
 	transform: rotate(-15deg);
 }
-#main img .pic6 {	
+#main .container1 img .pic6 {	
 	bottom:30px; left:70px;
 	-webkit-transform:rotate(-20deg);
 	-moz-transform:rotate(-20deg);
 	transform: rotate(-20deg);
 }
-#main img .pic7 {	
+#main .container1 img .pic7 {	
 	bottom:10px; left:280px;
 	-webkit-transform:rotate(30deg);
 	-moz-transform:rotate(30deg);
 	transform: rotate(30deg);
 }
-#main img .pic8 {	
+#main .container1 img .pic8 {	
 	bottom:50px; left:450px;
 	-webkit-transform:rotate(20deg);
 	-moz-transform:rotate(20deg);
 	transform: rotate(20deg);
 }
-#main img .pic9 {	
+#main .container1 img .pic9 {	
 	bottom:10px; right:150px;
 	-webkit-transform:rotate(-15deg);
 	-moz-transform:rotate(-15deg);
 	transform: rotate(-15deg);
 }
-#main img .pic10 {	
+#main .container1 img .pic10 {	
 	bottom:-20px; right:-10px;
 	-webkit-transform:rotate(20deg);
 	-moz-transform:rotate(20deg);
