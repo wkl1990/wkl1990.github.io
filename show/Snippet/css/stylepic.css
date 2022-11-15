@@ -1,17 +1,17 @@
 body { 
 	background-color: #FFF;
 }
-h2 { 
+h1 { 
 	text-align: center;
 }
 .container{ 
 	width:1060px; 
-	height: 250px; 
+	height: 450px; 
 	margin: 60px auto; 
 	position: relative;
 }
 img { 
-	padding:10px 10px 15px; 
+	padding:5px 5px 8px; 
 	background: #fff;
 	border:1px solid #DDD; 
 	position: absolute; 
@@ -21,11 +21,15 @@ img {
 	-moz-transition:1s;
 	transition:1s;
 
+	width: 215px;
+    height: 165px;
+
+
 }
 img:hover {
-	-webkit-transform:rotate(0deg)  scale(1.2);
-	-moz-transform:rotate(0deg)  scale(1.2);
-	text-transform: rotate(0deg)  scale(1.2);
+	-webkit-transform:rotate(0deg)  scale(2);
+	-moz-transform:rotate(0deg)  scale(2);
+	text-transform: rotate(0deg)  scale(2);
 	box-shadow: 0 0 10px #ccc;
 	z-index: 99;
 }
