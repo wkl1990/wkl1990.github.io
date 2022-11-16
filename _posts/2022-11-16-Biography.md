@@ -1,8 +1,7 @@
 ---
 layout: post
-title: [Biography]({ site.baseurl }}/show/Biography/biography.html)
+title: Biography
 tag: CV
 ---
 
-
-[Biography]({ site.baseurl }}/show/Biography/biography.html)
+[Biographical site](show/Biography/biography.html)
