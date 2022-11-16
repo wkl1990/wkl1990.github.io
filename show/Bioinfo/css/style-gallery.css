@@ -569,7 +569,7 @@ ul.pattern li a {
 	box-shadow: 3px;
 }
 #waterfall .pic-container {
-	padding: 10px 10px 10px 10px;
+	padding: 10px 10px 10px 50px;
 	position:relative;
 	color:#FFF;
 }

@@ -142,7 +142,7 @@
 	box-shadow: 3px;
 }
 #waterfall .pic-container {
-	padding: 10px 10px 10px 100px;
+	padding: 10px 10px 10px 50px;
 	position:relative;
 	color:#FFF;
 }
@@ -210,7 +210,7 @@
 
 /* *************************************************about.html css style********************************************** */
 .content-div {
-	padding-top: 20px;
+	padding-top: 2px;
 	background-color: #EEE;
 	/* 自适应高度 */
 	height: 100%;
