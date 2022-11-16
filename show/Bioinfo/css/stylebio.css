@@ -23,7 +23,7 @@
 }
 
 /* 清浮动 */
-.clearfix:after { 
+#main .clearfix:after { 
 	content:""; 
 	display:block; 
 	clear:both;
@@ -32,7 +32,7 @@
 	height:0;
 }
 /*兼容IE6、IE7，触发ie的hasLayout属性，实现清除浮动*/
-.clearfix { 
+#main .clearfix { 
 	zoom:1;
 }
 .fl { 
@@ -50,7 +50,7 @@
 /* ********************************************common css style（header&footer）********************************************** */
 /* 内容自适应屏幕宽度 */
 .content {
-	  width: 100%;  
+	  width: 90%;  
 }
 /* 主内容的宽度固定为980px，左右居中 */
 .model {
