@@ -10,7 +10,7 @@ permalink: /about/
 
 ### More Information  
 
- For more info. see my [CV](https://wkl1990.github.io/CV/) or [biographical site](show/Biography/index.html). 
+ For more info. see my [CV](https://wkl1990.github.io/CV/) or [biographical site](show/Biography/biography.html). 
 
 ### Contact me  
 
