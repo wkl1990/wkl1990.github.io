@@ -4,4 +4,4 @@ title: Biography
 tag: CV
 ---
 
-[Biographical site](show/Biography/biography.html)
+[Biographical site]({{ site.baseurl }}/show/Biography/biography.html)
