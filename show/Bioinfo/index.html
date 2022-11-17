@@ -59,6 +59,9 @@ title: Bioinformatics
 						</div>
 					</div>
 					
+				<span id="dots"></span>
+					<!-- 瀑布流图片more -->
+				<span id="hidden">
 					<div class="pic-box">
 						<a href="#" target="_blank"><img src="img/MP.cover.png" alt="MP" title="Spatial"/></a>
 						<div class="pic-container W">
@@ -67,13 +70,30 @@ title: Bioinformatics
 							<p>Spatial genomics seq</p>		
 						</div>
 					</div>
-					
-					<!-- 瀑布流图片more -->
+				</span>
 				</div>
 
 				<div class="more">
-					<a href="#"><strong>⬇</strong> More</a>
+					<a onclick="myFunction()" id="myBtn"><strong>⬇</strong> More</a>
 				</div>
+
+				<script>
+				function myFunction() {
+				  var dots = document.getElementById("dots");
+				  var moreText = document.getElementById("hidden");
+				  var btnText = document.getElementById("myBtn");
+
+				  if (dots.style.display === "none") {
+				    dots.style.display = "inline";
+				    btnText.innerHTML = "⬇ More"; 
+				    moreText.style.display = "none";
+				  } else {
+				    dots.style.display = "none";
+				    btnText.innerHTML = "⬆ Less"; 
+				    moreText.style.display = "inline";
+				  }
+				}
+				</script>
 
 			</div>
 
