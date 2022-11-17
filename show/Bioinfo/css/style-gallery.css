@@ -582,16 +582,16 @@ ul.pattern li a {
 	width:160px;
 }
 /* 不同的类别的内容显示背景不同 */
-#waterfall .D {
+#waterfall .J {
 	background-color: #522A5C;	
 }
-#waterfall .M {
+#waterfall .U {
 	background-color: #5900b2;	
 }
-#waterfall .W {
+#waterfall .A {
 	background-color: #d9a300;	
 }
-#waterfall .S {
+#waterfall .F {
 	background-color: #8c2300;	
 }
 
