@@ -11,13 +11,25 @@ title: Bioinformatics
 		<div class="model">
 			<div id="Tab-menu" class="clearfix">
 				<ul>
-					<li class="active" id="ALL"><a href="#">ALL</a></li>
-					<li class="notfirst" id="JavaScript"><a href="#">GWAS</a></li>
-					<li class="notfirst" id="UI"><a href="#">SC</a></li>
-					<li class="notfirst" id="Framework"><a href="#">QTL</a></li>
-					<li class="notfirst" id="Application"><a href="#">Others</a></li>
+					<li class="btn active" id="ALL"><a href="#">ALL</a></li>
+					<li class="btn" id="JavaScript"><a href="#">GWAS</a></li>
+					<li class="btn" id="UI"><a href="#">SC</a></li>
+					<li class="btn" id="Framework"><a href="#">QTL</a></li>
+					<li class="btn" id="Application"><a href="#">Others</a></li>
 				</ul>	
 			</div>
+			<script>
+			// Add active class to the current button (highlight it)
+			var header = document.getElementById("Tab-menu");
+			var btns = header.getElementsByClassName("btn");
+			for (var i = 0; i < btns.length; i++) {
+			  btns[i].addEventListener("click", function() {
+			  var current = document.getElementsByClassName("active");
+			  current[0].className = current[0].className.replace(" active", "");
+			  this.className += " active";
+			  });
+			}
+			</script>
 			<!-- left main -->
 			<div class="main-div fl">
 				<div class="clearfix" id="waterfall">
@@ -104,12 +116,30 @@ title: Bioinformatics
 					<a href="#">go</a>
 					<!--  <span id="search-btn"><a href="#">go</a><span> -->
 				</div>
+				<div id="class-part">
 				<ul class="pattern">
-					<li><a href="#">Data</a></li>
-					<li class="active"><a href="#">Method</a></li>
-					<li><a href="#">Statistics</a></li>
-					<li><a href="#">Wet</a></li>	
-				</ul>				
+					<li class="btn"><a href="#">Data</a></li>
+					<li class="btn"><a href="#">Method</a></li>
+					<li class="btn"><a href="#">Statistics</a></li>
+					<li class="btn"><a href="#">Wet</a></li>	
+				</ul>	
+					
+				</div>
+				<script>
+				// Add active class to the current button (highlight it)
+				var header = document.getElementById("class-part");
+				var btns = header.getElementsByClassName("btn");
+				for (var i = 0; i < btns.length; i++) {
+				  btns[i].addEventListener("click", function() {
+				  var current = document.getElementsByClassName("active");
+				  if (current.length > 0) { 
+				    current[0].className = current[0].className.replace(" active", "");
+				  }
+				  this.className += " active";
+				  });
+				}
+				</script>
+
 			</div>
 		</div>
 	</div>
