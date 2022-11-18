@@ -88,28 +88,28 @@
 #Tab-menu #ALL.active {
 	border-top-color:#522A5C;
 }
-#Tab-menu #JavaScript {
+#Tab-menu #GWAS {
 	border-top-color:#dfc6e6;
 }
-#Tab-menu #JavaScript.active {
+#Tab-menu #GWAS.active {
 	border-top-color:#522a5c;
 }
-#Tab-menu #UI {
+#Tab-menu #SC {
 	border-top-color:#d2a6ff;
 }
-#Tab-menu #UI.active {
+#Tab-menu #SC.active {
 	border-top-color:#5900b2;
 }
-#Tab-menu #Framework {
+#Tab-menu #QTL {
 	border-top-color:#ffa98c;
 }
-#Tab-menu #Framework.active {
+#Tab-menu #QTL.active {
 	border-top-color:#8c2300;
 }
-#Tab-menu #Application {
+#Tab-menu #SG {
 	border-top-color:#ffe188;
 }
-#Tab-menu #Application.active {
+#Tab-menu #SG.active {
 	border-top-color:#d9a300;
 }
 
@@ -181,7 +181,7 @@
 	font-weight: normal;
 }
 
-.pic-container h3 {
+.content-div .model .clearfix .main-div .clearfix .pic-box .pic-container h3 {
 	font-size: 16px;
 	font-weight: normal;
 	color: #FFF;
@@ -254,6 +254,7 @@
 	height: 38px;
 	line-height: 38px;
 	margin:0;
+    background: #2196F3;
 }
 
 /* **********分类********** */

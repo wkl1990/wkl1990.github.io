@@ -12,67 +12,17 @@ title: Bioinformatics
 			<div id="Tab-menu" class="clearfix">
 				<ul>
 					<li class="btn active" id="ALL"><a href="#">ALL</a></li>
-					<li class="btn" id="JavaScript"><a href="#">GWAS</a></li>
-					<li class="btn" id="UI"><a href="#">SC</a></li>
-					<li class="btn" id="Framework"><a href="#">QTL</a></li>
-					<li class="btn" id="Application"><a href="#">Others</a></li>
+					<li class="btn" id="GWAS"><a href="#">GWAS</a></li>
+					<li class="btn" id="SC"><a href="#">SC</a></li>
+					<li class="btn" id="QTL"><a href="#">QTL</a></li>
+					<li class="btn" id="SG"><a href="#">SG</a></li> 
 				</ul>	
 			</div>
-			<script>
-			// Add active class to the current button (highlight it)
-			var header = document.getElementById("Tab-menu");
-			var btns = header.getElementsByClassName("btn");
-			for (var i = 0; i < btns.length; i++) {
-			  btns[i].addEventListener("click", function() {
-			  var current = document.getElementsByClassName("active");
-			  current[0].className = current[0].className.replace(" active", "");
-			  this.className += " active";
-			  });
-			}
-			</script>
+			<!-- <script src="js/menu.js"></script> -->
 			<!-- left main -->
 			<div class="main-div fl">
-				<div class="clearfix" id="waterfall">
-					<div class="pic-box">
-						<a href="#" target="_blank"><img src="img/epi.cover1.jpeg" alt="epigenetics" title="GWAS" /></a>
-						<div class="pic-container D">
-							<span>D</span>
-							<h3>GWAS</h3>
-							<p>GWAS</p>
-							<!-- <p>js实现：</p>
-							<p>
-								需要一步一步的计算，列数=浏览器窗口宽度/图片宽度
-								图片定位是根据每一列数据库的高度计算接下来图片的位置；
-								图片排序是按照图片计算的位置横向排列，位置是计算出来的，比较规范。
-							</p>
-							<p>CSS3实现：</p>
-							<p>
-								不需要计算，浏览器自动计算，只需要设置列宽，CSS3性能高很多，因为浏览器可以直接解析，不需要js代码去计算；
-								缺点：列宽随着浏览器窗口大小进行改变，用户体验不好
-									 						图片排序按照垂直顺序排列，打乱图片显示顺序
-									 					</p>	 -->
-						</div>
-					</div>
-					<div class="pic-box" >
-						<a href="#" target="_blank"><img src="img/epi.cover2.jpeg" alt="epigenetics"  title="SCA" /></a>
-						<div class="pic-container M">
-							<span>M</span>
-							<h3>SingleCellAnalysis</h3>
-							<p>Single cell</p>		
-						</div>
-					</div>
-					
-					<div class="pic-box">
-						<a href="#" target="_blank"><img src="img/stm.cover.jpg" alt="STM" title="Spatial"/></a>
-						<div class="pic-container M">
-							<span>M</span>
-							<h3>Spatial</h3>
-							<p>Spatial analysis</p>		
-						</div>
-					</div>
-					
-				<span id="dots"></span>
-					<!-- 瀑布流图片more -->
+				<div class="clearfix" id="waterfall">					
+				<!-- <span id="dots"></span>
 				<span id="hidden">
 					<div class="pic-box">
 						<a href="#" target="_blank"><img src="img/MP.cover.png" alt="MP" title="Spatial"/></a>
@@ -82,65 +32,41 @@ title: Bioinformatics
 							<p>Spatial genomics seq</p>		
 						</div>
 					</div>
-				</span>
+				</span> -->
 				</div>
-
 				<div class="more">
-					<a onclick="myFunction()" id="myBtn"><strong>⬇</strong> More</a>
-				</div>
+					<!-- <a onclick="myFunction()" id="myBtn"><strong>⬇</strong> More</a> -->
+				</div> 
 
-				<script>
-				function myFunction() {
-				  var dots = document.getElementById("dots");
-				  var moreText = document.getElementById("hidden");
-				  var btnText = document.getElementById("myBtn");
-
-				  if (dots.style.display === "none") {
-				    dots.style.display = "inline";
-				    btnText.innerHTML = "⬇ More"; 
-				    moreText.style.display = "none";
-				  } else {
-				    dots.style.display = "none";
-				    btnText.innerHTML = "⬆ Less"; 
-				    moreText.style.display = "inline";
-				  }
-				}
-				</script>
+				<script src="js/myFunc.js"></script>
 
 			</div>
 
 			<!-- right side -->
 			<div class="side-div fr">
 				<div class="pattern search clearfix">
-					<input type="text" placeholder="keywords"/>
-					<a href="#">go</a>
+					<input type="text" placeholder="two-letters"/>
+					<a href="#">Go</a>
 					<!--  <span id="search-btn"><a href="#">go</a><span> -->
 				</div>
 				<div id="class-part">
 				<ul class="pattern">
-					<li class="btn"><a href="#">Data</a></li>
-					<li class="btn"><a href="#">Method</a></li>
-					<li class="btn"><a href="#">Statistics</a></li>
-					<li class="btn"><a href="#">Wet</a></li>	
-				</ul>	
-					
+					<li class="btn active" id="A"><a href="#">All</a></li>
+					<li class="btn" id="D"><a href="#">Data</a></li>
+					<li class="btn" id="M"><a href="#">Method</a></li>
+					<li class="btn" id="S"><a href="#">Statistics</a></li>
+					<li class="btn" id="W"><a href="#">Wet</a></li>	
+				</ul>						
 				</div>
-				<script>
-				// Add active class to the current button (highlight it)
-				var header = document.getElementById("class-part");
-				var btns = header.getElementsByClassName("btn");
-				for (var i = 0; i < btns.length; i++) {
-				  btns[i].addEventListener("click", function() {
-				  var current = document.getElementsByClassName("active");
-				  if (current.length > 0) { 
-				    current[0].className = current[0].className.replace(" active", "");
-				  }
-				  this.className += " active";
-				  });
-				}
-				</script>
-
+				<!-- <script src="js/part.js"></script> -->
 			</div>
 		</div>
 	</div>
+	<script src="js/all.js"></script>
+
+<!--	<script type="text/javascript" src="js/screenTitle.js"></script>
+	<script type="text/javascript" src="js/screenInput.js"></script>
+	<script type="text/javascript" src="js/screencombinefilter.js"></script>
+	<script type="text/javascript" src="js/store.js"></script>
+	<script type="text/javascript" src="js/screen.js"></script> -->
 <!--</div>-->
