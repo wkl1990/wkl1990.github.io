@@ -14,7 +14,7 @@
 #main ul { 
 	list-style:none;
 }
-#mian a { 
+#main a { 
 	text-decoration:none; color:#000000;
 }
 /* 对所有的段落设置2个字的缩进 */
@@ -181,7 +181,7 @@
 	font-weight: normal;
 }
 
-.content-div .model .clearfix .main-div .clearfix .pic-box .pic-container h3 {
+.pic-container h3 {
 	font-size: 16px;
 	font-weight: normal;
 	color: #FFF;
@@ -247,14 +247,13 @@
 .search a {
 	display: inline;
 	float:left;
-	background-color: #CCC;
+	background-color: #2196F3;
 	padding:0 10px;
 	color:#FFF;
 	font-size: 20px;
 	height: 38px;
 	line-height: 38px;
 	margin:0;
-    background: #2196F3;
 }
 
 /* **********分类********** */
