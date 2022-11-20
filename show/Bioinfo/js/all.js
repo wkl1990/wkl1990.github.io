@@ -1,6 +1,6 @@
 var arr = [ //模拟后台给的数据
-    { name: "GWAS", src: "./img/epi.cover1.jpeg", alt: "epigenetics", title: "GWAS", class: "D", content: "GWAS"},
-    { name: "SingleCellAnalysis", src: "img/epi.cover2.jpeg", alt: "epigenetics", title: "SC", class: "M", content: "Single cell"},
+    { name: "GWAS", src: "./img/gwas.png", alt: "epigenetics", title: "GWAS", class: "D", content: "GWAS"},
+    { name: "SingleCellAnalysis", src: "img/sc.png", alt: "epigenetics", title: "SC", class: "M", content: "Single cell"},
     { name: "Spatial", src: "img/stm.cover.jpg", alt: "STM", title: "SG", class: "M", content: "Spatial analysis"},
     { name: "SpatialGenomics", src: "img/MP.cover.png", alt: "MP", title: "SG", class: "W", content: "Spatial genomics seq"}
 ];
