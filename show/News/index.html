@@ -17,9 +17,9 @@ title: News
 			zoom:1;
 		}
 		#main img {
-			width: 500px;
-			height: 500px;
-			margin: 50px 50px 50px 50px;
+			width: 800px;
+			height: 450px;
+			margin: 50px 0 0 50px;
 		}
 		#overlay {
 			display: none;
@@ -67,11 +67,11 @@ title: News
    		mouseY = e.pageY;
 
    		//碰撞检测
-   		if(mouseX-offsetX+width>500){
-   			mouseX = 500 - width + offsetX;			
+   		if(mouseX-offsetX+width>800){
+   			mouseX = 800 - width + offsetX;			
    		}
-   		if(mouseY-offsetY+height>500){
-   			mouseY = 500 - height + offsetY;
+   		if(mouseY-offsetY+height>450){
+   			mouseY = 450 - height + offsetY;
    		}
    		
     	overlay.style.cssText = "display:block;left:"+mouseX+'px'+";top:"+mouseY+'px';
